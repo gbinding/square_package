@@ -1,0 +1,11 @@
+Type: Package
+Package: squared
+Title: Squares Numeric Values
+Version: 0.1
+Date: 2018-10-29
+Author: Garret Binding [aut,cre]
+Maintainer: Garret Binding <binding@ipz.uzh.ch>
+Description: squared squares single numeric values.
+License: GPL (>=2)
+Depends: 
+  R (>= 3.1.0)
