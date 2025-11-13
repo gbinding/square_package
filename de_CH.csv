@@ -1,0 +1,4019 @@
+code,label
+110000100018,Luftwaffenkapitän
+110000200018,Luftwaffenmarschall
+110000300018,Luftwaffenpilot/in
+110000400018,Armeekapitän
+110000500018,Armee Oberst
+110000600018,Armee major
+110000700018,Armeeoffizier
+110000800018,Marinekapitän
+110000900018,Marineleutnant
+110010000000,Offizier/in
+110020000000,Militärischer Befehlshaber/in
+210000100018,Feldwebel
+210000200018,Flugfeldwebel
+210010000000,Feldwebel – Truppendienst
+310000100018,Luftwaffenflieger
+310000200018,Luftwaffenkorporal
+310000300018,Armeekommando
+310000400018,Armeekorporal
+310000500018,Armee-Schütze
+310000600018,Infanterist der Armee
+310000700018,Armee Mortarman
+310000800018,Marine Matrose
+310000900018,Navy U-Boot
+310001000018,Fallschirmjäger/in
+310001100018,Soldat
+310001200018,Panzerbesatzungsmitglied
+310020000000,Luftwaffensoldat/in
+310030000000,Militärwaffenspezialist/in
+310040000000,Offizier/in der Marine
+310050000000,Soldat/in auf Zeit - Laufbahngruppe Mannschaft
+310060000000,Soldat/in in einer Spezialeinheit
+1111000300018,Politiker/in
+1111000500018,Außenminister/in
+1111010000000,Bundestagsabgeordnete/r
+1111020000000,Bürgermeister/in
+1111130000000,Hohe/r Staatsbeamter/Staatsbeamtin
+1111140000018,Gouverneur
+1111150000018,Senator/in
+1112000100018,Botschafter/in
+1112000200018,Stadtverwalter/in
+1112000300018,Diplomatischer Vertreter/in
+1112000400018,Botschaftsvertreter/in
+1112000500018,Botschaftssekretärin
+1112000600018,Feuerwehrkommissar
+1112000700018,Regierungsadministrator
+1112000800018,Leiter/in der Regierungsabteilung
+1112001000018,Administrator der zwischenstaatlichen Organisation
+1112001600018,Polizeibeamter/in
+1112020000000,"Leitende/r Angestellte/r in der öffentlichen Verwaltung, Beamter/Beamtin höherer Dienst"
+1112030000000,Leiter/in öffentliche Verwaltung
+1112040000000,Hohe/r Regierungsbeamter/Regierungsbeamtin
+1112060000000,Diplomat/in
+1114000300018,Gewerkschaftsführer/in
+1114010000000,Hohe/r Funktionär/in einer Arbeitgeberorganisation
+1114020000000,Hohe/r Funktionär/in einer humanitären Organisation Hilfsorganisation
+1114030000000,Hohe/r Parteifunktionär/in
+1114040000000,Hohe/r Funktionär/in einer Interessengemeinschaft
+1114050000000,Hohe/r Gewerkschaftsfunktionär/in
+1120000100018,Vorstandsmitglied
+1120000200018,Vorstandssprecher/in
+1120000300018,Geschäftsführer/in
+1120000400018,Hochschulrektor/in
+1120010000000,"Firmendirektor/in, Vorstandsvorsitzende/r für mehr als 500 Angestellte"
+1120020000000,Geschäftsführer/in für 10-50 Angestellte
+1120030000000,"Firmendirektor/in, Hauptgeschäftsführer/in für 50 - 500 Angestellte"
+1120040000000,Produktions- oder Betriebsleiter/in
+1120060000000,Ingenieur-Betriebsleiter
+1120070000000,Abteilungsleiter/in Reparatur
+1120080000018,Unternehmer/in
+1120100000018,Generaldirektor
+1120110000018,Leiter/in der Gesellschaft
+1211000200018,Finanzvorstand
+1211010000000,Finanzmanager/in
+1211020000000,Abteilungsleiter/in Finanzwesen
+1212000100018,Manager/in für Mitarbeiterbeziehungen
+1212000400018,Personalbewirtschafter/in
+1212010000000,Personalleiter/in
+1212020000000,Leiter/in der Personalabteilung
+1213000200018,Manager/in für Unternehmensplanung
+1213000300018,Leiter/in der Fischereipolitik
+1213000400018,Manager/in Geschäftsplanung
+1213000500018,Manager/in Sozialverwaltung
+1213000700018,Politikkoordinator (Regierung)
+1213000900018,Manager/in für soziale Planung
+1213001000018,Strategischer Planungsmanager/in
+1213020000000,Planungsleiter/in
+1219000200018,Manager/in Reinigungsdienste
+1219000300018,Manager/in Unternehmensdienstleistungen
+1219040000000,Abteilungsleiter/in Haushaltsorganisation
+1219050000000,Dipl.-Betriebswirt/in/Dipl.-Kaufmann/-frau (FH)Verwaltungen
+1219060000000,Leiter/in Verwaltung
+1219980000000,Abteilungsleiter/in (Sonstige)
+1219990000000,Leiter/in für sonstige Unternehmensdienstleistungen oder Verwaltungsaufgaben
+1221000200018,Kaufmännischer Leiter/in
+1221000300018,Exportdirektor/in
+1221000500018,Marketingleiter/in
+1221001000018,Verkaufsleiter/in
+1221020000000,Dipl.-Betriebswirt/in (FH) - Marketing
+1221020100000,Telesales Executive
+1221020200000,Außendienstmitarbeiter/in
+1221020300000,Gebietsverkaufsleiter/in
+1221020400000,Regionaler Verkaufsleiter/in
+1221030000000,Leiter/in Marketingabteilung
+1221040000000,Leiter/in Vertriebsabteilung
+1222000100018,Werbeleiter/in
+1222010000000,Leiter/in Werbung
+1222020000000,Leiter/in der Werbeabteilung
+1222030000000,Leiter/in Kommunikation
+1222040000000,Abteilungsleiter/in Öffentlichkeitsarbeit
+1223000100018,Manager/in klinische Studien
+1223000200018,Leiter produktentwicklung/in
+1223010000000,Forschungs- und Entwicklungsleiter/in
+1223030100000,Leiter/in Unternehmensentwicklung
+1311000100018,Manager/in landwirtschaftliche Produktion
+1311000200018,Manager/in Plantage
+1311000300018,Manager/in Ranch
+1311020000000,Agrarlandwirt/in
+1311040000000,Forstbetriebsleiter/in
+1311060000000,Leiter/in eines Viehzuchtbetriebs
+1311070000000,Betriebsleiter/in - Agrarbetrieb
+1311080000000,Leiter/in von Baumplantagen
+1311090000000,Leiter/in eines Tierzuchtbetriebs
+1311100000000,Tierheimleiter/in
+1312000100018,Trawler-Manager/in
+1312020000000,Fischereimanager/in
+1321000100018,Manager/in Chemieproduktion
+1321000200018,Manager/in Kraftwerk
+1321000300018,Manager/in Wasseraufbereitungsanlage
+1321004100018,Produktionsleiter/in der Ölraffinerie
+1321004200018,Produktionsleiter/in der Erdölraffinerie
+1321004300018,Produktionsleiter für Abfallmanagement
+1321010000000,Produktionsleiter/in
+1321020000000,Leiter/in Fertigungsfabrik
+1322000100018,Manager/in Bergwerk
+1322000200018,Manager/in Steinbruchproduktion
+1322000300018,Produktionscontroller für Bergbau
+1322010000000,Leiter/in Bergbau
+1322020000000,Leiter/in Öl- oder Gasfirma
+1324000100018,Flughafenbetriebsleiter/in
+1324000200018,Busbahnhof-Manager/in
+1324000300018,Distribution Manager/in
+1324000400018,Import- und Exportmanager/in
+1324000500018,Kurier Service Manager/in
+1324000600018,Manager/in Flugbetrieb
+1324000700018,Manager/in Mailvorgänge
+1324000800018,Manager/in Metropolitan Bahnhof
+1324000900018,Manager/in für Postdienste
+1324001000018,Manager/in Bahnbetrieb
+1324001100018,Manager/in Bahnhof
+1324001200018,Manager/in Speicher/in
+1324001300018,Manager/in Transportunternehmen
+1324002100018,Einkaufsleiter/in
+1324002200018,Lagerleiter/in
+1324010000000,Flughafenleiter/in
+1324020000000,Leiter/in eines Auslieferungslagers oder Distributionscenters
+1324030000000,Logistikleiter/in
+1324040000000,Hafendirektor/in
+1324050000000,Leiter/in des öffentlichen Personennahverkehrs
+1324060000000,"Leiter/in Straßen-, Bahn oder Luftverkehr"
+1324070000000,Leiter/in Müllentsorgung oder Recycling
+1324080000000,Leiter/in Energieanlagen
+1324090000000,Einkaufsmanager/in
+1330000100018,Manager/in Computersystemvorgänge
+1330000200018,Internet Service Provider Manager/in
+1330000300018,Manager/in IT-Systementwicklung
+1330000400018,Manager/in Telekommunikationsdienste
+1330010000000,IT-Manager/in
+1330020000000,IT-Leiter/in
+1341000100018,Manager/in außerhalb der Schulstunden Pflege
+1341010000000,Kindertagesstättenleiter/in
+1342000100018,Manager/in Community Gesundheitsdienst
+1342000200018,Manager/in Gesundheitsdienst
+1342001200018,Pflegeleiter/in
+1342001300018,Chefarzt für öffentliche Gesundheit
+1342020000000,Krankenhausleiter/in
+1342030000000,Leiter/in einer Behinderteneinrichtung
+1342040000000,Leiter/in einer psychiatrischen Einrichtung
+1342990000000,"Leiter/in, alle anderen Gesundheitseinrichtungen"
+1343000100018,Pflegeanstaltsleiter/in
+1343000200018,Manager/in Ruhestand Dorf
+1343010000000,Leiter/in eines Altenpflegedienstes
+1344000100018,Manager/in Gemeindezentrum
+1344000200018,Manager/in Sozialdienste
+1344000300016,Leiter/in im Sozialdienst
+1345000700018,Universitätsdekan
+1345000800018,Universitätsabteilungsleiter/in
+1345000900018,FakultätsLeiter/in der Universität
+1345010000000,Leiter/in der Hochschulbildungseinrichtung
+1345020000000,Berufsschuldirektor/in
+1345030000000,Hauptschuldirektor/in
+1345040000000,Grundschuldirektor/in
+1346000100018,Bank leiter/in
+1346000200018,Manager/in Bankfiliale
+1346000300018,Manager/in Niederlassungsversicherung
+1346000400018,Manager/in Bausparkasse
+1346000500018,Leiter/in der Bausparkasse
+1346000600018,Manager/in Credit Union
+1346000700018,Manager/in Credit Union Zweigstelle
+1346000800018,Manager/in Finanzinstitut
+1346000900018,Manager/in Versicherungsgesellschaft
+1346010000000,Bankzweigstellenleiter/in
+1346020000000,Bereichsleiter/in Versicherungsdienstleistungen
+1349000200018,Flugsicherheitsmanager/in
+1349000300018,Manager/in Kunstgalerie
+1349000400018,Manager/in Notdienste
+1349000600018,Manager/in juristische Dienstleistungen
+1349000700018,Manager/in Verlag
+1349002300018,Polizeikommissar/in
+1349002400000,Laborleiter/in
+1349002500000,Archivleiter/in
+1349002600000,Gefängnisleiter/in
+1349002700000,Verleger/in
+1349002800000,Abteilungsleiter/in Technik
+1349030000018,Feuerwehrmanager/in
+1349040000000,Bibliotheksleiter/in
+1349050000000,Museumsleiter/in
+1411000100018,Gastwirt
+1411000200018,Manager/in Pension
+1411000300018,Manager/in Gästehaus
+1411000400018,Manager/in Hostel
+1411000500018,Manager/in Motel
+1411010000000,Hotelmanager/in
+1411020000018,Manager/in Jugendherberge
+1411030000000,Leiter/in einer Herberge oder einer Frühstückspension
+1412000100018,Manager/in Kaffee
+1412000200018,Kantinenleiter/in
+1412000300018,Restaurantleiter/in
+1412000400018,Manager/in Snackbar
+1412010000000,Restaurantchef/in
+1412020000000,Cateringleiter/in
+1412030000000,Küchenleiter/in
+1420000100018,Manager-Rabattgeschäft
+1420000200018,Manager/in Lebensmittelgeschäft
+1420000300018,Manager/in Versandhandel
+1420000400018,Manager/in Selbstbedienungsladen
+1420000500018,Manager/in Shop
+1420000600018,Manager/in Supermarkt
+1420001300018,Einzelhändler/in
+1420010000000,Filialleiter/in
+1420020000000,Großhändler/in
+1420030000000,Filialleiter/in; Verkaufsstellenleiter/in
+1431000100018,Manager/in Freizeitpark
+1431000200018,Manager/in Billardhalle
+1431000300018,Manager/in Kino
+1431000400018,Manager/in Freizeitzentrum
+1431000500018,Manager/in Poolhalle
+1431000600018,Manager/in Reitschule
+1431000700018,Manager/in Snookerhalle
+1431000800018,Manager/in Schwimmbad
+1431000900018,Manager/in Theater/in
+1431010000000,Leiter/in eines Sportzentrums
+1431020000000,Leiter/in einer Erholungseinrichtung
+1431030000000,Leiter/in eines Kulturzentrums
+1431040000000,Leiter/in eines Reitzentrums
+1431050000000,Leiter/in eines Freizeitparks
+1431080000000,Leiter/in einer religiösen Einrichtung
+1431110000000,Casino- oder Wettbürogeschäftsführer/in
+1431130000000,Zeitschriften- oder Zeitungsmanager/in
+1439000100018,Manager/in Campingplatz
+1439000200018,Manager/in Caravan Park
+1439000300018,Manager/in Konferenzzentrum
+1439010000000,Call-Center Manager/in
+1439020000000,Leiter/in Einkaufszentrum
+1439030000000,Reisebürokaufmann/frau
+1439990000000,Leiter/in für sonstige Dienstleistungen
+2111000100018,Astronom
+2111000200018,Ballistiker/in
+2111001000018,Atomphysiker/in
+2111001100018,Radioastronom
+2111001200018,Thermodynamiker/in
+2111010000000,Physiker/in
+2111020000000,Physiker/in und verwandte Tätigkeiten
+2112010000000,Meteorologe/in
+2112020000000,Klimatologe/in
+2113000100018,Chemieforscher/in
+2113000200018,Kristallograph/in
+2113000300018,Industriechemiker/in
+2113000600018,Forschungschemiker/in
+2113010000000,Chemiker/in
+2113020000000,Erdölchemiker/in
+2113030000000,Pharmazeutische/r Chemiker/in
+2113040000000,Textilchemiker/in
+2113050000000,Qualitätskontrolleur/in / Inspekteur/in für chemische Produkte
+2113060000000,Qualitätskontrolleur/in / Inspekteur/in für pharmazeutische Erzeugnisse
+2114000100018,Erdwissenschaftler/in
+2114000200018,Hydrologe/in
+2114000300018,Paläontologe/in
+2114000400018,Seismologe/in
+2114000500018,Vulkanologe/in
+2114010000000,"Geologe/in, Geophysiker/in"
+2114040000000,Bergbaugeologe/in
+2114050000000,Öl- oder Gasgeologe/in
+2120000100018,Biometriker/in
+2120010000000,Mathematiker/in
+2120010000018,Biomechaniker/in
+2120030000000,Statistiker/in
+2120040000000,Demograph/in
+2120050000000,Prozessanalytiker/in
+2120060000000,Prognostiker/in für Energiebedarf
+2120200000000,"Versicherungsfachmann/frau, Versicherungsmathematiker/in"
+2131000100018,Anatom
+2131000200018,Biomedizinischer Forscher/in
+2131000300018,Botaniker/in
+2131000400018,Klinischer Forscher/in
+2131000500018,Gesundheitswissenschaftler/in
+2131000600018,Hydrobiologe/in
+2131000700018,Immunologe/in
+2131000800018,Mammalogist
+2131000900018,Meeresbiologe/in
+2131001000018,Medizinischer wissenschaftlicher Mitarbeiter/in
+2131001100018,Mikrobiologe/in
+2131001200018,Hebammenforscher/in
+2131001300018,Molekularbiologe/in
+2131001400016,Mitarbeiter/in in der klinischen Forschung
+2131001800018,Pflegeforscher/in
+2131001900018,Parasitologe/in
+2131002000018,Physiologe/in
+2131002100018,Zoologe/in
+2131010000000,Epidemiologe/in
+2131020000000,Genetiker/in
+2131030000000,Biotechnologe/in
+2131040000000,Toxikologe/in
+2131050000000,Biologe/in
+2131050000018,Biochemiker/in
+2131060000000,Bakteriologe/in
+2131070000000,Pharmakologe/in
+2132000100018,Agraringenieur/in
+2132000200018,Landwirtschaftlicher Erweiterungsoffizier/in
+2132000400018,Pflanzenbauberater/in
+2132000500018,Ernteforscher/in
+2132000600018,Farm Management Berater/in
+2132000700018,Forstwissenschaftler/in
+2132000800018,Gartenwissenschaftler/in
+2132000900018,Tierzuchtberater/in
+2132010000000,Landwirtschaftsberater/in
+2132020000018,Bodenwissenschaftler/in
+2132030000000,Berater/in Fischereiwirtschaft
+2132050000000,Waldpflegeberater/in
+2132060000000,Agrarwissenschaftler/in
+2133000100018,Luftverschmutzungsanalytiker/in
+2133000200018,Luftqualitätswissenschaftler/in
+2133000300018,Revierverwalter/in
+2133000400018,Naturschutzwissenschaftler/in
+2133000500018,Ökologischer Berater/in
+2133000600018,Umweltschutzrevisor/in
+2133000700018,Umweltberater/in
+2133000800018,Verantwortlicher für das Management natürlicher Ressourcen
+2133001600018,Salzgehalt-Forscher/in
+2133001700018,Bodenschützer/in
+2133001800018,Vegetationsmanagementoffizier/in
+2133001900018,Wasserqualitätsanalytiker/in
+2133002000018,Wissenschaftler für Wasserqualität
+2133002100018,Forscher für Wasserressourcen
+2133002200018,Wasserstraßen-Managementoffizier/in
+2133010000000,Umwelttechniker/in
+2133020000000,Umweltwissenschaftler/in
+2133030000018,Ökologe/in
+2141000100018,Ingenieur/in für Lebensmittelverarbeitung
+2141000200018,Industrieanlageningenieur/in
+2141000300018,Fertigungsprozessingenieur/in
+2141000500018,Verpackungstechnologe/in
+2141000600018,Arbeitsstudien Ingenieur/in
+2141010000000,Industrieingenieur/in
+2141020000000,Produktionsingenieur/in
+2141030000000,Gesundheits- oder Sicherheitsingenieur/in
+2141040000000,Logistikingenieur/in
+2141060000000,Planungsingenieur/in
+2141070000000,Markenmanager/in
+2142000100018,Baustofftechnologe/in
+2142000300018,Geotechnischer Ingenieur/in
+2142000400018,Bewässerungsingenieur/in
+2142002400018,Ingenieur/in für öffentliche Gesundheit
+2142002500018,Hygienetechniker/in
+2142002600018,Tragwerkplaner/in
+2142010000000,Ingenieur/in
+2142020000000,Bauingenieur/in
+2142030000000,Baggeringenieur/in
+2142040000000,Ingenieur/in für Boden- und Wasserschutz
+2142050000000,Hydraulikingenieur/in
+2143000100018,Luftverschmutzungsberater/in
+2143000800018,Abwasser Prozessingenieur/in
+2143010000000,Umweltingenieur/in
+2144000100018,Flugtechniker/in
+2144000200018,Ingenieur/in für landwirtschaftliche Maschinen
+2144000300018,Klimaingenieur/in
+2144000400018,Flugzeugdesigner/in
+2144000500018,Dieselingenieur/in
+2144000700018,Gasturbineningenieur/in
+2144000800018,Jet Engine Engineer/in
+2144000900018,Marinearchitekt/in
+2144001000016,Mechatroniker/in
+2144001100018,Motordesigner/in
+2144001200018,Schiffahrtsingenieur/in
+2144002800018,Schiffsbauingenieur/in
+2144002900018,Schweißtechniker/in
+2144010000000,Maschinenbauingenieur/in
+2144020000000,Flugzeugingenieur/in
+2144030000000,KFZ Ingenieur/in
+2144050000000,Marineingenieur/in
+2144060000000,Wärmetechnikingenieur/in
+2144080000000,Luft- und Raumfahringenieur/in
+2145000100018,Braumeister/in
+2145000200018,Fasertechnologe/in
+2145000900018,Farbtechnologe/in
+2145001000018,Papiertechnologe/in
+2145001100018,Erdölraffinerieingenieur/in
+2145001200018,Kunststofftechnologe/in
+2145001300018,Polymertechnologe/in
+2145001400018,Raffinerie Prozessingenieur/in
+2145001500018,Gummitechnologe/in
+2145001600018,Reifentechnologe/in
+2145001700018,Kellermeister/in
+2145010000000,Chemieingenieur/in
+2145020000000,Techniker/in Lebensmittel (Verarbeitungstechnik)
+2146001200018,Ingenieur/in für Erdölgewinnung
+2146010000000,Bergbauingenieur/in
+2146020000000,Matallurg(e/in)
+2149000100018,Biomedizinischer Ingenieur/in
+2149000200018,Zement-Technologe/in
+2149000300018,Keramik Ingenieur/in
+2149000400018,Kostenbewertungsingenieur/in
+2149000500018,Glastechnologe/in
+2149000600018,Technologe aus Leder/in
+2149000700018,Marine Bergungsingenieur/in
+2149001400018,Nuklearenergietechniker/in
+2149001500018,Optischer Ingenieur/in
+2149001600018,Robotiktechniker/in
+2149001700018,Betriebssicherheitsingenieur/in
+2149001800018,Verkehrsingenieur/in
+2149010000000,Vermesser/in
+2149020000000,Werkstoffingenieur/in
+2149040000018,Textilien Technologe/in
+2151000100018,Autodesigner/in
+2151000200018,Elektromechaniker/in
+2151000300018,Ingenieur/in für Hochspannung
+2151001200018,Energieverteilungsingenieur/in
+2151001300018,Energieerzeugungsingenieur/in
+2151001400018,Bahnsignalingenieur/in
+2151010000000,Elektroingenieur/in
+2152001300018,Halbleiter Ingenieur/in
+2152010000000,Elektronikingenieur/in
+2153000100018,Rundfunkingenieur/in
+2153000600018,Radaringenieur/in
+2153000700018,Radioingenieur/in
+2153000800018,Signalanlagenbauer/in
+2153000900018,Telefoningenieur/in
+2153001000018,TV-Ingenieur/in
+2153010000000,Telekommunikationsingenieur/in
+2161000100018,Innenarchitekt/in
+2161000500018,Architekt/in
+2161010000000,Bauarchitekt/in
+2162000100018,Golfplatz-Designer/in
+2162010000000,Landschaftsarchitekt/in
+2162020000000,Gartenarchitekt/in
+2163000100018,Kostümzeichner/in
+2163000200018,Dessin Designer/in
+2163000400018,Textil designer/in
+2163000600018,Bekleidungsdesigner/in
+2163000700018,Schmuckentwerfer/in
+2163000800018,Designer aus Lederwaren
+2163000900018,Produkt designer/in
+2163001000018,Schuhdesigner/in
+2163010000000,Produktdesigner/in
+2163020000000,Modedesigner/in
+2163030000000,"Stylist/in, Modeberater/in"
+2163040000000,Industriedesigner/in
+2163050000000,Verpackungsdesigner/in
+2163060000000,Textildesigner/in
+2163070000000,Möbeldesigner/in
+2164000500016,Bauträger/in
+2164001000018,Verkehrsplaner/in
+2164010000000,Stadtplaner/in
+2164020000018,Transportplaner/in
+2164030000000,Schiffplaner/in
+2165000100018,Luftingenieur/in
+2165000200018,Luftbildvermesser/in
+2165000300018,Katastervermesser/in
+2165000400018,Kartografischer Editor/in
+2165000500018,Geodät
+2165000600018,GIS-Beauftragter/in
+2165000700018,Hydrographischer Vermesser/in
+2165000800018,Kartenhersteller/in
+2165000900018,Grubenvermesser/in
+2165001200018,Fotografischer Vermesser/in
+2165001300018,Geodatenanalytiker/in
+2165001400018,Räumlicher Wissenschaftler/in
+2165001500018,Topographischer Vermesser/in
+2165010000000,Kartograf/in
+2165020000000,Vermessungstechniker/in
+2166000100016,Animationsdesigner/in
+2166000200016,Trickfilmzeichner/in
+2166000300018,Buchillustrator/in
+2166000400018,Werbegrafiker/in
+2166000500018,Computerspiele-Designer/in
+2166000600018,Digital Artist
+2166000900018,Multimedia-Autor
+2166001400018,Plakatzeichner/in
+2166001500018,Publikationsdesigner/in
+2166010000000,Grafikdesigner/in
+2166020000000,Multimedia-Designer/in
+2166030000000,Webdesigner/in
+2166040000000,Illustrator/in
+2166050000018,Typografischer Designer/in
+2211000100016,Versicherungsarzt/-ärztin
+2211000200018,Gerichtsarzt/-ärztin
+2211010000000,Facharzt/Fachärztin für Allgemeinmedizin; Hausarzt/Hausärztin
+2211040000000,Betriebsarzt/-ärztin
+2212000100016,Balneologe/in
+2212000200018,Kardiologiechirurg
+2212000300018,Klinische/r Pathologe/in
+2212000400018,Hautarzt/-ärztin
+2212000500016,Diabetologe/in
+2212000600018,Hals-Nasen-Ohrenarzt/-ärztin
+2212000700018,Facharzt für Notfallmedizin
+2212000800016,Endokrynologe/in
+2212000900018,Forensischer Pathologe/in
+2212001000016,Allgemeinmediziner für Erwachsene
+2212001100016,Hausarzt/-ärztin für Kinder (Kinderarzt)
+2212001200016,Geriater/in
+2212001300016,Hämatologe/in
+2212001400016,"Immunologe/in, Allergologe/in"
+2212001500016,Infektologe/in
+2212001600018,Intensivspezialist/in
+2212001700018,Internist/in
+2212001900018,Spezialist für medizinische Bildgebung
+2212002000016,Neonatologe/in
+2212004300016,Onkologe/in
+2212004400018,Augenarzt/-ärztin
+2212004500016,Orthopädischer Chirurg/in
+2212004600016,Othorynolaryngologist
+2212004700018,Kinderarzt/-ärztin
+2212004800016,Pneumologe/in
+2212004900016,Rheumatologe/in
+2212005000016,Sexuologe/in
+2212005100016,Spezialist für Nuklearmedizin
+2212005200018,Fachärzte (öffentliches Gesundheitswesen)
+2212005300018,Sportarzt/-ärztin
+2212010000000,Anästhesist/in
+2212020000000,Gynäkologe/in
+2212030000000,Psychiater/in
+2212040000000,Chirurg/in
+2212050000000,Urologe/in
+2212060000000,Pathologe/in
+2212080000000,Gastroenterologe/in
+2212130000000,"Hygienist-, Gesundheits-Offizier/in"
+2212160020316,Interner Spezialist/in
+2212170000000,Kardiologe/in
+2212180000000,Haut Spezialist/in
+2212210000000,Neurologe/in
+2212220000000,Optische Spezialist/in
+2212260000000,Plastische/r Chirurg/in
+2212320000000,Zahnarzt/-ärztin-Chirurg/in
+2212350000000,Radiologe/in
+2212990000000,Andere Fachärzte/Fachärztinnen
+2221000100018,Zertifizierte Krankenschwester/in
+2221000200018,Klinische Krankenschwester/in
+2221000300018,Klinischer Krankenschwester Berater/in
+2221000400018,Krankenschwester (zertifiziert)
+2221005000018,Krankenschwester Anästhesist
+2221005100018,Krankenschwester Erzieher/in
+2221005300018,Geburtshilfe Krankenschwester (zertifiziert)
+2221005400018,Krankenschwester für Arbeitsmedizin (zertifiziert)
+2221005500018,Orthopädische Krankenschwester/in
+2221005600018,Kinderkrankenschwester (zertifiziert)
+2221005700018,Krankenschwester/in
+2221005800018,Staatlich geprüfte Krankenschwester/in
+2221005900018,Spezialist Krankenschwester/in
+2221020000000,Stationsschwester/-pfleger/in
+2221030000000,Kinderkrankenschwester/-pfleger/in
+2221050000000,Bezirkskrankenschwester/-pfleger/in
+2221060000000,Krankenschwester/Krankpfleger /in
+2221070000000,"Intensiv-, Reha-Schwester/-Pfleger/in"
+2221090000000,Krankenschwester/-pfleger in der Psychatrie
+2221110000000,OP-Schwester/-pfleger/in
+2222010000000,Hebamme (f) / Entbindungspfleger (m)
+2222010000018,Hebammenlehrer/in
+2230000100018,Akupunkteur
+2230000200018,Praktiker der chinesischen Medizin
+2230000300018,Hypnotherapeutin
+2230010000000,Homöopath/in
+2240000100018,Klinischer paramedizinischer Offizier/in
+2240000300018,Chirurgischer Techniker/in
+2240010000018,Paramedizinische Praktiker/in
+2250000400018,Tierarzt/in
+2250000500018,Veterinärwissenschaftler/in
+2250010000000,Veterinär/in
+2261000200018,Kieferchirurgen
+2261000300018,Orthodontist/in
+2261000400018,Stomatologist
+2261010000000,Zahnarzt/-ärztin
+2262000100018,Apotheke ausgeben
+2262000200018,Krankenhausapotheker/in
+2262000300018,Industriepharmazeut
+2262000500018,Apotheker/in
+2262000600018,Apotheke intern
+2262010000000,Apotheker/in im Krankenhaus oder in einem Unternehmen
+2262020000000,"Apotheker/in, pharmazeutischer Leiter/in"
+2263000100018,Umweltgesundheitsberater/in
+2263000800018,Gesundheitsbeauftragter/in
+2263000900018,Berater/in für Strahlenschutz
+2263010000000,Arbeitsschutzkoordinator/in
+2264000100018,Geriatrischer Therapeut/in
+2264000800018,Orthopädischer Therapeut/in
+2264000900018,Pädiatrischer Therapeut/in
+2264010000000,Physiotherapeut/in
+2264030000000,Atmungstherapeut/in
+2264050000000,Motopäde/in
+2265000100018,Klinischer diätologe/in
+2265000200018,Ernährungsberater/in
+2265000600018,Ernährungsberater für öffentliche Gesundheit
+2265000700018,Sporternährungsberater/in
+2265010000000,"Diätassistent/in, Ernährungsberater/in"
+2265040000013,Ökotrophologe/in
+2266010000000,Audiologe/Audiologin
+2266020000000,Sprachtherapeut/in; Logopäde/in
+2266030000013,Hörgeräteakustiker/in
+2267010000000,Augenoptiker/in - Meister/in
+2267030000000,Kontaktlinsen Spezialist/in
+2269000100018,Blinder Therapeut/in
+2269000200018,Tanztherapeut/in
+2269000300018,Musiktherapeut/in
+2269020000000,"Fußpfleger/in, Podologe/in"
+2269030000000,Osteopath/in
+2269040000000,Freizeittherapeut/in
+2269050000000,Heilender Turner/in
+2269060000000,Chiropraktiker/in
+2269120000000,Arbeitstherapeut/in
+2310000100018,Hochschullehrer/in (postsekundärer Unterricht)
+2310000200018,Professor
+2310000300018,Psychometriker/in
+2310000400016,Studentische Hilfskraft
+2310000500018,Dozent an der Universität
+2310000600018,Hochschulprofessor
+2310000700018,Lektor/in universität
+2310000800018,Universitätslehrer/in
+2310010000000,"Lehrer/in für Agrarwesen, Natur, Tiere, Umweltwissenschaften an weiterführender Bildungseinrichtung"
+2310020000000,Lehrer/in für Informatik und Mathematik an weiterführender Bildungseinrichtung
+2310030000000,"Lehrer/in für Volkswirtschaft, Betriebswirtschaft und Unternehmensführung an weiterführender Bildungseinrichtung"
+2310040000000,"Lehrer/in für Ingenieurwesen, Transport und Logistik an weiterführender Bildungseinrichtung"
+2310050000000,Lehrer/in für Gesundheitswissenschaften an weiterführender Bildungseinrichtung
+2310060000000,Lehrer/in für Geisteswissenschaften an weiterführender Bildungseinrichtung
+2310070000000,"Lehrer/in für Journalismus, Medien und Kommunikation an weiterführender Bildungseinrichtung"
+2310080000000,Lehrer/in für Recht und öffentliche Verwaltung an weiterführender Bildungseinrichtung
+2310090000000,"Lehrer/in für Freizeitwissenschaft, Tourismus und Gastronomie an weiterführender Bildungseinrichtung"
+2310100000000,Lehrer/in für Natur- und Biowissenschaften an weiterführender Bildungseinrichtung
+2310120000000,Lehrer/in für andere Fachgebiete an weiterführender Bildungseinrichtung
+2310130000000,"Lehrer/in für Psychologie, pädagogische Fachgebiete an weiterführender Bildungseinrichtung"
+2310140000000,Lehrer/in für Sozialarbeit an weiterführender Bildungseinrichtung
+2310150000000,"Universitätsdozent/in für Agrarwesen, Natur, Tiere, Umweltwissenschaften"
+2310160000000,Universitätsdozent/in für Informatik und Mathematik
+2310170000000,"Universitätsdozent/in für Volkswirtschaft, Betriebswirtschaft und Unternehmensführung"
+2310180000000,"Universitätsdozent/in für Ingenieurwesen, Transport und Logistik"
+2310190000000,Universitätsdozent/in für Gesundheitswissenschaften
+2310200000000,Universitätsdozent/in für Geisteswissenschaften
+2310210000000,"Universitätsdozent/in für Journalismus, Medien und Kommunikation"
+2310220000000,Universitätsdozent/in für Recht und öffentliche Verwaltung
+2310230000000,"Universitätsdozent/in für Freizeitwissenschaft, Tourismus und Gastronomie"
+2310240000000,Universitätsdozent/in für Natur- und Biowissenschaften
+2310260000000,Universitätsdozent/in für ein anderes Fachgebiet
+2310270000000,"Universitätsdozent/in für Psychologie, pädagogische Fachgebiete an weiterführender Bildungseinrichtung"
+2310280000000,Universitätsdozent/in für Sozialarbeit
+2310290000000,"Professor/in für Agrarwesen, Natur, Tiere, Umweltwissenschaften"
+2310300000000,Professor/in für Informatik und Mathematik
+2310310000000,"Professor/in für Volkswirtschaft, Betriebswirtschaft und Unternehmensführung"
+2310320000000,"Professor/in für Ingenieurwesen, Transport und Logistik"
+2310330000000,Professor/in für Gesundheitswissenschaften
+2310340000000,Professor/in für Geisteswissenschaften
+2310350000000,"Professor/in für Journalismus, Medien und Kommunikation"
+2310360000000,Professor/in für Recht und öffentliche Verwaltung
+2310370000000,"Professor/in für Freizeitwissenschaft, Tourismus und Gastronomie"
+2310380000000,Professor/in für Natur- und Biowissenschaften
+2310400000000,Professor/in für ein anderes Fachgebiet
+2310410000000,"Professor/in für Psychologie, pädagogische Fachgebiete an weiterführender Bildungseinrichtung"
+2310420000000,Professor/in für Sozialarbeit
+2310430000000,"Mitarbeiter/in im Bereich Agrarwesen, Natur, Tiere, Umweltwissenschaften"
+2310430000099,Wissenschaftliche/r Mitarbeiter/in (Sonstige)
+2310440000000,Mitarbeiter/in im Bereich Informatik und Mathematik
+2310450000000,"Mitarbeiter/in im Bereich Volkswirtschaft, Betriebswirtschaft und Unternehmensführung"
+2310460000000,"Mitarbeiter/in im Bereich Ingenieurwesen, Transport und Logistik"
+2310470000000,Mitarbeiter/in im Bereich Gesundheitswissenschaften
+2310480000000,Mitarbeiter/in im Bereich Geisteswissenschaften
+2310490000000,"Mitarbeiter/in im Bereich Journalismus, Medien und Kommunikation"
+2310500000000,Mitarbeiter/in im Bereich Recht und öffentliche Verwaltung
+2310510000000,"Mitarbeiter/in im Bereich Freizeitwissenschaft, Tourismus und Gastronomie"
+2310520000000,Mitarbeiter/in im Bereich Natur- und Biowissenschaften
+2310540000000,Mitarbeiter/in für ein anderes Fachgebiet
+2310550000000,"Mitarbeiter/in im Bereich Psychologie, pädagogische Fachgebiete"
+2310560000000,Mitarbeiter/in im Bereich Sozialarbeit
+2310570000000,"Doktorand/in im Bereich Agrarwesen, Natur, Tiere, Umweltwissenschaften"
+2310580000000,Wissenschaftliche/r Mitarbeiter/in im Bereich Informatik und Mathematik
+2310590000000,"Doktorand/in im Bereich Volkswirtschaft, Betriebswirtschaft und Unternehmensführung"
+2310600000000,"Wissenschaftliche/r Mitarbeiter/in im Bereich Ingenieurwesen, Transport und Logistik"
+2310610000000,Doktorand/in im Bereich Gesundheitswissenschaften
+2310620000000,Doktorand/in im Bereich Geisteswissenschaften
+2310630000000,"Doktorand/in im Bereich Journalismus, Medien und Kommunikation"
+2310640000000,Wissenschaftliche/r Mitarbeiter/in im Bereich Recht und öffentliche Verwaltung
+2310650000000,"Doktorand/in im Bereich Freizeitwissenschaft, Tourismus und Gastronomie"
+2310660000000,Doktorand/in im Bereich Natur- und Biowissenschaften
+2310680000000,Doktorand/in im Bereich eines anderen Fachgebiets
+2310690000000,"Doktorand/in im Bereich Psychologie, pädagogische Fachgebiete"
+2310700000000,Wissenschaftliche/r Mitarbeiter/in im Bereich Sozialarbeit
+2320000100018,Ausbilder für Kraftfahrzeugtechnik
+2320000200018,Kunstgewerbelehrer/in
+2320001000018,Trades Ausbilder/in
+2320001100018,Berufsausbilder/in
+2320001200018,lehrer/in für berufliche Bildung
+2320010000000,Berufsschullehrer/in für Fächer aus dem Bereich Agrar- und Tierwissenschaften
+2320020000000,Berufsschullehrer/in für Fächer aus dem Bereich Informatik und Mathematik
+2320030000000,"Berufsschullehrer/in für Fächer aus dem Bereich Volkswirtschaft, Betriebswirtschaft und Unternehmensführung"
+2320040000000,Berufsschullehrer/in für Fächer aus dem Bereich Erziehungswissenschaften und Lehrerausbildung
+2320050000000,"Berufsschullehrer/in für Fächer aus dem Bereich Ingenieurwesen, Produktion und Konstruktion"
+2320060000000,"Berufsschullehrer/in für allgemeine Programme, kein bestimmtes Fachgebiet"
+2320070000000,Berufsschullehrer/in für Fächer aus dem Bereich Gesundheits- und Sozialwesen
+2320080000000,"Berufsschullehrer/in für Fächer aus dem Bereich Geisteswissenschaften, Sprachen und Kunst"
+2320090000000,Berufsschullehrer/in für Fächer aus dem Bereich Recht und öffentliche Verwaltung
+2320100000000,Berufsschullehrer/in für Fächer aus dem Bereich Natur- und Biowissenschaften
+2320110000000,"Berufsschullehrer/in für Fächer aus dem Bereich Sozialarbeit, Sozialwissenschaften"
+2320990000000,Berufsschullehrer/in für Fächer aus anderen Bereichen
+2330000100018,Gymnasiallehrer/in (Sekundarschule)
+2330010000000,"Lehrer/in für Fächer aus dem Bereich Agrarwesen, Tierwissenschaften in der Sekundarstufe"
+2330020000000,Lehrer/in für Fächer aus dem Bereich Informatik und Mathematik in der Sekundarstufe
+2330030000000,"Lehrer/in für Fächer aus dem Bereich Volkswirtschaft, Betriebswirtschaft, Unternehmensführung in der Sekundarstufe"
+2330040000000,Lehrer/in für Fächer aus dem Bereich Erziehungswissenschaften und Lehrerausbildung in der Sekundarstufe
+2330050000000,"Lehrer/in für Fächer aus dem Bereich Ingenieurwesen, Produktion und Konstruktion in der Sekundarstufe"
+2330060000000,Lehrer/in für allgemeine Programme/ohne bestimmtes Fachgebiet in der Sekundarstufe
+2330070000000,Lehrer/in für Fächer aus dem Bereich Gesundheits- und Sozialwesen in der Sekundarstufe
+2330080000000,"Lehrer/in für Fächer aus dem Bereich Geisteswissenschaften, Sprachen und Kunst in der Sekundarstufe"
+2330090000000,Lehrer/in für Fächer aus dem Bereich Recht und öffentliche Verwaltung in der Sekundarstufe
+2330100000000,Lehrer/in für Fächer aus dem Bereich Natur- und Biowissenschaften in der Sekundarstufe
+2330120000000,"Lehrer/in für Fächer aus dem Bereich Sozialarbeit, Sozialwissenschaften in der Sekundarstufe"
+2330990000000,Sonstige Lehrer/in Hauptschulen
+2341000100018,Grundschullehrer/in und Schulleiter/in
+2341010000000,Primarschullehrer/in
+2342000100018,Kindergartenpädagoge/in
+2342000200016,"Lehrer/in des Primar-, Vorschulbereiches"
+2342010000000,Kleinkinderzieher/in
+2351000100018,Lehrplankoordinator
+2351000200018,Lehrplanentwickler/in
+2351000300018,Bildungsberater/in
+2351001000016,Schulorganisator
+2351010000000,Didaktikfachmann/frau
+2351030000000,Schulinspektor/in
+2351140000000,Bildungsadministrator/in
+2352000100018,Lehrer/in für Lehrunterricht
+2352000200018,Lehrer/in für Alphabetisierungsunterstützung
+2352000900018,Lehrer/in für die Unterstützung der Numerik
+2352001000018,Sonderschullehrer/in
+2352001100018,Sonderpädagoge/in
+2352001200018,Lehrer/in für Blinde
+2352001300018,Lehrer/in für Gehörlose
+2352001400018,Lehrer/in für den Dummkopf
+2352001500018,Lehrer/in für geistig Behinderte
+2352001600018,Lehrer/in für Körperbehinderte
+2352001700018,Lehrer/in für begabte Kinder/in
+2352010000000,Sonderschullehrer/in Grundschule
+2352020000000,Lehrer/in für Förderunterricht an höheren Schulen
+2352030000000,Lehrer/in für Förderunterricht
+2352040000000,Sonderpädagoge/in (Sonstige)
+2353000100018,Fremdsprachenlehrer/in
+2353000200018,Intensivsprachlehrer/in
+2353000300018,Sprachlehrer/in (nach der Schule)
+2353000400018,Sprachlehrer/in (Nachhilfe)
+2353000500018,Migrationslehrer/in
+2353010000000,Lehrer/in Erst-/Zweitsprachenerwerb
+2353990000000,Sonstige/r Sprachlehrer/in
+2354000100018,Gitarrentutor (Privatunterricht)
+2354000200018,Musiklehrer/in (Privatunterricht)
+2354000500018,Klavierlehrer/in (Privatunterricht)
+2354000600018,Gesangslehrer/in (Nachhilfe)
+2354000700018,Geigenlehrer/in (Privatunterricht)
+2354000800018,Stimmtrainer/in
+2354010000000,Musiklehrer/in (Grund- und weiterführende Schule)
+2355000100018,Tanzpädagoge/in
+2355000300018,Mallehrer/in (Nachhilfe)
+2355000400018,Nachhilfelehrer/in (Privatunterricht)
+2355010000000,Sonstige/r Kunstlehrer/in
+2355020000000,Schauspiellehrer/in
+2356000100018,Computertrainer/in
+2356000200018,IT-Internet-Trainer/in
+2356010000000,IT-Trainer/in
+2359000100018,Verhalten Mentor
+2359000200018,Kalligraphie Lehrer/in
+2359000300018,Chemielehrer/in (Privatunterricht)
+2359000400018,Nachhilfelehrer/in
+2359000500018,Hochschulratgeber/in
+2359000600018,Trainer/in debattieren
+2359000700018,Schneiderlehrer/in (Privatunterricht)
+2359000800018,Alphabetisierungslehrer/in (Privatunterricht)
+2359000900018,Mathematiklehrer/in (nach der Schule)
+2359001000018,NachhilfeLehrer/in für Mathematik (Privatunterricht)
+2359003200018,Studienberater/in
+2359010000000,Sportlehrer/in
+2359060000000,Schul- oder Jugendsozialarbeiter/in
+2411000100018,Berater für Buchhaltung
+2411000200016,Buchhalter/in - gechartert und zertifiziert
+2411000400016,Buchhalter/in - Universität qualifiziert
+2411000500018,Wirtschaftsprüfer/in
+2411000600018,Konkursprüfer/in
+2411000700018,Kohlenstoff-Buchhalter/in
+2411000800016,Geprüfter Buchhalter/in
+2411000900018,Liquidator der Gesellschaft
+2411001000018,Finanz-Controller/in
+2411001100018,Finanzieller Liquidator
+2411001200018,Insolvenzprüfer/in
+2411001300018,Insolvenzverwalter/in
+2411001400018,Controller/in
+2411002700018,Qualitätsbeauftragter/in
+2411002800018,Schiffsverfolger/in
+2411003000018,Schulungs- und Compliance-Beauftragter/in
+2411003100018,Schatzmeister/in
+2411010000000,"Dipl. Kaufmann/frau, Dipl. Betriebswirt/in"
+2411020000000,Richtlinienbeauftragte/r
+2411040000000,Innenrevisor/in
+2412000100018,Immobilienplaner/in
+2412000200018,Finanzplaner/in
+2412001200018,Berater für Immobilieninvestitionen
+2412001300018,Superannuation-Berater/in
+2412001400018,Vermögensberater/in
+2412010000000,Finanzberater/in
+2413000100018,Bond-Analyst
+2413000200018,Investmentanalyst
+2413000800018,Wertpapiere berater/in
+2413010000000,Finanzanalyst/in
+2421000100018,Manager/in für Geschäftsänderungen
+2421000200018,Analyst für Geschäftsentwicklung
+2421000300018,Kostenanalytiker/in
+2421000400018,Logistik-Analyst
+2421000500018,Management-Analyst
+2421000600018,Management berater/in
+2421002900018,Organisations- und Methodenanalytiker/in
+2421003000018,Qualitätsprüfer (Dienstleistungsprodukte)
+2421003100018,Lieferkettenanalyst
+2421003200018,Lieferkettenplaner/in
+2421010000000,Management-Consultant
+2421020000000,Unternehmensspezialist/in
+2422000100018,Filmzensur
+2422000200018,Regierungszensur
+2422000300018,Berater für Gesundheitsplanung
+2422000400018,Intelligence-Analyst
+2422001800018,Parlamentarische Forschungsoffizier/in
+2422001900018,Richtlinienanalytiker/in
+2422002000016,Polizist
+2422002200016,Programmoffizier/in
+2422002300016,Projektreferent
+2422002400018,Öffentlicher Politikberater/in
+2422002500018,Berater für Sicherheitspolitik
+2422002600018,Berater für Sozialpolitik
+2422020000000,Politische(r) Berater/in
+2423000100018,Beschäftigungsberater/in
+2423000300018,Beschäftigungsinterviewer/in
+2423000500018,Human resource experte/in
+2423000600018,Schiedsrichter für Arbeitsbeziehungen
+2423001900018,Berufsanalytiker/in
+2423002000018,Berufsberater/in
+2423002100018,"Außenvermittlungsexperte, Outplacement"
+2423002300018,Personalspezialist/in
+2423002400018,Einstellungsverantwortliche/r
+2423002600018,Arbeitsvermittler/in
+2423010000000,Karriereberater/in
+2423020000000,Referent/in Arbeitsbeziehungen
+2423030000000,Jobanalytiker/in
+2423050000000,Personalsachbearbeiter/in
+2423060000000,Personalberater/in
+2424000200018,Personalentwickler/in
+2424000300018,Personalentwicklungstrainer/in
+2424000400016,Mitarbeiter im Bereich Weiterbildung und Personalentwicklung
+2424000500018,Spezialist für Personalentwicklung
+2431000100018,Account Manager/in Marketing
+2431000200018,Manager/in für Werbekonten
+2431000400018,Marktforschungsanalytiker/in
+2431000500018,Vertriebsberater/in
+2431010000000,Werbefachmann/frau
+2431020000000,"Marketing-Experte/Expertin, Vertriebsexperte/Vertriebsexpertin"
+2431030000000,Kundenbetreuer/in in einer Werbeagentur
+2431040000000,Werbetexter/in
+2431060000000,Werbedesigner/in
+2431070000000,Kommunikationsfachmann/frau
+2431080000000,Marktanalytiker/in
+2431090000000,Internethändler/in
+2431100000000,Marktforscher/in
+2432000100016,Kampagnenoffizier/in
+2432000200018,"Berater, Kommunikation"
+2432000300018,Berater für Beziehungen der Gemeinschaft
+2432000400018,Texter Öffentlichkeitsarbeit
+2432000600018,Berater für Unternehmensangelegenheiten
+2432000700018,Lobbyist
+2432000800018,Medienberater/in
+2432000900018,Berater für Medienarbeit
+2432001200018,Pressereferent
+2432001300018,Pressesekretär/in
+2432001400018,Beamter für öffentliche Angelegenheiten
+2432001500018,Beamter der öffentlichen Information
+2432001600018,Public Relations Account Executive
+2432001800018,Publizist
+2432001900018,Werbeagent
+2432010000000,Referent/in für Öffentlichkeitsarbeit
+2432010127600,PR-Berater/in
+2433000100018,Verkaufsberater für Engineering
+2433000200018,Medizinischer Verkaufsagent
+2433001000018,Sales Account Manager/in (Industrieprodukte)
+2433001100018,Sales Account Manager/in (medizinische Produkte)
+2433001200018,Sales Account Manager/in (Arzneimittel)
+2433001300018,Vertriebsmitarbeiter/in (technische Ausrüstung)
+2433001400018,Handelsvertreter (Industrieprodukte)
+2433001500016,Vertriebsmitarbeiter/in für technische oder medizinische Produkte
+2433001700018,Technischer Verkaufsberater (außer IT)
+2433020000000,Verkaufsingenieur/in
+2433130000000,Verkaufsrepräsentant/in für pharmazeutische Produkte
+2434000100018,Verkäufer für Kommunikationstechnologie
+2434000200018,Edv-kundenbetreuer/in
+2434000300018,Account Manager/in für IT-Computertechnologie
+2434000400018,IT-Verkäufer/in
+2434000600018,Sales Account Manager/in (Informations- und Kommunikationstechnologie)
+2434000700018,Vertriebsmitarbeiter/in (Kommunikationstechnik)
+2434000800018,Vertriebsmitarbeiter/in (Computersysteme)
+2434000900018,Vertriebsmitarbeiter/in (Software)
+2434001000018,Technischer Verkaufsberater (IT)
+2434010000000,IT-Vertriebsfachmann/frau
+2511000100018,EDV-Unternehmensanalytiker/in
+2511000200018,Architekt für Geschäftslösungen (IT)
+2511002400018,SAP-Analyst
+2511002500018,SAP-Unternehmensadministrator
+2511010000000,Systemanalytiker/in
+2511010127600,Systemdesigner/in
+2511020000000,IT-Berater/in
+2511040000000,IT-Projektleiter/in
+2511050000000,IT-Analyst/in
+2511050000018,Computerwissenschaftler/in
+2512000100018,Ingenieur/in für IT-Computeranwendungen
+2512000200018,IT-Computersystemingenieur/in
+2512000300018,Softwareentwickler/in
+2512010000000,Software-Ingenieur/in
+2513000100018,"Programmierer, Computerspiele"
+2513000200018,Flash-Entwickler/in
+2513000300018,Entwickler von Internetanwendungen
+2513000400018,Programmierer für Internetanwendungen
+2513000500018,Internet-Programmierer/in
+2513000600018,Multimediaprogrammierer/in
+2513001200018,Web Consultant
+2513001300018,Web-developer/in
+2513001400016,Webprogrammierer/in
+2513010000000,Multimedia-Entwickler/in
+2514010000000,Anwendungsprogrammierer/in
+2519010000000,IT-Hardware-Ingenieur/in
+2519020000000,Software-Tester/in
+2521000100018,Datenadministrator
+2521000200018,Datenwissenschaftler/in
+2521000300018,Datenbanken analyst
+2521000400018,Datenbankarchitekt/in
+2521000500018,Datenbankprogrammierer/in
+2521010000000,Datenbankdesigner/in
+2521020000000,Datenbankadministrator/in
+2522000100018,Network-administrator/in
+2522000700018,Serveringenieur/in
+2522000800018,Unix-Administrator
+2522000900018,WAN Administrator
+2522010000000,IT-Systemadministrator/in
+2523000100018,Kommunikationsanalytiker/in
+2523000200018,EDV netzwerke analyst
+2523000300018,IT-Netzwerkarchitekt/in
+2523010000000,Netzwerkspezialist/in
+2529000100018,Data Mining Spezialist/in
+2529000200018,Datensicherheitsanalytiker/in
+2529000300018,Spezialist für digitale Forensik
+2529000400018,EDV-Sicherheitsspezialist/in
+2529010000000,IT-Revisor/in
+2611000100018,Rechtsanwalt
+2611000200018,Gesetzlicher Attaché
+2611000300018,Rechtskonsulent
+2611001000018,Parlamentarischer Zeichner/in
+2611010000000,Rechtsanwalt/-wältin
+2611020000000,Staatsanwalt/-wältin
+2611030000000,"Rechtsberater/in, juristischer Berater/in"
+2612000100018,Magistrat
+2612010000000,Richter/in
+2619000100018,Streitschlichtungspraktiker/in
+2619001600018,Ombudsmann/-frau
+2619001700018,Berufungsrichter der Sozialen Sicherheit
+2619010000000,Notar/in
+2621000100018,Kurator der Kunstgalerie
+2621000200018,Leiter/in der Informationsabteilung
+2621001000018,Records Manager/in
+2621010000000,Archivar/in
+2621020000000,Museumskurator/in
+2622000100018,Bibliograf/in
+2622000200018,Katalogisierer/in
+2622010000000,Bibliothekar/in
+2622020000000,Dokumentar/in
+2631000100018,Analyst für Betriebswirtschaft
+2631000200018,Wirtschaftsberater/in
+2631000300018,Wirtschaftsanalytiker/in
+2631000400018,Berater für Wirtschaftsentwicklung
+2631000500018,Wirtschaftspolitischer Berater/in
+2631000600018,Arbeitsökonom/in
+2631010000000,Volkswirtschaftler/in
+2631010127600,Marketing- und Vertriebsökonom/in
+2631020000000,Ökonometriker/in
+2632000100018,Anthropologe/in
+2632000200018,Kriminologe/in
+2632001700016,Sonstige/r Sozialwissenschaftler/innen
+2632001800016,Soziologe/in
+2632040000000,Geograf/in
+2632050000000,Archäologe/in
+2633000100018,Genealoge/in
+2633000800018,Friedensforscher/in
+2633010000000,Philosoph/in
+2633020000000,Historiker/in
+2633030000000,Politologe/Politologin
+2634000100018,Lehrer/in für Verhaltensunterstützung
+2634000200018,Wirtschaftspsychologe/in
+2634000300018,Klinischer Psychologe/in
+2634000400018,Pädagogischer Psychologe/in
+2634002200018,Organisationspsychologe/in
+2634002300018,Psychoanalytiker/in
+2634002400018,Psychotherapeut/in
+2634002500018,Sportpsychologe/in
+2634002600018,Arbeits- und Organisationsexperte
+2634002800018,Klinischer Neuropsychologe/in
+2634002900018,Gesundheitspsychologe/in
+2634010000000,Psychologe/in
+2634020000000,Erziehungswissenschaftler/in
+2635000100018,Trauerberater/in
+2635000200018,Kinder- und Jugendberater/in
+2635000300018,Sozialarbeiter des Distrikts
+2635000400018,Familienpädagoge/in
+2635000500018,Familientherapeut/in
+2635000600018,Hausvater (professionell)
+2635000700018,Eheberater/in
+2635000800018,Ehe Therapeutin/in
+2635004400018,Professionelle Fallbearbeiter/in
+2635004500018,Professionelle Spendenaktion
+2635004600018,Berater für sexuelle Übergriffe
+2635004700016,Sozialpädagogischer Berater/in
+2635004800018,Sozialarbeiter/in (professionell)
+2635005000018,Wohlergehen der Frauen
+2635020000000,"Sozialarbeiter/in in der Familien-, Erziehungs- oder Eheberatung"
+2635030000000,Sozialarbeiter/in für psychisch kranke oder misshandelte Personen
+2635050000000,Sozialarbeiter/in im Bereich Resozialisierung
+2635090000000,Haftentlassungsbeamt/-er/in
+2635100000000,Bewährungshelfer/in
+2635180000000,Suchtberater/in
+2635190000000,Haushaltsprüfer/in
+2636000100018,Bischof
+2636000200018,Imam
+2636000300018,Missionar/in
+2636000400018,Mufti
+2636000500018,Mullah
+2636001700018,Pfarrer/in
+2636001800018,Poojari
+2636001900016,"Priester/in, Pastor/in, Imam"
+2636002000018,Rabbiner/in
+2636002100018,Religionsminister/in
+2636002200018,Theologe/in
+2636002300018,Vikar/in
+2636010000018,Heilsarmeeoffizier/in
+2641000100018,Biograph
+2641000200018,Texter technisch
+2641000300018,Dokumentationsschreiber/in
+2641000400018,Dramatiker/in
+2641000500018,Redakteur/in
+2641000600018,Handbuchschreiber/in
+2641000700018,Verfasser/in interaktiver medien
+2641001800018,Dichter/in
+2641002000018,Szenarioschreiber/in
+2641002100018,Buchredakteur/in
+2641002200018,Kurzgeschichtenautor
+2641002300018,Songschreiber/in
+2641002400018,Redenschreiber/in
+2641002500018,Schriftsteller/in
+2641010000000,Autor/in
+2641020000000,"Kolumnist/in, Kommentator/in"
+2641030000000,Technische/r Redakteur/in (Autor/in)
+2641040000000,Lektor/in (Bücher)
+2642000100018,Kunstkritiker/in
+2642000200018,Blogger/in
+2642000400018,Texter Medien
+2642000500018,Reporter der Verbrechen
+2642000600018,Chefredakteur
+2642000700018,Fashion Reporter/in
+2642000800018,Finanzredakteur/in
+2642000900018,Auslandsredakteur
+2642001000018,Medienreporter/in
+2642002900018,Nachrichten-Kommentator
+2642003000018,Zeitungsredakteur/in
+2642003100018,Zeitungsreporter/in
+2642003200018,Herausgeber/in von Zeitschriften
+2642003300018,Politischer Redakteur/in
+2642003400018,Drücken Sie den Editor
+2642003500018,Sportkommentator
+2642003600018,Sporteditor/in
+2642003700018,Sportreporter/in
+2642010000000,Journalist/in
+2642020127600,Bildredakteur/in
+2642030000000,Medienkorrespondent/in
+2642040000000,Nachrichtenredakteur/in
+2642060000000,Mitarbeiter/in Presseabteilung
+2642080000000,Reporter/in
+2642090000000,Online-Journalist/in
+2642100000000,Bildbearbeiter/in
+2642110000000,Faktenprüfer/in
+2642120000000,Journalist-Kameramann
+2642130000000,Leiter/in einer Nachrichtenredaktion
+2642200000000,Interviewer/in
+2643000100018,Wörterbuch Schriftsteller/in
+2643000300016,Dolmetscher/in (Universität/FH)
+2643000400018,Vereidigter Übersetzer/in
+2643000500018,Lexikograf/in
+2643001400018,Philologe/in
+2643001500018,Dolmetscher/in (Zeichensprache)
+2643010000000,Übersetzer/in
+2643020000000,Dolmetscher/in
+2643030000000,Linguist/in
+2651000100018,Künstlerische Stecher-Radierer/in
+2651000200018,Comiczeichner/in
+2651000300018,Keramikkünstler/in
+2651001300018,Portraitmaler/in
+2651001400018,Plakatmaler/in
+2651001500018,Bildhauer/in
+2651001600018,Bildender Künstler/in
+2651010000000,"Kunstmaler/in, Maler/in"
+2651010000018,Künstler 3d
+2651020000018,Designer 3d
+2651030000000,Bilder- oder Antiquitätenrestaurator/in
+2651040000000,Grafiker/in
+2652000100018,Bandleader/in
+2652000200018,Bariton
+2652000300018,Cellist
+2652000400018,Klarinettenspieler/in
+2652000500018,Trommler/in
+2652000600018,Gitarrist
+2652000700018,Harfenspieler/in
+2652000800018,Instrumentalist
+2652000900018,Musik Komponist
+2652001000018,Musikdirigent
+2652001100018,Transcriber für Musik
+2652001200018,Musikwissenschaftler/in
+2652002200018,Nachtclubmusiker/in
+2652002300018,Nachtklubsänger/in
+2652002400018,Orchesterdirigent
+2652002500018,Orgelspieler/in
+2652002600018,Schlagzeuger/in
+2652002700018,Pianist/in
+2652002800018,Saxophonist
+2652002900018,Sopransängerin
+2652003000018,Straßenmusiker/in
+2652003100018,Straßensänger/in
+2652003200018,Tenor
+2652003300018,Posaunist
+2652003400018,Trompeter/in
+2652003500018,Geiger/in
+2652003600018,Gesangsgruppenleiter/in
+2652003700018,Musikalischer Stern
+2652010000000,Musiker/in
+2652020000000,Sänger/in
+2652030000000,Arrangeur/in
+2652040000000,"Chorleiter/in, Dirigent/in"
+2652050000018,Singer-Songwriter/in
+2653000100018,Ballett-Arrangeur
+2653000200018,Balletttänzer/in
+2653000300018,Ballsaaltänzer/in
+2653000900018,Nachtklubtänzer/in
+2653001000018,Nachtclub Stripperin
+2653001100018,Straßentänzer/in
+2653001200018,Striptease-Künstler/in
+2653001300018,Striptease-Tänzer/in
+2653001400018,Stepptänzer/in
+2653001500018,Rapper/in
+2653010000000,Tänzer/in
+2653020000000,Choreograph/in
+2654000100018,Produktionsleiter Animation
+2654000200016,Regisseur für Animationen
+2654000300016,Animation finalisieren
+2654000400016,Animationsproduzent
+2654000500016,Animationsassistent
+2654000700018,Künstlerischer Leiter/in
+2654000800018,Audioproduzent
+2654000900018,Casting Director
+2654001000018,Creative Director (TV / Radio oder Bühne)
+2654001100018,Direktor Radiosender/in
+2654001200018,Dokumentarregisseur/in
+2654001300018,Dokumentarfilmer/in
+2654001400018,Filmbearbeiter/in
+2654001500018,Film-Standortleiter/in
+2654001600018,Filmproduzent/in
+2654001700018,Musikproduzent
+2654004300018,Fernsehproduzent
+2654004400018,Theaterproduzent/in
+2654004500018,Videobearbeiter/in
+2654010000000,Film- oder Theaterregisseur/in
+2654010000018,Theaterdirektor
+2654020000000,"Produzent/in im Bereich, Film, Theater oder in verwandten Branchen"
+2655000100018,Schauspieler/in
+2655000200018,Artist
+2655000700018,Erzähler/in
+2655000800018,Sprecher/in
+2655010000000,Film- oder Theaterschauspieler/in
+2655011000018,Fernsehschauspieler/in
+2656000100018,Fernsehsender/in
+2656000600018,Nachrichten-Ansager/in
+2656000700018,Nachrichtenleser TV / Radio
+2656000800018,Radioansager/in
+2656000900018,Sport-Ansager/in
+2656001000018,Talkshow Gastgeber/in
+2656001100018,Fernsehsprecher/in
+2656001200018,Verkehrsreporter/in
+2656001300018,Wetterreporter/in
+2656010000000,Radio- oder Fernsehmoderator/in oder Moderator/in in anderen Medien
+2656020000000,Discjockey
+2656030000000,Entertainer/in
+2659000100018,Komiker/in
+2659000300018,Illusionist
+2659000400018,Imitator
+2659000800018,Puppenspieler/in
+2659000900018,Trapezkünstler/in
+2659001000018,Wildtiertrainer/in
+2659020000000,"Clown, Akrobat/in, Magier, Hypnosekünstler/in"
+3111000100018,Chemietechniker/in
+3111000200018,Techniker für Erdwissenschaften
+3111000300018,Geotechniker/in
+3111000400018,Hydrograph
+3111001500018,Physik-Techniker/in
+3111001600018,Wetterbeobachter/in
+3111020000000,Fachtechniker/in für Geologie oder Mineralienkunde
+3111030000000,Fachtechniker/in für die Untersuchung von Gesteinsproben
+3111040000000,Fachtechniker/in für Meteorologie oder Ozeanographie
+3112000100018,Kontrolleur/in Bau
+3112000200018,Baukontrolleur/in
+3112000300018,Bauingenieurschätzer/in
+3112000400018,Büroangestellter/in
+3112000600018,Brandschutzberater/in
+3112010000000,Bauzeichner/in
+3112020000000,Bauinspektor/in
+3112030000000,Brandinspektor/in
+3113000100018,Techniker der elektrischen Energieübertragungstechnik
+3113000200018,Elektrischer Schätzer/in
+3113000300018,Techniker für Beleuchtungstechnik
+3113000800018,Qualitätsprüfer (elektrische Produkte)
+3113000900018,Sicherheitsstrominspektor
+3113010000000,Elektrotechniker/in
+3113020000000,Techniker/in Stromanlagen
+3114000100018,Techniker für Instrumentierung
+3114000900018,Qualitätsprüfer (elektronische Produkte)
+3114010000000,Elektroniktechniker/in
+3114020000000,Maschinenbediener/in Halbleiterherstellung
+3115000100018,Luftfahrttechniker/in
+3115000200018,Techniker für landwirtschaftliche Maschinenbau
+3115000300018,Techniker für Klimatechnik
+3115000400018,KFZ Techniker/in
+3115000500018,Techniker für Dieselmotoren
+3115000600018,Techniker für Gasturbinen
+3115000700018,Techniker für Heizungstechnik
+3115000800018,Jet Engine Engineering-Techniker/in
+3115000900018,Techniker für Lokomotiventechnik
+3115001000018,Marine-Techniker/in
+3115001100018,Schiffssachverständige/r
+3115001200018,Mechanischer Schätzer/in
+3115001400018,Motorentechniker/in
+3115002500018,Nukleartechniker/in
+3115002600018,Kältetechniker/in
+3115002700018,Fahrzeuginspektor/in
+3115010000000,Maschinenbautechniker/in
+3115020000000,Kühlraumtechniker/in
+3115030000000,Schleusen- oder Dockbetreiber/in
+3116000100018,Techniker für chemische Verfahrenstechnik
+3116000200018,Erdgas-Techniker/in
+3116020000000,Mitarbeiter/in im Bereich Fotoverarbeitung
+3117000100018,Korrosionstechniker/in
+3117000200018,Industrieller Radiologe/in
+3117000300018,Bergwerksinspektor
+3117000800018,Öl- und Gasbohrgerät
+3117000900018,Techniker für die Ölförderung
+3117001000018,Schweißinspektor
+3117010000000,Bergbautechniker/in
+3117020000000,Werkstofftechniker/in
+3117030000000,"Labortechniker/in Stahl, andere Metalle"
+3118000100018,Architektischer Zeichner/in
+3118000200018,CAD Zeichner/in
+3118000300018,Kartographische Zeichnerin
+3118000400018,Zivilzeichner/in
+3118000500018,Elektrofachkraft
+3118000600018,Elektronik-Zeichner/in
+3118000800018,Geologischer Zeichner/in
+3118000900018,Lithographischer Zeichner/in
+3118001000018,Marine Zeichner/in
+3118001100018,Bergbauzeichner/in
+3118004300018,Sanitärzeichner/in
+3118004400018,Konstruktionszeichner/in
+3118004500018,Technischer Zeichner/in
+3118004600018,Topographischer Zeichner/in
+3118010000000,Technische/r Zeichner/in
+3118020000000,Technische/r Illustrator/in
+3118030000000,Elektronischer Zeichner/in
+3118040000000,Mechanischer Zeichner/in
+3118050000000,"Bauzeichner/in, alle anderen"
+3119000100018,Brandermittler/in
+3119000200018,Wirtschaftsingenieur/in
+3119001000018,Techniker für die Produktionstechnik
+3119001100018,Techniker für Mengenvermessung
+3119001200018,Robotik-Techniker/in
+3119001300018,Arbeitstechniker arbeiten
+3119030000000,"Labortechniker/in Beton, Asphalt, Asbest oder verwandte Produkte"
+3119040000000,"Labortechniker/in Plastik, Textil, oder Chemikalien"
+3119990027600,Ingenieur Technische Berufe (Sonstige)
+3121000100018,Technischer Offizier im Bergbau
+3121010000000,"Fahrsteiger/in, Fahrhauer/in"
+3122000100018,Montageleiter/in
+3122000200018,Montageleiter/in (elektrische Produkte)
+3122000300018,Montageleiter/in (elektronische Produkte)
+3122000400018,Montageleiter/in (mechanische Produkte)
+3122000500018,Montageleiter/in (Metallprodukte)
+3122000600018,Montageleiter/in (Kartonprodukte)
+3122000700018,Montageleiter/in (Kunststoffprodukte)
+3122000800018,Montageleiter/in (Gummiprodukte)
+3122000900018,Montageleiter/in (Textilwaren)
+3122001000018,Montageleiter/in (Holzprodukte)
+3122001100018,Werksleiter/in
+3122010000000,"Vorarbeiter/in Prozesskontrolle von industrieller Produktion, Industrie, Metall"
+3123000100018,Betriebsleiter/in aufsichtskraft im bau
+3123000200016,"Bauunternehmerstraßen, Wasserwerke"
+3123000300018,Bauleiter/in
+3123030000000,Projektmanager/in im Bereich Tiefbau
+3123040000000,Anlagenleiter/in
+3123050000000,Auftragnehmer/in im Bauwesen
+3123060000000,Konstrukteur/in
+3131000100018,Betreiber/in von Elektrizitätskraftwerken
+3131000200018,Kraftwerksbetreiber (Gas)
+3131000300018,Betreiber/in der Stromerzeugungsturbine
+3131000400018,Geothermischer Kraftwerksbetreiber/in
+3131000500018,Betreiber/in eines Wasserkraftwerks
+3131000900018,Betreiber/in von Kernkraftwerken
+3131001000018,Kraftwerksbetreiber/in
+3131001100018,Betreiber/in von Solarkraftwerken
+3131001200018,Betreiber/in von Dampfkraftwerken
+3131001300018,Gezeitenkraftwerksbetreiber/in
+3131001400018,Betreiber/in von Windenergieanlagen
+3131010000000,Kraftwerker/in; Energiemechanist/in; Kraftwerkfacharbeiter/in
+3132000100018,Verbrennungsanlage mit Bedienfeld
+3132000200018,Wasseraufbereitung des Bedienfeldbedieners
+3132000300018,Desilting-Beckenbediener/in
+3132000400018,Betreiber/in von Flüssigabfällen
+3132000900018,Betreiber/in der Pumpstation
+3132001000018,Betreiber/in der Kühlanlage
+3132001100018,Abwasseranlagenbetreuer/in
+3132001200018,Wasserdamm zart
+3132001300018,Wasserfilter Betreiber/in
+3132001400018,Betreiber/in des Wasserreservoirs
+3132001500018,Betreiber/in der Wasseraufbereitung
+3132010000000,Leiter/in Trinkwasseraufbereitung
+3132020000000,Betreiber/in einer Kläranlage
+3132030000000,MVA-Arbeiter/in
+3133000100018,Betreiber/in des Luftkompressors
+3133000200018,Betreiber/in von Zementproduktionsanlagen
+3133000300018,Chemischer Verfahrenstechniker/in
+3133000400018,Chemiker noch Betreiber/in
+3133000500018,Chemische Anlage für Bedienfeldbediener/in
+3133000600018,Betreiber/in einer Kühlanlage
+3133000700018,Betreiber/in des Gaskompressors
+3133000800018,Heizungsanlagenbetreuer/in
+3133000900018,Maschinenbediener (Einfrieren)
+3133001000018,Maschinenbediener (Eisproduktion)
+3133001200018,Betreiber/in von Lüftungsgeräten
+3133010000000,Aufsichtskraft für eine Verarbeitungsanlage für chemische Produkte
+3133030000000,Pharmakant/in
+3134000100018,Mixer-Betreiber (Erdöl oder Erdgas)
+3134000200018,Bedienfeldbediener für die Kohlegasproduktion
+3134000300018,Bedienfeldbediener Erdöl- und Erdgasraffinerie
+3134000500018,Betreiber/in einer Paraffinanlage
+3134000600018,Betreiber/in von Erdöl- und Erdgasfabriken
+3134000700018,Petroleum-Prozessbediener/in
+3134000800018,Betreiber/in von Tankstellen (Erdöl oder Erdgas)
+3134000900018,Raffinerietechniker/in
+3134010000000,Leiter/in einer Erdöl- oder Erdgasraffinerie
+3134010120300,Gas Kontrollraum-Betreiber/in
+3134020000000,Bediener/in Gaswerk
+3135000100018,Aluminiumbediener/in
+3135000200018,Hochofenbetreiber/in
+3135000300018,Bedienfeld-Hochofen
+3135000400018,Schalttafelbediener Metallproduktion
+3135000500018,Bedienungspersonal schmelzen
+3135000600018,Betreiber/in des Metallofens
+3135000700018,Schmelzbetrieb
+3135010000000,"Maschinen- und Anlagenführer/in - Metall-, Kunststofftechnik"
+3139000100018,Bedienfeld für die Papierherstellung
+3139000300018,Industrielle Robotersteuerung
+3139010000000,Techniker/in im Bereich sonstiger Prozesssteuerung
+3139020000000,Aufsichtskraft Fließbandanlage
+3139050000000,Bediener/in von Industrierobotern
+3139060000000,Streckenfahrdienstleiter/in Eisenbahn
+3139070000000,Streckenfahrdienstleiter/in U-Bahn
+3139080000000,Getränkehersteller/in
+3139090000000,Verfahrenstechniker/in Milchproduktherstellung
+3139100000000,Verfahrenstechniker/in Mehlverarbeitung
+3139110000000,Verfahrenstechniker/in Zuckerproduktion
+3139120000000,Arbeiter/in in der Zellstoff- oder Papierverarbeitung
+3141000100018,Anatomietechniker/in
+3141000200018,Bakteriologietechniker/in
+3141000300018,Biochemietechniker/in
+3141000400018,Biologietechniker/in
+3141000500018,Biophysik Techniker/in
+3141000600018,Botanik-Techniker/in
+3141000700018,Ökologietechniker/in
+3141000800018,Genetik-Techniker/in
+3141000900018,Herbarium-Techniker/in
+3141001000018,Life-Science-Techniker/in
+3141002100018,Pharmakologietechniker/in
+3141002200018,Physiologietechniker/in
+3141002300018,Techniker für Pflanzenzüchtung
+3141002400018,Gewebekultur-Techniker/in
+3141002500018,Wilder Lebenstechniker/in
+3141002600018,Zoologietechniker/in
+3141010000000,"Labortechniker/in Biologie, Biotechnologie"
+3141020000000,"Labortechniker/in Wasser, Milch, Getränke"
+3141030000000,Fischereitechniker/in
+3142000100018,Agronomietechniker/in
+3142000200018,Aquakulturtechniker/in
+3142000300018,Erntetechniker/in
+3142000400018,Molkereitechniker/in
+3142000500018,Bauerndemonstrator
+3142000600018,Blumenzuchttechniker/in
+3142002100018,Geflügeltechniker/in
+3142002200018,Bodentechniker/in
+3142010000000,Landbautechniker/in
+3142010000018,Techniker für Feldfrüchte
+3142040000000,Florist/in
+3142050000000,Gartenbautechniker/in
+3142060000000,Landwirtschaftliches Substitut
+3143000100018,Baumzuchttechniker/in
+3143010000000,Forsttechniker/in
+3151010000000,Schiffbautechniker/in
+3152000100018,Luftkissenfahrzeug Pilot/in
+3152000200018,Marine Deck Superintendent
+3152002900018,Hafenkapitän
+3152003000016,Zweiter Schiffspilot/in
+3152003100018,Schiff navigator/in
+3152003200016,Dritter Schiffspilot/in
+3152003300018,Yacht skipper/in
+3152010000000,Deckoffizier/in
+3152020000000,Lotse/Lotsin
+3152030000000,Schiffskapitän/in
+3152040000013,"Hafenschlepper, Schleppbootkapitän, Lotsenbootskapitän"
+3152050000013,Schiffskapitän
+3152060000013,Erster Schiffspilot/in
+3153000100018,Flugzeugtestpilot/in
+3153000200018,Astronaut
+3153000300018,Ballonpilot/in
+3153000400018,Feldspritze (Antenne)
+3153000500018,"Navigator, Flug"
+3153000600018,Fluginstruktor/in
+3153010000000,"Pilot/in, Co-Pilot/in"
+3153020000000,Hubschrauberpilot/in
+3154000100018,Betreiber/in von Flugsicherungsausrüstungen
+3154010000000,Fluglotse/Fluglotsin
+3155010000000,Flugsicherungstechniker/in
+3211000100018,Audiometrischer Ausrüstungstechniker/in
+3211000200018,Herz Technologe/in
+3211000300018,CT-Scantechnologe/in
+3211000400018,Dialysetechniker/in
+3211000500018,Screener hören
+3211000600018,Mammographietechniker/in
+3211000700016,Medizinischer Bildtechniker/in
+3211000800018,Medizinischer Ultraschalltechniker/in
+3211000900018,MRI-Techniker/in
+3211001800018,Kardiotechniker/in
+3211002100018,Techniker für optische Scanner/in
+3211002200018,Technologe für Tomographie
+3211010000000,Röntgenassistent/in
+3211020000000,Assistent/in am EKG
+3211030000000,Assistent/in am EEG
+3211060000000,Chirurgie-Assistent
+3211070000000,Assistent/in Ultraschalluntersuchung
+3211080000000,Röntgenhelfer/in
+3211190000000,Technologe/in für Nuklearmedizin
+3212000100018,Blutbankentechniker/in
+3212000200018,Hämatologietechniker/in
+3212000300018,Histologietechniker/in
+3212000400018,Labortechniker/in
+3212001300018,Pathologietechniker/in
+3212010000000,Medizinisch-technische/r Laboratoriumsassistent/in
+3212020000000,Techniker/in pathologisches Labor
+3212040000000,Labortechniker/in Augen
+3213000100018,Apothekentechniker/in
+3213010000000,Pharmakologische/r Labortechniker/in
+3213020000000,Pharmazeutischer Techniker/in
+3213050000000,Pharmazeutisch-kaufmännische/r Assistent/in
+3214000100018,Künstlicher Gliedmaßenhersteller/in
+3214000200018,Dentaltechniker/in
+3214000300018,Zahnersatzhersteller/in
+3214000400018,Hörgerätetechniker/in
+3214001100018,Hersteller von orthopädischen Geräten
+3214001200018,Orthopädische Gerätewerkstatt
+3214001300018,Orthopädischer Klammerhersteller/in
+3214001400018,Orthopädietechniker/in
+3214001500018,Prothesenhersteller/in
+3214001600018,Prothesen-Reparateur
+3214001700018,Reparaturgerät für chirurgische Geräte
+3214010000000,Prothesentechniker/in
+3214020000000,Zahntechniker/in
+3214030000000,Hersteller/in chirurgischer Geräte
+3221000100018,Assistenzkrankenschwester/in
+3221000800018,Nicht zertifizierte Krankenschwester/in
+3221000900018,Praktische Krankenschwester/in
+3221010000000,Schwesternhelfer/in
+3221030000000,Betriebskrankenschwester/-pfleger/in
+3221040000000,Privatkrankenschwester/-pfleger/in
+3221050000000,Schulkrankenschwester/-pfleger/in
+3221060000000,Rettungsdiensttechniker/in
+3222000100018,Hebamme legen
+3222000300018,Geburtshilfe Krankenschwester (nicht zertifiziert)
+3222010000000,Hebammenhelfer/in
+3230000100018,Akupunktur-Techniker/in
+3230000200018,Kräuterheiler/in
+3230000300018,Homöopathie-Techniker/in
+3230010000000,Naturmediziner/in
+3240000400018,Assistenztierarzt/-ärztin
+3240000500018,Tierärztliche Krankenschwester/in
+3240010000000,tierärztlicher Fachmann
+3240020000000,Besamungstechniker/in
+3240140000000,tierärztlicher Impfarzt/-ärztin
+3251000100018,Zahnärztlicher Schulassistent
+3251000200018,Zahnärztliche Therapeut/in
+3251010000000,Zahnarzthelfer/in
+3251020000000,Zahnhygieniker/in
+3252000100018,Klinischer Kodierer/in
+3252000200018,Krankheitsregister Techniker/in
+3252000300018,Gesundheitsinformationsangestellter/in
+3252000400018,Gesundheitsinformationsmanager/in
+3252010000000,Angestellte/r der Krankenhausverwaltung
+3253000100018,Diabetes Erzieher/in
+3253000200018,Drogenlehrer/in
+3253001000018,Erzieherin für Eltern
+3253010000000,Mitarbeiter/in im öffentlichen Gesundheitsdienst
+3254000100018,Kontaktlinsenoptiker/in
+3254000200018,Optischer Spender/in
+3254010000000,Augenoptiker/in
+3255000100018,Akupressur-Therapeut/in
+3255000200018,Hydrotherapeut/in
+3255000800018,Tellerglas-Installateur/in
+3255010000000,physiotherapeutische/r Assistent/in
+3255030000000,Massagetherapeut/in
+3255040000000,"Masseur, Masseuse"
+3256010000000,Medizinischer Assistent
+3256020000000,Anästhesieassistent/in
+3256030000000,Medizinische/r Fachangestellte/r
+3257000100018,Werkssicherheitsinspektor
+3257000200018,Inspektor für Lebensmittelhygiene und -sicherheit
+3257000300018,Gesundheitsinspektor
+3257000400018,Tierbeschauveterinär/in
+3257000700018,Umweltverschmutzungsinspektor
+3257000800018,Produktsicherheitsinspektor
+3257010000000,Umweltinspektor/in
+3257020000000,Arbeitsschutzinspektor/in
+3257030000000,Arbeitskontrolleur/in
+3257040000000,Tierärztlicher Inspektor/in
+3257180000000,Hygieneinspektor/in
+3257190000000,"Inspektor/in für Gas, Elektrizizät, Wasserwerk"
+3257210000013,"Quality, Safety & Health Auditor (QSHE Assessor)"
+3257990000000,Qualitätskontrolleur/in / Inspekteur/in für sonstige Produkte
+3258000100018,Rettungssanitäter/in
+3258010000000,Ambulanzschwester/-pfleger/in
+3259000100018,Hilfsberater/in
+3259000200018,Anästhetiker/in
+3259000300018,Berater für Familienplanung
+3259000400018,HIV-Berater/in
+3259000500018,Totentechniker/in
+3259000900018,Logopädieassistent/in
+3259070000000,Kunsttherapeut/in
+3311000100018,Obligationenhändler/in
+3311000200018,Finanzmakler/in
+3311000300018,Finanzmakler-Futures
+3311000400018,Finanzhändler/in
+3311000500018,Devisenmakler/in
+3311000600018,Devisenhändler/in
+3311000700018,Leasing-Makler/in
+3311000800018,Hypothekenmakler/in
+3311001400018,Wertpapiermakler/in
+3311030000000,Investitionsmakler/in
+3311050000000,Aktienmakler/in
+3311060000000,Investitionsberater/in
+3312000100018,Abnahmeprüfer Finanzinstitut
+3312000200018,Bankkreditverantwortlicher/in
+3312000300018,Kreditprüfer/in
+3312000400018,"Kreditbeauftragte Bank, Bausparkasse oder Kreditgenossenschaft"
+3312000500018,Finanzbeamter/in
+3312000600018,Hauskreditoffizier/in
+3312000700018,Darlehensgutachter/in
+3312000800018,Hypothekenoffizier/in
+3312000900018,Hypothekenversicherer/in
+3312010000000,"Kreditberater/in, Darlehensberater/in"
+3312020000000,Persönliche/r Finanzberater/in
+3312030000000,Kreditberater/in
+3313000100018,"Assistent, Buchhaltung"
+3313000200016,Nationaler Kontomanager/in
+3313010000000,Kundenbetreuer/in Privatkunden
+3313030000000,Buchhaltungsfachkraft
+3313040000000,Buchhalter/in
+3313060000000,Kostenveranschlager/in
+3313070000000,Gehalts- oder Personalsachbearbeiter/in
+3313990000000,Kundenbetreuer/in sonstige Kunden
+3314000100018,Versicherungsmathematischer Assistent
+3314010000000,Statistikbearbeiter/in
+3314020000000,Datenmanager/in Statistik
+3314030000000,Mathematisch-technischer Assistent/in
+3315000100018,Prüfer für Leistungsansprüche
+3315000200018,Versicherungsgutachter/in
+3315001000018,Prüfer für Sozialversicherungsansprüche
+3315010000000,Gutachter/in Unternehmen
+3315020000000,Gutachter/in Schadensfälle
+3315030000000,Gutachter/in Immobilien
+3315050000000,Prüfer für Versicherungsansprüche
+3321000000000,Versicherungsmakler/in
+3321000100018,Versicherer/in
+3321010000000,Versicherungsvertreter/in
+3321020000000,Vesicherungskaufmann/frau
+3322000000000,Verkaufsrepräsentant/ine
+3322000100018,Kundenkonto-Manager/in
+3322000200018,Handelsreisender/in
+3322001300018,Reisender Verkäufer/in
+3322010000000,Manager/in fürs Ersatzgeschäft
+3322020000000,"KFZ Verkäufer/in, Autoverkäufer/in"
+3322050000000,Außendienstmitarbeiter/in für Agrarprodukte
+3322060000000,Verkaufsrepräsentant/in für chemische Produkte
+3322070000000,Außendienstmitarbeiter/in im Tiefbauwesen
+3322080000000,Verkaufsrepräsentant/in für Computerausstattung
+3322090000000,Außendienstmitarbeiter/in im Gebäudebau
+3322100000000,Außendienstmitarbeiter/in für Baumaschinen oder -komponenten
+3322110000000,Außendienstmitarbeiter/in für Installationstätigkeiten im Bauwesen
+3322120000000,Verkaufsrepräsentant/ für Unterrichtsmaterialien
+3322130000000,Außendienstmitarbeiter/in für Elektrogeräte oder -komponenten
+3322140000000,Außendienstmitarbeiter/in für Finanzprodukte
+3322150000000,"Außendienstmitarbeiter/in für Lebensmittel, Getränke, Tabakprodukte"
+3322160000000,"Außendienstmitarbeiter/in für Glas, Glaserzeugnisse"
+3322170000000,"Außendienstmitarbeiter/in für Maschinen, Geräte, Fahrzeuge"
+3322180000000,Außendienstmitarbeiter/in für Metalprodukte oder -waren
+3322210000000,"Außendienstmitarbeiter/in für Kleidung, Lederwaren"
+3322220000000,Außendienstmitarbeiter/in für Gummi- oder Kunststoffprodukte
+3322230000000,Verkaufsrepräsentant/in für technische Produkte
+3322240000000,Kundenbetreuer/in Geschäftskunden
+3322990000000,Verkaufsrepräsentant/in für sonstige Produkte
+3323000000000,Einkäufer/in
+3323000700018,Beschaffungsbeauftragter/in
+3323000900018,Versorgungsoffizier/in
+3323010000000,Einkäufer/in Agrarprodukte
+3323020000000,Einkäufer/inChemieprodukte
+3323030000000,Einkäufer/in Computer und DV-Produkte
+3323040000000,Einkäufer/in Lehrmaterial
+3323050000000,Einkäufer/in Pharmaprodukte
+3323060000000,Einkäufer/in Technik
+3324000200018,Futures-Broker/in
+3324000800018,Textilhändler/in
+3324010000000,Handelsmakler/in
+3324020000000,"Handelstreibender für Gas, Elektrizität oder Treibstoffe"
+3324050000000,Viehhändler/in
+3324060000000,Schiffsmakler/in
+3331000100018,Frachtagent
+3331000200018,Zollagenten
+3331000300018,Agent exportieren
+3331000400018,Speditionssachbearbeiter/in
+3331000500018,Agent importieren
+3331010000000,Spediteur/in
+3332000100018,Account Manager/in Konferenzen oder Veranstaltungen
+3332000200018,Konferenzadministrator
+3332000300018,Konferenzplaner/in
+3332000400018,Berater für Veranstaltungsmanagement
+3332000500018,Eventveranstalter/in
+3332000600018,Messeorganisator
+3332000700018,Manager/in Hochzeiten Empfang
+3332002000018,Protokolloffizier/in
+3332002100018,Hochzeitsplaner/in
+3332010000000,Konferenz- oder Eventveranstalter/in
+3333000100018,Künstlermanager/in
+3333002000018,Jugendarbeitsoffizier/in
+3333010000000,Sachbearbeiter/in bei der Agentur für Arbeit
+3333030000000,Personaldienstleister/in
+3333040000000,Künstleragent/in
+3333050000000,Sportleragent/in
+3334000100016,Leiter/in Wohngebäude
+3334002000018,Makler/in (Immobilien)
+3334010000000,Immobilienkaufmann/-frau
+3334020000000,Immobilienmakler/in
+3339000100018,Kunsthändler/in
+3339000200018,Literaturagent/in
+3339002100018,Angestellte/r einer Sportleragentur
+3339002200018,Sportveranstalter/in
+3339002300018,Theatermittel
+3339002400018,Reiseveranstalter/in
+3339010000000,Auktionator/in
+3339020000000,Patentanwalt/in
+3341000100018,Call-Center Team Manager/in
+3341000200018,Call-Center Belegschaftsplaner/in
+3341001500018,Supervisor der Mitarbeiter/in
+3341010000000,Leitung Vorzimmer/in
+3341020000000,Büroleiter/in
+3341030000000,Vorarbeiter/in - Büroangestellte für interne Verwaltung
+3341040000000,Sekretariatsmitarbeiter/in
+3342000100018,Verwaltungsrechtlicher Assistent
+3342000200018,Gesetzlicher Stenograph
+3342010000000,Anwaltssekretär/in
+3343000100018,Korrespondenzassistent
+3343000200018,Gerichtsschreiber/in
+3343001300018,Verbatim-Reporter/in
+3343010000000,Verwaltungssekretär/in
+3343020000000,Geschäftsführungssekretär/in
+3343040000000,Persönliche/r Assistent/in
+3343050000000,Projektassistent/in
+3343060000000,Assistent/in der Geschäftsleitung
+3344000100018,Assistenz der Verwaltungsärzte
+3344000200018,Sekretär/in Arzt/-ärztin
+3344000300018,Manager/in Arztpraxis
+3344000400018,Krankenversicherungsabrechnung Sekretärin
+3344000600018,Medizinischer Stenograf
+3344001100018,Krankenpflegerin
+3344010000000,Arztsekretär/in
+3344010127600,Zahnarztsekretär/in
+3351000100018,Grenzwächter/in
+3351000200018,Grenzinspektor
+3351010000000,Zollmeister/in
+3351020000000,GrenzschutzbeamterGrenzschutzbeamtin
+3351030000000,Beamter/Beamtin der Einwanderungsbehörde
+3351140000000,Beamte/r für Passkontrolle
+3352002100018,Steuereintreiber/in
+3352002200018,Steuersachbearbeiter/in
+3352010000000,Zoll- und Steuerbeamter/Steuerbeamtin
+3352020000000,Spendensammler/in / Fundraiser
+3352030000000,Steuerberater/in
+3352040000000,Beamter(er/in) – Steuerverwaltung / Steuerprüfer / Betriebsprüfer
+3353003300018,Renteninspektor
+3353003500018,Sozialversicherungsbeauftragter/in
+3353010000000,Sachbearbeiter/in für die Bewilligung von Hilfsleistungen
+3353020000000,Sachbearbeiter/in für die Bewilligung von Fördergeldern
+3354000100018,Lizenzinspektor
+3354000200018,Lizenzierungsmanager/in
+3354010000000,Beamter/Beamtin für Vergabe von staatlichen Lizenzen
+3354020000000,Gewerbeaufsichtsbeamter/Gewerbeaufsichtsbeamtin
+3354130000000,Beamte/r für Passausstellung
+3354140000000,Beamte/r für Betriebsgenehmigungen
+3354150000000,Beamte/r für Baugenehmigungen
+3355001500018,Polizei ermittlungsbeamter/in
+3355010000000,Polizeiinspektor/in
+3355020000000,Kriminalbeamter/Kriminalbeamtin
+3355030000000,Leitende/r Kriminalbeamte/r
+3355040000000,Ermittlungsbeamter/Ermittlungsbeamtin
+3355050000000,Privatdetektiv/in
+3359000100018,Inspektor des öffentlichen Dienstes
+3359000200018,Konsularbeamter/in
+3359000300018,Diplomatischer Kurier/in
+3359000400018,Offizielle Wahl
+3359000500018,Kontrolleur/in Fischerei
+3359000600018,Forstwirtschaftskontrolleur
+3359003100016,Offizielles Register/in
+3359003200018,Preisen Inspektor/in
+3359003400018,Lohnkontrolleur
+3359010000000,TÜV-Prüfer/in
+3359020000000,Aufsichtsbeamter/Aufsichtsbeamtin für Staatseigentum
+3359040000000,Eichbeamter/Eichbeamtin
+3359060000000,"Inspektor/in Häfen, Flughäfen, Eisenbahn"
+3359070000000,Landwirtschaftsinspektor/in
+3359990000000,Bedienstete/r sonstiger staatlicher Körperschaften
+3411000200018,Anwaltsassistent/in
+3411000300018,Rechtsanwaltsgehilfe
+3411001100018,Anwalt des Anwalts
+3411001200018,Kaufhausdetektiv
+3411010000000,Gerichtsvollzieher/in
+3411020000000,Referendar/in am Gericht
+3411030000000,Rechtsreferendar/in
+3411030127600,Rechtsanwaltsgehilfe/in
+3411040000000,Referendar/in
+3412000100018,Entwicklungshelfer in der Gemeinschaft
+3412000200018,Kriseninterventionsarbeiter/in
+3412000300018,Delinquent Mitarbeiter/in
+3412000400018,Behindertenarbeiter/in
+3412000500018,Arbeiter im Familiendienst
+3412000600018,Hausvater (semiprofessionell)
+3412000700018,Lehrer/in für Lebenskompetenzen
+3412000800018,Unterstützungsarbeiter für psychische Gesundheit
+3412007300018,Bewährungshelfer (nicht zertifiziert)
+3412007500018,Sozialarbeiter unterstützen
+3412007600018,Aufsichtsbehörde für Frauen
+3412007700018,Jugendarbeiter/in
+3412030000000,Mitarbeiter/in einer Hilfs- oder Wohlfahrtseinrichtung
+3412040000018,Anwaltschaft Arbeiter/in
+3412140000000,Zivildiener/in
+3412990000000,Fachkraft im Bereich Sozialarbeit (Sonstige)
+3413000100018,Laienprediger/in
+3413000200018,Mönch
+3413000300018,Muezzin
+3413010000000,Kirchliche/r Mitarbeiter/in
+3413010000018,Evangelist
+3413020000000,Mitarbeiter/in Rettungsdienst
+3413030000000,Gesundbeter/in
+3421000100018,Athlet
+3421000200018,Basketball-Spieler/in
+3421000400018,Boxer/in
+3421000600018,Kartenspieler/in
+3421000700018,Schachspieler/in
+3421000800018,Kämpfer/in
+3421000900018,Eiskunstläufer/in
+3421001000018,Fußballer/in
+3421001100018,Spieler/in
+3421001200018,Torwart
+3421001300018,Golfspieler/in
+3421001400018,Hockey Spieler/in
+3421001500018,Jockey
+3421001600018,Motorradrennfahrer/in
+3421001700018,Muskeln Bodybuilder/in
+3421002200018,Pokerspieler/in
+3421002400018,Skateboardfahrer
+3421002500018,Skirennfahrer/in
+3421002600018,Snowboarder/in
+3421002700018,Sportturner/in
+3421002800018,Sportler/in
+3421003000018,Tennisspieler/in
+3421003100018,Wrestler/in
+3421003200018,Schwimmer/in
+3421003300018,Cricketspieler/in
+3421003400018,Radfahrer/in
+3421003500018,Baseball-Manager/in
+3421003600018,Baseballspieler/in
+3421003700018,Fussball-Manager/in
+3421003800018,Eishockeyspieler/in
+3421003900018,Rennfahrer/in
+3421004000018,Schlittschuhläufer/in
+3421004100018,Ballspieler/in
+3421020000000,Berufssportler/in
+3422000100018,Athletischer Trainer/in
+3422000200018,Billardlehrer/in
+3422000300018,Boxtrainer/in
+3422000400018,Brückenlehrer/in
+3422000500018,Schachlehrer/in
+3422000600018,Spiele-Trainer/in
+3422000700018,Golftrainer/in
+3422000800018,Gynmastik Lehrer/in
+3422000900018,Kampfkunsttrainer/in
+3422002300018,Wrestling-Trainer/in
+3422010000000,Trainer/in
+3422020000000,Sportfunktionär/in
+3422030000000,Sportschiedsrichter/in
+3422040000000,Skitrainer/in
+3422050000000,Fachangestellte/r für Bäderbetrieb
+3422060000018,Basketball Trainer/in
+3422070000018,Fussball Trainer/in
+3422080000018,Eishockey Trainer/in
+3423000100018,Aerobic Trainer/in
+3423000900018,Personal Trainer/in
+3423001000018,Körperlicher Trainer/in
+3423001100018,Pilates-Lehrer/in
+3423001200018,Freizeitpädagoge/in
+3423001400018,Tai-Chi-Lehrer/in
+3423001500018,Tauchlehrer/in
+3423001600016,Yogalehrer/in
+3423010000000,Fitness-Trainer/in
+3423010000018,Segellehrer/in
+3423020000000,Reitlehrer/in
+3423040000000,Outdoorreiseleiter/in
+3423070000000,Freizeitprogrammbetreuer/in für Kinder
+3423080000000,Freizeitprogrammbetreuer/in für Ältere
+3423090000000,Freizeitprogrammbetreuer/in für Behinderte
+3423100000000,Freizeitprogrammbetreuer/in Ferien
+3431000100018,Luftbildfotograf/in
+3431000200018,Architekturfotograf/in
+3431000300018,Kommerzieller Fotograf/in
+3431000400018,Modefotograf/in
+3431000500018,Industriefotograf/in
+3431000600018,Medizinischer Fotograf/in
+3431000700018,Mikrofotograf/in
+3431001300018,Berichterstattungsfotograf/in
+3431001400018,Fotojournalist
+3431001500018,Polizeifotograf/in
+3431010000000,Werbefotograf/in
+3431020000000,Fotograf/in
+3431030000000,"Portrait-, Hochzeits- oder Eventfotograf/in"
+3431040000000,Pressefotograf/in
+3431990000000,Fotograf/in (Sonstige)
+3432000100018,Dekorationsdesigner/in
+3432000200018,Schauwerbegestalter/in
+3432000300018,Messegestalter/in
+3432000400018,Filmdekorateur
+3432001100018,Bühnenbildner/in
+3432020000000,Raumausstatter/in
+3432030000000,Schaufenstergestalter/in
+3432040000000,Gestalter/in für visuelles Marketing
+3432080000000,"Bühnenbildner/in, Messestand-Designer/in"
+3432090000000,"Schaufensterdekorateur/in, Gestalter/in für visuelles Marketing"
+3433000300018,Tierpräparator/in
+3433010000000,Galerietechniker/in
+3433020000000,Museumstechniker/in
+3433030000000,Bibliothekstechniker/in
+3434000100016,Chef de Partie
+3434000200016,Commis Chef
+3434000300016,Küchenchef/in
+3434001600016,Chefpatissier/in
+3434001700018,Saucier/in
+3434001900016,Traditioneller Pastrymaker/in
+3434010000000,Chefkoch/Chefköchin
+3434010200000,Sous-Chef
+3435000100016,Assistent für die Animation der Animation
+3435000200018,Körperkünstler/in
+3435000300018,Broadcasting Floor Manager/in
+3435000400018,"Programm-Koordinator, Rundfunk"
+3435000500018,Rundfunk-Property-Master/in
+3435001700018,"Techniker, Spezialeffekte"
+3435001800018,Inspizient/in
+3435002000018,Stuntkünstler/in
+3435002100018,Stunt-Koordinator
+3435002200018,Theatertechniker/in
+3435002300018,Theateraufbereiter/in
+3435020000018,Tätowierer/in
+3435030000000,Drehbuchassistent/in
+3435030000018,Zirkuskünstler/in
+3435040000000,Lichttechniker/in
+3511000100018,"Operator, Computer/in"
+3511000200018,High-Speed-Drucker für Computerdrucker/in
+3511000300016,IT-Systemadministrator (mittlere Berufsstufe)
+3511020000000,Computertechniker/in
+3512000100018,Kundendienst-Support: Computertechniker/in
+3512000200018,Datenbankassistent/in
+3512000300018,Helpdesk-operator/in
+3512000400018,IT-Helpdesk-Software-Betreiber/in
+3512000500018,IT-Internet-Supporttechniker/in
+3512000600018,IT-Software-Installationsprogramm
+3512000700018,IT-Software-Supporttechniker/in
+3512010000000,IT-Supporttechniker/in
+3513000100018,Netzwerk-supporttechniker/in
+3513010000000,Computer-Netzwerktechniker/in
+3513020000000,Computer-Systemtechniker/in
+3513030000000,IT Hardware-Tester/in
+3514000100018,Internet-Herausgeber/in
+3514000300018,Webentwicklungsbeauftragter/in
+3514000400016,Webmaster/in
+3514000500018,Administrator/in website
+3514000600018,Administrator/in website E-commerce
+3514000700018,Website-Manager/in
+3514010000000,Webtechniker/in
+3514010000018,Web-Redakteur/in
+3521000100018,Audiovisuelle Bediener/in
+3521000200018,Rundfunktechniker/in
+3521000300016,Filmvorführer/in
+3521000400018,Bedienfeldbedienfeld
+3521000500018,Filmkamerabediener/in
+3521000600018,"Produktionsassistent, Medien"
+3521000700018,Mikrofonbediener/in
+3521002100018,Operator-TV-Audiogeräte
+3521002200018,Operator Fernsehstudioausrüstung
+3521002300018,Audioeditor/in
+3521002400018,Tontechniker/in
+3521002500018,Studio Tontechniker (Fernsehen)
+3521002600018,Fernsehkamerabediener/in
+3521002700018,Videokamerabedienung
+3521002800018,Videotechniker/in
+3521002900018,Sichtmischer/in
+3521010000000,Übertragungstechniker/in
+3521030000000,Kameramann/frau
+3521040000000,Leitstandbediener/in
+3521050000000,Synchronisationstechniker/in
+3521070000000,Licht- oder Tonmischer/in (Bühne)
+3521120000000,Aufnahmetechniker/in
+3521130000000,Tonmeister/in
+3521140000000,Tonassistent/in
+3521150000000,Kommunikationselektroniker/in Funktechnik
+3522000100018,Flugfunker/in
+3522000200018,Landgestützter Funker/in
+3522000300018,Morsecode-Operator
+3522000800018,Betreiber/in von Telekommunikationsgeräten
+3522000900018,Telegraphentechniker/in
+3522001000018,Telefontechniker/in
+3522010000000,Telekommunikationstechniker/in
+3522020000000,Luftfahrtelektroniker/in
+3522030000000,Radarbeobachter/in
+4110000200016,Forstverwaltungsbeamter/in
+4110030000000,Bankkaufmann/-frau (Verwaltung)
+4110040000000,"Mitarbeiter/in Marketing, Vertriebsmitarbeiter"
+4110050000000,Bürokaufmann/frau
+4110060000000,Mitarbeiter/in Einkauf
+4110070000000,Mitarbeiter/in Öffentlichkeitsarbeit
+4110090000000,Verwaltungsangestellte/r
+4120000600018,Schreibsekretärin
+4120000700018,Sekretärin für die Textverarbeitung
+4120020000000,Protokollführer/in
+4120040000000,Teamassistent/in oder Abteilungssekretär/in
+4120050000000,Sekretariatssachbearbeiter/in
+4120060000000,Sekretär/in
+4120070000000,Lektoratsassistent/in
+4120070127600,Verlagsangestellte/r
+4120990000000,Sonstige Sekretariatsarbeiten
+4131000200018,Stenograf/in
+4131000300018,Telefax-Angestellter/in
+4131000400018,Telegraphenschreiber/in
+4131000500018,Telex-Angestellter/in
+4131000600018,Stenograph schreiben
+4131000700016,Schreibkraft
+4131000800018,Textverarbeitungsoperator
+4132000200018,Buchhalter Maschinensekretär
+4132000300018,Rechnungsbeamter/in
+4132010000000,Sachbearbeiter/in Dateneingabe
+4211000100018,"Kassier, Bank"
+4211000200018,Wechselstubenkassier/in
+4211010000000,Schaltermitarbeiter/in in Bank
+4211020000000,Schalterangestellte/r
+4211030000000,Geldwechsler/in
+4211040000000,Postangestellte/r im Schalterdienst
+4212010000000,Buchmacher/in
+4212020000000,Croupier/-ère
+4212030000000,Buchmacherangestellte/r
+4212040000000,Casinoangestellte/r
+4212050000000,Wettbüroangestellte/r
+4213010000000,Pfandleiher/in
+4213020000000,Geldverleiher/in
+4214000100018,Kontosammler/in
+4214000200018,Charity-Sammler/in
+4214000300018,Schuldeneintreiber/in
+4214000800018,Zahlungssammler/in
+4214010000000,"Mitarbeiter/in im Forderungswesen (Schulden, Miete oder Bargeld)"
+4214020000000,Sachbearbeiter/in Rechnungswesen
+4221000100018,Flugscheinvermittler/in
+4221000200018,Flugbegleiter beim Check-in
+4221000300018,Check-in-Begleiter/in
+4221001300018,Tourismusinformationsangestellter/in
+4221001400018,Reisevermittler/in
+4221001500018,Reisebürokauffrau
+4221001600018,Reiseleiter/in
+4221001800018,Reiseinformationsangestellter/in
+4221001900018,Reisebürokaufmann
+4221002000018,Fahrkartenschreiber/in
+4221020000000,Reisebüroangestellte/r (Flugreisen)
+4221040000000,Reiseberater/in
+4222000100018,Call-Center Trainer/in
+4222000200018,Kundendienst für Call-Center Betreiber/in
+4222010000000,Mitarbeiter/in Informationsschalter
+4222020000000,Call-Center Agent/in Inbound (eingehende Anrufe)
+4222030000000,Mitarbeiter/in Kundeninformation
+4222040000000,Kundendienstvertreter/in
+4222050000000,Telefonist/in Notrufzentrale
+4222060000000,Vorarbeiter/in - Telefoncenter
+4223000100018,Anrufbeantworter/in
+4223001100016,Pflegeanruf Call-Center
+4223010000000,Telefonzentralenoperator/in
+4223020000000,Telefonist/in
+4224010000000,Mitarbeiter/in Empfang
+4225000100018,Beschwerdeführer/in
+4225000200018,Schalter der Gegenanfrage
+4225010000000,Mitarbeiter/in Anfragen-/Beschwerdemanagement
+4226000100018,Terminschreiber/in
+4226000200018,Zahnärztliche Empfangsdame
+4226000300018,Arzthelferin
+4226010000000,Empfangskraft
+4226020000000,Garage an der Rezeption
+4226030000000,"Empfangskraft, Telefonist/in"
+4226040000000,Angestellte/r in der Immobilienvermietung
+4226050000000,Angestellte/r im Verleih von Straßen- und Wasserfahrzeugen
+4226990000000,Angestellte/r im Verleih von anderen Produkten
+4227000100018,Interviews mit den Offiziersumfragen
+4227000200016,Interviewer/in Marktforschung oder Umfragen
+4227000300018,Interviewer (öffentliche Meinung)
+4227000400018,Interviewer (Umfragen)
+4227000500018,Interview-Assistent
+4227000900018,Telefoninterviewer/in
+4229000100018,Berechtigungsinterviewer/in
+4229000200016,Home Manager/in - Assistent / Stellvertreter/in
+4229000300018,Krankenhausangestellter/in
+4229000400016,Wohnungsassistent
+4229000600016,Nachbarschaftsassistent
+4229000700016,Nachbarschafts-Manager/in
+4229000800016,Nachbarschaftsoffizier/in
+4229001100016,Projektarbeiter/in
+4229001400016,Unterstützung arbeiter/in
+4229001500016,Teamleiter/in
+4229001600016,Mieterunterstützungsarbeiter/in
+4229020000000,Sonstige Berufe im Bereich Kundeninformation
+4311000100018,Auktionsschreiber/in
+4311000200018,Sachbearbeiter in der Buchhaltung
+4311000300018,Sachbearbeiter für Kostenkontrolle
+4311000400018,Kreditkontrolleur
+4311001600018,Bürokaufmann
+4311020000000,Sachbearbeiter/in Buchhaltung
+4311030000099,Sachbearbeiter/in (Sonstige)
+4311040000000,Rechnungssachbearbeiter/in
+4311050000000,Sachbearbeiter/in fuer neue Konten
+4312000100018,Anpassungsangestellter/in
+4312000300018,Investment Sachbearbeiter/in
+4312002100018,Börsenmakler/in
+4312002200018,Superannuation Schreiber/in
+4312010000000,Statistikauswerter/in
+4312020000000,Finanzbuchhalter/in
+4312030000000,Versicherungsangestellte/r
+4312040000000,Versicherungssachbearbeiter/in
+4312050000000,Schadensregulierer/in
+4312060000000,Kreditgenehmiger/in
+4312070000000,Angestellte/r der Kreditabteilung
+4312090000000,Kreditsachbearbeiter/in
+4312100000000,Steuerangestellter/in
+4312110000000,Sachbearbeiter/in Maklerbüro
+4313010000000,Angestellte/r der Lohn- und Gehaltsabteilung
+4321000100018,Dispatch Stock Clerk
+4321000200018,Frachtschreiber/in
+4321000300018,Möbelverwalter/in
+4321003400018,Stock Control Sachbearbeiter/in
+4321003500018,Magazinverwalter/in (Werkstoffe)
+4321003700018,Versorgungsangestellter/in
+4321003800018,Waage-Angestellter/in
+4321010000000,Sachbearbeiter/in Lagerhaltung
+4321020000000,Auftragsverwalter/in
+4321030000000,Logistikmitarbeiter/in
+4321040000000,Wäger/in
+4321050000000,Frachtsachbearbeiter/in
+4321060000013,Lagerhalter/in
+4322000100018,Sachbearbeiterin
+4322010000000,Sachbearbeiter/in Produktion
+4322020000000,Sachbearbeiter/in Produktionsplanung
+4322030000000,Mitarbeiter/in Materialplanung
+4322050000000,Angestelle/r Transportplanung
+4322060000000,Bauablaufplaner/in
+4322160000000,Mitarbeiter/in Auftragsplanung
+4323000100018,Fluglotsenangestellter/in
+4323000200018,Schiffsabfertiger/in
+4323000300018,Bus Dispatcher/in
+4323000500018,Frachtabfertiger/in
+4323000600018,Ferry Schreiber/in
+4323000700018,Flight Dispatcher/in
+4323000800018,Frachtschreiber/in (Versand)
+4323000900018,Gas-Dispatcher/in
+4323002600018,Öl-Versandangestellter/in
+4323003000018,Transportangestellter/in
+4323003100018,Truck Dispatcher/in
+4323003200018,Wassertransportschreiber/in
+4323003300018,Wharf Schreiber/in
+4323010000000,Kaufmann/-frau für Spedition und Logistikdienstleistung
+4323020000000,Flugbetriebsassistent/in
+4323030000000,Frachtspediteur/in
+4411000100018,Kauf von Bibliothekskäufern
+4411000200018,Schreiberbibliothek Klassifizierung
+4411000300018,Angestellte/r Bibliothek Darlehen
+4411000400018,Frankiermaschine Schreiber/in
+4411000500018,Bibliotheksordner/in
+4411010000000,Büroangestellte/r in der Bibliothek
+4412000100018,Postbeamter entsenden
+4412000200018,Postbeamter für Dokumentenkontrolle
+4412000300018,Postsortierer/in
+4412001200016,Post-Zusteller/in
+4412010000000,Bürobote/Bürobotin
+4412030000000,Mitarbeiter/in Poststelle
+4412040000000,Briefträger/in
+4413000100018,Korrekturleser/in
+4413010000000,Kodierer/in
+4413020000000,Korrektor/in
+4414010000000,Ausfüllkraft für Vordrucke
+4415000100018,Dokumentationsmitarbeiter/in
+4415000500018,Fotokopierer/in
+4415010000000,Registrator/in
+4416000100018,Crew Scheduling Schreiber/in
+4416000200018,Angestellte/r Personal
+4416000300018,Personaldatenschreiber/in
+4416010000000,Fachkaufmann/-frau - Personal
+4416020000000,Sachbearbeiter/in Personalplanung
+4419000100018,Adressiermaschine Sachbearbeiter/in
+4419000200018,Korrespondenzschreiber/in
+4419000300018,Mail List Schreiber/in
+4419010000000,Mitarbeiter/in Werbung
+5111000100018,Air-Hostess
+5111010000000,Chef-Steward/Chef-Stewardess
+5111020000000,Flughafenmitarbeiterin
+5111030000000,Steward/ess
+5111040000000,Schiffssteward(ess)
+5111050000000,Zugbegleiter/in
+5111060000013,Gate-Agent
+5112000100018,Busschaffner/in
+5112000200018,Fahrer Autokabel
+5112000300018,Fährbootfahrer/in
+5112000400018,Luftkissenfahrzeugfahrer/in
+5112000600018,Passagiere trainieren Wache
+5112000900018,Bahnhofsschaffner/in
+5112001000018,Straßenbahnschaffner/in
+5112001100018,Schaffner/in
+5112020000000,Bahnhofsvorsteher/in
+5112030000000,Zugchef/in
+5112040000000,Transportassistent/in
+5112050000000,"Chauffeur/in für Zug, Straßenbahn, U-Bahn oder Bus"
+5113000100018,Führer/in kunstgalerie
+5113000200018,Stadtführer/in
+5113000300018,Entdeckungsführer/in
+5113000400018,Leitfaden für Industriebetriebe
+5113000500018,Naturparkführer/in
+5113000700018,Safari-Führer/in
+5113000800018,Freizeitparkführer/in
+5113001000018,Gastgeber-Tour
+5113001100018,Fremdenführer/in
+5113010000000,Reiseführer/in
+5113020000000,Ferienhostess
+5113030000000,Museumsführer/in
+5120000400016,Koreanisches Essen kochen
+5120000500018,Chaos kochen
+5120001400018,Spezielle Diäten kochen
+5120001500016,Tee kochen
+5120001600018,Gemüsekoch
+5120020000000,Filialleiter/in eines Fast-Food-Restaurants
+5120030000000,Leiter/in der Gastronomie
+5120040000000,Mitarbeiter/in Essenszubereitung
+5120050000000,Koch/Köchin in einer Einrichtung
+5120060000000,Koch/Köchin (in einem Restaurant)
+5120070000000,Schiffskoch/Schiffsköchin
+5120080000000,Vorarbeiter/in Servicepersonal Speisen
+5120100000000,Chinesisch Koch/in
+5120110000000,Europäisches Essen kochen
+5120120000000,Japanischer Koch/in
+5120140000000,Indische Koch/in
+5120150000000,Südamerikanischer Koch/in
+5120160000000,Indonesische Koch/in
+5120990000000,Koch/in (Sonstige)
+5131000300018,Verwalter der Verwirrung
+5131000800016,Restaurantfachmann/-frau
+5131000900018,Weinkellner/in
+5131010127600,Oberkellner/in
+5131030000000,"Servicekraft, ohne Restaurant"
+5131040000000,Hostess
+5131050000000,Servicekraft im Restaurant
+5131050000013,Essen und Getränke
+5132000100018,Bar Getränkeservice Begleiter/in
+5132010000000,Barkeeper/in
+5141000100018,"Stylist, Haare"
+5141010000000,Friseur/in
+5141020000000,Herrenfriseur; Herrenfriseuse
+5141030000000,Perückenmacher/in
+5142000800018,Persönlicher Stylist
+5142000900018,Spa-Begleiter/in
+5142001000018,Türkischer Bademeister/in
+5142001100018,Gewichtsverlust Berater/in
+5142010000000,Kosmetiker/in
+5142020000000,Maskenbildner/in
+5142030000000,Maniküre
+5142040000000,Fußpfleger/in (Pediküre)
+5142060000000,Bademeister/in oder Saunaaufsicht
+5142160000000,Berater/in Schlankheitskur
+5151000100018,Frühstücksbegleiter/in Hotel
+5151000300018,Caravan Parkwärter/in
+5151000400018,Schlafsaalwärter/in
+5151000500018,Executive Haushälterin
+5151000600018,Hotelzimmerwart
+5151000700018,Hausverwalter/in
+5151000800018,Haushälter/in hotel
+5151010000000,"Hausmanager/in, Hausdame im Privathaushalt"
+5151020000000,"Hauswirtschafter/in in Hotel, Büro oder anderen Einrichtungen"
+5152000100018,Bed & Breakfast Betreiber/in
+5152000200018,Gästehaus Betreiber/in
+5152010000000,Haushälter/in
+5152020000000,"Butler/in, Diener/in"
+5153000100018,"Concierge, Gebäude"
+5153010000000,Gebäudeschutzbeauftragte/r
+5153010127600,Hausmeister/in (Privatwirtschaft)
+5153020000000,Kirchendiener/in
+5153030000000,Hausmeister/in
+5161000100018,Astrologe/in
+5161000200018,Hellseher/in
+5161000300018,Feng-Shui-Berater/in
+5161000400018,Handleser/in
+5161000500018,Spiritueller Berater/in
+5161000600018,Tarot-Kartenleser/in
+5161010000000,"Sterndeuter/in, Wahrsager/in oder Ähnliches"
+5162000100018,Begleiter/in
+5162000200018,Begleiter/in (keine Altenpflege)
+5162000300018,Valet-Personal
+5162010000000,Bedienstete/r
+5163000100018,Begräbnisbegleiter/in
+5163000600018,Bestattungsunternehmer/in
+5163000700018,Bestatter des Bestellers
+5163010000000,Bestattungsmanager/in
+5163020000000,Einbalsamierer/in
+5163030000000,Bestattungshelfer/in
+5164000100018,Tierpfleger/in
+5164000200018,Tierreservehalter/in
+5164000300018,Hundeausbildner/in
+5164000400018,Revierjäger/in
+5164000500018,Pferdetrainer/in
+5164000600018,Kennel Keeper/in
+5164000700018,Kennel Arbeiter/in
+5164000800018,Labor Tierbegleiter/in
+5164000900018,Labortierzüchter/in
+5164002500018,Rennpferdetrainer/in
+5164002700018,Zoowärter/in
+5164010000000,Haustierzüchter/in
+5164120000000,Tierpfleger/in (nicht in landwirtschaftlichen Betrieben)
+5164130000000,Dresseur/in
+5164140000000,Tierarzthelfer/in
+5164150000000,Versuchstierpfleger/in
+5164160000000,Stallknecht/in
+5165020000000,Prüfer fahren
+5165030000000,Fahrlehrer/in
+5169000100018,Club-Gastgeber/in
+5169000200018,Tanzpartner/in
+5169000300018,Prostituierte
+5169020000000,Angestellte/r in einer Frühstückspension
+5169050000000,"Heimleiter/in, Hausvater/Hausmutter"
+5169990000000,Sonstige Mitarbeiter/innen im Dienstleistungsbereich
+5211000100018,Marktstand Verkäufer/in
+5211000200018,Marktstandhalter/in
+5211000400018,Verkäufer von Straßenständen
+5211010000000,Verkäufer/in in einem Verkaufsstand
+5211020000000,Markt- und Strassenverkäufer/in
+5212000400018,Straßenverkäufer trinken
+5212000500018,Straßenverkäufer Süßwasser/in
+5212000600018,Straßenverkäufer Erfrischungen
+5212010000000,Straßenverkäufer/in Schnellimbiss
+5221000100018,Buchantiquar/in
+5221000200018,Buchhändler/in
+5221000300018,"Floristin, die ein Geschäft betreibt"
+5221000900018,Zeitschriftenhändler/in
+5221001000018,Online-Händler/in
+5221001100016,Tripe Verkäufer/in
+5221020000000,"Ladenbesitzer/in - Agrarhandel, Haustiere und Pflanzen"
+5221050000000,Ladenbesitzer/in - Bauausstattung oder Komponenten
+5221060000000,"Ladenbesitzer/in - Unterhaltungselektronik, Haushaltsgeräte"
+5221070000000,Ladenbesitzer/in - Drogerie
+5221080000000,"Ladenbesitzer/in - Lebensmittel, Getränke, Tabakprodukte"
+5221090000000,"Ladenbesitzer/in - Schmuck, Luxusgüter"
+5221110000000,"Ladenbesitzer/in - Zeitungen, Bücher, Musik, Videos, Spiele"
+5221120000000,"Ladenbesitzer/in - Kleidung, Lederwaren"
+5221140000000,Ladenbesitzer/in - Sport- oder Freizeitartikel
+5221150000000,Werkstattleiter/in (Autohandel)
+5221160000000,Obst- und Gemüsehändler/in
+5221170000000,Lebensmittelhändler/in
+5221180000000,Milchmann/frau
+5221190000000,Ladenbesitzer/in Supermarkt
+5221200000000,Geschäftsinhaber/in für Autoteile oder Benzin
+5221210000000,Vorarbeiter/in Supermarkt
+5221990000000,Sonstige geschäftsführende Tätigkeit (Inhaber/in)
+5222000300016,Supervisor Tankstelle
+5222010000000,"Ladenleiter/in - Agrarhandel, Haustiere und Pflanzen"
+5222020000000,Ladenleiter/in - KFZ-Brennstoff
+5222040000000,Ladenleiter/in - Bauausstattung oder Komponenten
+5222050000000,"Ladenleiter/in - Unterhaltungselektronik, Haushaltsgeräte"
+5222060000000,Ladenleiter/in - Drogerie
+5222070000000,"Ladenleiter/in - Lebensmittel, Getränke, Tabakprodukte"
+5222080000000,"Ladenleiter/in - Schmuck, Luxusgüter"
+5222100000000,"Ladenleiter/in - Zeitungen, Bücher, Musik, Videos, Spiele"
+5222110000000,"Ladenleiter/in - Kleidung, Lederwaren"
+5222130000000,Ladenleiter/in - Sport- oder Freizeitartikel
+5222990000000,Geschäftsleiter/in (Sonstige)
+5223000100018,Autoleasing-Vertreter/in
+5223000200018,Autoverkäufer/in
+5223000400018,Apothekenverkäufer/in
+5223000600018,Fahrzeug Leasing Agent
+5223000700018,Großhandel Verkäufer/in
+5223010000000,"Verkäufer/in - Agrarhandel, Haustiere und Pflanzen"
+5223040000000,Verkäufer/in - Bauausstattung oder Komponenten
+5223050000000,"Verkäufer/in - Unterhaltungselektronik, Haushaltsgeräte"
+5223060000000,Verkäufer/in - Drogerie
+5223070000000,"Verkäufer/in - Lebensmittel, Getränke, Tabakprodukte"
+5223070127600,Fleischereifachverkäufer/in
+5223080000000,"Verkäufer/in - Schmuck, Luxusgüter"
+5223100000000,"Verkäufer/in - Zeitungen, Bücher, Musik, Videos, Spiele"
+5223110000000,"Verkäufer/in - Kleidung, Lederwaren"
+5223130000000,Verkäufer/in - Sport- oder Freizeitartikel
+5223150000000,Verkäufer/in - KFZ-Brennstoff
+5223160000000,"Verkaufsassistent/in Supermarkt, Kaufhaus"
+5223170000000,Verkaufsassistent/in
+5223990000000,Verkäufer/in  (Sonstige)
+5230000100018,Tankstelle Kassiererin
+5230000400018,Verkaufsstellenbetreiber/in
+5230000500018,Kassierer/in in einem Restaurant
+5230000600018,Fischzüchter/in
+5230000700018,Supermarkt Kassierer/in
+5230000800018,Ticketausstellungsmitarbeiter für Unterhaltungs- oder Sportveranstaltungen
+5230000900018,Gebührensammler/in
+5230010000000,Mitarbeiter/in Kartenverkauf
+5230020000000,Kassierer/in
+5230020127600,Kassierin im Einzelhandel
+5230040000000,Mitarbeiter/in Reservierung oder Buchung
+5241000100018,Werbemodell
+5241000200018,Künstlermodell
+5241000300018,Kleidungsdisplaymodell
+5241000400018,Mannequin
+5241010000000,Mannequin/Dressman
+5242000100018,Merchandiser vorführen
+5242010000000,Produktpräsentator/in
+5243000100018,Tür-zu-Tür-Reisender/in
+5243000200018,Partyplan-Gastgeber/in
+5243000300018,Partyplan Verkäufer/in
+5243010000000,Haustürverkäufer/in
+5244000100018,Call-Center Betreiber kalt telefonieren
+5244000200018,Kundenkontaktcenter-Verkäufer/in
+5244000300018,Ebay-Verkäufer/in
+5244000400018,Ebay-Handelsassistent
+5244001400018,Telemarketer/in
+5244001500018,Telefonwerber/in
+5244001600018,Telefon oder Internet Sexarbeiter/in
+5244001700018,Telesales-Vermarkter/in
+5244010000000,Call-Center Agent/in Outbound (ausgehende Anrufe)
+5244010000099,Call-Center Berufe (Sonstige)
+5245000100018,Einfahrt Begleiter/in
+5245010000000,Tankwart/in
+5245120000000,Hilfskraft Yachthafen
+5246000100018,Angestellte Bar Essen Service
+5246000200018,Verpflegungskantine Essen Service
+5246000300018,Angestellter Essensschalter/in
+5246000400018,Attendant Salatbar
+5246000500018,Kaffee Food Service Arbeiter/in
+5246000600018,Food Service Kiosk Verkäufer/in
+5246000700018,Food Service Market Verkäufer/in
+5246010000000,"Thekenkraft Cafeteria, Kantine"
+5246020000000,Thekenkraft in Café/Bistro
+5246030000013,Barista
+5249000100018,Autovermieter/in
+5249000400018,Persönlicher Käufer/in
+5249000700018,Videoverleih-Verkäufer/in
+5249010000000,Fahrer/in / Verkaufskraft
+5249020000000,Produktpromoter/in
+5311001100018,Außerhalb des Schulklubkoordinators
+5311010000000,Kinderbetreuer/in
+5311020000000,Au-pair
+5311040000000,Erzieher/in
+5311150000000,Kinderbetreuuer/in außerhalb der Schule
+5311160000000,Kindermädchen
+5311170000000,Betreuuer/in in Ganztagsbetreuung
+5311180000000,Kinderbetreuer/in für Kleinstkinder
+5312000900018,Helfer des Lehrers
+5312010000000,Assistenzlehrer/in
+5312020000000,Schulkinderaufsicht
+5312030000000,Betreuuer/in in Vorschule
+5321000100018,Begleitende Hebammenklinik oder ein Krankenhaus
+5321000300018,Geburtshelfer/in im Krankenhaus
+5321002000018,Pflegehilfskraft (Klinik)
+5321002100018,Pflegehilfskraft (Krankenhaus)
+5321002200018,Pfleger/in
+5321010000018,Krankenpflegehelfer/in
+5321020000000,Krankenpflegehelfer/in Krankenhaus
+5321040000000,Schwangerschaftsbetreuer/in
+5321130000000,Pfleger/in in einem Altenheim
+5321140000000,Pfleger/in in einer Behinderteneinrichtung
+5321160000000,Pfleger/in in einer psychiatrischen Einrichtung
+5322000100018,Im Alter von Pflegehelfer/in
+5322000200018,Begleiter/in (Altenpflege)
+5322000300018,"Begleiter/in (behindert, krank)"
+5322000400018,Geburtshelfer/in
+5322001700018,Pflegedienst (Zuhause)
+5322001800018,Persönlicher Betreuer/in
+5322001900016,Sozialarbeiter agogisch
+5322010000000,Ambulante(r) Pfleger/in
+5322020000013,Familienhelfer/in
+5329000100018,Zahnarzthelferin
+5329000200018,Assistent für medizinische Bildgebung
+5329000500018,Sterilisationshilfe
+5329010000000,Pflegedienstleiter/in
+5329020000000,Pharmazeutische/r Assistent/in
+5329150127600,Krankenpflger/in Krankenhaus
+5329160127600,Erste Hilfe Bedienstete
+5411000100018,Flugzeugunfälle Feuerwehrmann
+5411010000000,Feuerwehrmann/-frau
+5411020000000,Oberbrandmeister/in
+5411030000000,Waldbrand Feuerwehrmann
+5412000100018,Hafenpolizist
+5412002300018,Polizeisergeant
+5412010000000,Polizist/in
+5412020000000,BKA-Mitarbeiter/in
+5412030000000,Polizeivollzugsbeamt(er/in) (mittl. Dienst)
+5412040000000,Leitende/r Polizeibeamter/Polizeibeamtin
+5412050000000,LKA-Mitarbeiter/in
+5412060000000,Verkehrspolizist/in
+5412070000000,"Zoll, Hafen- oder Bahnpolizist/in"
+5413010000000,Strafvollzugsbeamter/in
+5413020000000,Leitender Beamter im Strafvollzug
+5414000100018,Wächter der Kunstgalerie
+5414000200018,Concierge (Hotel)
+5414001300018,Nachtwächter/in
+5414001400018,Privater Sicherheitsoffizier/in
+5414010000000,Wach- und Sicherheitsfachmann/-frau
+5414020000000,Skymarshall
+5414030000000,Sicherheitsdienstleiter/in
+5414040000000,Stadtwächter/in
+5414040127600,Wachmann/-frau
+5414050000000,Kaufhausbedienstete
+5414060000000,Portier/in
+5414070000000,Wächter/in Industriebetrieb
+5414080000000,Personenschützer/in
+5414180000000,Museumswärter/in
+5414190000000,Türsteher/in
+5414200000000,Hotelpage
+5419000100018,Tierkontrolloffizier/in
+5419000200018,Vogelschützer/in
+5419000300018,Jagdwächter/in
+5419001200018,Bademeister/in
+5419010000000,Hilfspolizist/in
+5419021000000,Tierwächter/in
+5419030000000,Angehörige/r der Küstenwache
+5419040000000,Rettungsschwimmer/in
+5419050000000,Schülerlotse/Schülerlotsin
+5419170327600,Strandpolizist/in
+6111000100018,Landarbeiter/in (Baumwolle)
+6111000300018,Landarbeiter/in (Erdnuss)
+6111000400018,Landarbeiter/in (Jute)
+6111000500018,Landarbeiter/in (Kartoffel)
+6111000600018,Landarbeiter/in (Reis)
+6111000700018,Landarbeiter/in (Zuckerrübe)
+6111000800018,Landarbeiter/in (Zuckerrohr)
+6111000900018,Landarbeiter/in (Tabak)
+6111001100018,Landarbeiter/in (Weizen)
+6111001200018,Bauer/in (Luzerne)
+6111001300018,Bauer/in (Getreide)
+6111001400018,Bauer/in (Mais)
+6111001500018,Bauer/in (Baumwolle)
+6111001700018,Bauer/in (Erdnuss)
+6111001800018,Bauer/in (Jute)
+6111001900018,Bauer/in (Ölsaaten)
+6111002000018,Kartoffelbauer/in
+6111002100018,Bauer/in (Reis)
+6111002200018,Bauer/in (Sojabohne)
+6111002300018,Bauer/in (Zuckerrübe)
+6111002400018,Bauer/in (Zuckerrohr)
+6111002500018,Bauer/in (Tabak)
+6111002700018,Weizenbauer/in
+6111002800018,Bewässerungsarbeiter/in
+6111003200018,Weidenzüchter/in
+6111010000000,Gärtner/in – Gemüsebau
+6111020000000,Vorarbeiter/in - Agrarbetrieb
+6111030000000,"Landarbeiter/in (Feldfrüchte, Gemüse)"
+6112000100018,Baumzüchter/in
+6112000200018,Landarbeiter/in (Kakao)
+6112000300018,Landarbeiter/in (Kokosnuss)
+6112000400018,Landarbeiter/in (Kaffee)
+6112000500018,Landarbeiter/in (Kopra)
+6112000600018,Landarbeiter/in (Obst)
+6112000700018,Landarbeiter/in (hop)
+6112000800018,Landarbeiter/in (Obstgarten)
+6112000900018,Landarbeiter/in (Gummi)
+6112001000016,Landarbeiter/in (Strauchernte)
+6112001100018,Landarbeiter/in (Teeplantage)
+6112001200018,Landarbeiter/in (Baumernte)
+6112001300018,Bauer/in (Kakao)
+6112001400018,Bauer/in (Kokosnuss)
+6112001500018,Bauer/in (Kaffee)
+6112001600018,Bauer/in (Kopra)
+6112001700018,Obstbauer/in
+6112001800018,"Landwirt, Hopfenanbau"
+6112001900018,Bauer/in (Nuss)
+6112002000018,Bauer/in (Obstgarten)
+6112002100018,Bauer/in (Gummi)
+6112002200018,Weinbauer/in
+6112002300018,Rebstockschere
+6112002400016,Hersteller von Haselnüssen
+6112002500018,Ahornsirupklopfer/in
+6112002800018,Plantagenarbeiter/in
+6112003000018,Gummizapfer/in
+6112003100018,Tee-Pflanzer/in
+6112003200018,Weinbergarbeiter/in
+6112010000000,Baumplantagenzüchter/in
+6112030000000,Winzer/in
+6112050000000,Vorarbeiter/in - Baumplantagen
+6113000200018,Nelkenpflanzer/in
+6113000300018,Landarbeiter/in (Pilz)
+6113000400018,Blumenzüchter/in
+6113000500018,Treibhausarbeiter/in
+6113000600018,Landschaftsgärtner/in
+6113000700018,Champignonzüchter/in
+6113003100018,Baumschulzüchter/in
+6113003300018,Osier-Züchter/in
+6113003500018,Rosenzüchter/in
+6113003600018,Samenzüchter/in
+6113003700018,Gewürzzüchter/in
+6113003800018,Tulpenzüchter/in
+6113003900018,Rasenproduzent
+6113020000000,Gartenbauer/in
+6113020127600,Zierpflanzengärtner/in
+6113040000000,Friedhofsgärtner/in
+6113050000000,"Techniker/in – Gartenbau (Garten-, Landschaftsbau)"
+6113060000000,Vorarbeiter/in - Gärtner für öffentliche Grünlagen
+6113070000000,Blumenbinder/in
+6113080000000,"Golfplatzpfleger/in, Greenkeeper"
+6113110000000,Bodenarbeiter/in
+6113120000000,Arbeiter/in in einem Zuchtbetrieb für Gartenpflanzen
+6113990000000,Gärtner/in – Garten- und Landschaftsbau
+6114000100018,Landarbeiter/in (gemischte Kulturen)
+6114010000000,Züchter/in von Mischkulturen
+6121000100018,Katzenzüchter/in
+6121000200018,Hundezüchter/in
+6121000300018,Landarbeiter/in (Rinder)
+6121000400018,Landarbeiter/in (Molkerei)
+6121000600018,Landarbeiter/in (Schwein)
+6121000700018,Landarbeiter/in (Schafe)
+6121000800018,Bauer/in (Alpaka)
+6121000900018,Bauer/in (Astrachan)
+6121001000018,Bauer/in (Ziege)
+6121001100018,Schafhalter/in
+6121001300018,Melkmaschinenbediener/in
+6121002400018,Gestüt Züchter/in
+6121010000000,Erzeuger/in von Milchprodukten
+6121020000000,Aufsichtführende/r in einem Viehzuchtbetrieb
+6121030000000,Landarbeiter/in (Vieh)
+6121040000000,Viehzüchter/in
+6121050000000,Kuh- oder Schafhirte / Kuh- oder Schafhirtin
+6121060000000,Pferdezüchter/in
+6121070000000,Pelzbauer (Haustiere)
+6121100000000,Landarbeiter/in (Pelz - Haustiere)
+6122000100018,Landarbeiter/in (Geflügel)
+6122000200018,Bauer/in (Huhn)
+6122000300018,Bauer/in (Ente)
+6122000400018,Bauer/in (Eierproduktion)
+6122000500018,Bauer/in (Gans)
+6122000600018,Bauer/in (Truthahn)
+6122010000000,Gefügelzüchter/in
+6123000100018,Imkerei Arbeiter/in
+6123000300018,Bauer/in (Imkerei)
+6123000400018,Bauer/in (Seide)
+6123010000000,Imker/in
+6129000100018,Vogelzüchter/in
+6129000200018,Hirschzüchter/in
+6129000300018,Landarbeiter/in (Pelz - nicht-Haustiere)
+6129000400018,Landarbeiter/in (Strauß)
+6129000500018,Bauer/in (Krokodil)
+6129000600018,Bauer/in (Känguru)
+6129000700018,Bauer/in (Nicht-Haustiere)
+6129000800018,Bauer/in (Strauß)
+6129000900018,Pelzbauer (Nicht-Haustiere)
+6129001000018,Löwenzüchter/in
+6129001300018,Reptilienzüchter/in
+6129070000000,Schweinezüchter/in
+6129090000000,Stallmeister/in
+6129990000000,Sonstige/r Züchter/in von Nutztieren
+6130000100018,Landarbeiter/in (alle anderen)
+6130000200016,Feldfrüchte- und Fleischerzeuger/in
+6210000100018,Holzkohlenbrenner/in
+6210000200018,Korkrindenstripper/in
+6210000300018,Bezirksförster/in
+6210000400018,Holzfloßhersteller/in
+6210000600018,Baummarkierung
+6210010000000,Forstarbeiter/in
+6210010000018,Forstschere
+6210020000000,Waldfacharbeiter/in
+6210030000000,Köhler/in oder verwandte Tätigkeit
+6210040000000,Förster/in
+6210050000000,Vorarbeiter/in - Forstbetrieb
+6210070000000,Baumschulbetreiber/in
+6210080000000,Naturparkaufseher/in
+6210090000000,"Strohwarenflechter/in, Schilfschneider/in"
+6210210000000,Holzfäller/in
+6221000100018,Landarbeiter/in (Auster)
+6221000200018,Bauer/in (Aquakultur)
+6221000300018,Austernzüchter/in
+6221000600018,Pearl Grubber/in
+6221000800018,Fischzüchter/in
+6221010000000,Algenzüchter/in
+6221020000000,Aquakultur Fischzuchtarbeiter/in
+6221030000000,Landarbeiter/in (Meeresfrüchte)
+6221040000000,Züchter/in von Fisch und Meeresfrüchten
+6221990000000,Sonstige Berufe im Bereich Aquakultur
+6222000100018,Kapitän Küstengewässer Fischerboot
+6222000200018,Fischer in Küstengewässern
+6222000300018,Binnenfischereiarbeiter/in
+6222010000000,Fischwirt/in - Seen- und Flussfischerei
+6222020000000,Küstenfischer/in
+6222030000000,Vorarbeiter/in - Fischereibetrieb
+6222110000000,Fischzuchtarbeiter/in
+6223000100018,Kapitän Hochseefischerboot
+6223000200018,Hochseefischer/in
+6223000300018,Trawler-Crew-Mitglied
+6223000400018,Trawler Skipper/in
+6223010000000,Hochseefischereiarbeiter/in
+6224000600018,Wal-Harpunier/in
+6224000700018,Waljäger/in
+6224010000000,"Jäger/in, Fallensteller/in"
+6310000100018,Gemüsebauer (Subsistenzlandwirtschaft)
+6310010000000,hauptberuflicher Agrarlandwirt/in
+6320010000000,hauptberuflicher Viehzüchter/in
+6330000100018,Landarbeiter/in (Subsistenzwirtschaft)
+6330010000000,Bauer/in mit Tierhaltung
+6340000100016,"Hauptberuflicher Fischer, Jäger, Sammler/in"
+7111000500018,Hersteller traditioneller Materialien
+7111010000000,Baufachmann für Häuser/in
+7111020000000,Gebäudesanierer/in
+7112000100018,Schornsteinmaurer/in
+7112000200018,Bausteinhauer/in
+7112000300018,Schamotte-Schicht
+7112010000000,Maurer/in
+7112010227600,Maurerhelfer/in
+7112020000000,Bauwerksmaurer/in
+7112050000000,Bediener/in einer Abrichthobelmaschine
+7112060000000,Kittarbeiter/in
+7112070000000,Bediener/in eines Pressluftbohrer
+7112080000000,Pflasterer/in
+7112190000000,Bauarbeiter/in
+7113000100018,Granitschneider/in
+7113000200018,Granitpolierer/in
+7113000300018,Marmor Polierer/in
+7113000400018,Denkmalschnitzer-Setter/in
+7113000500018,Denkmal Maurer/in
+7113001100018,Steinschnitzer/in
+7113001200018,Steingraveur/in
+7113001300018,Stein-Grader/in
+7113001400018,Steinsäger/in
+7113001500018,Steinmetz-Layoutarbeiter/in
+7113010000000,Steinmetz/in
+7113020000000,Steinbearbeiter/in (Bohren)
+7113030000000,Steinputzer/in
+7113050000000,Steinbearbeiter/in Sandstrahltechnik
+7113060000000,Steinbearbeiter/in
+7113070000000,Bausteinmetz/in
+7114010000000,Plattenleger/in (Beton)
+7114020000000,Betonputzer/in
+7114030000000,Betongiesser/in
+7114040000000,Beton- und Stahlbetonbauer/in
+7114050000000,Terrazzowerker/in
+7115000100018,Türinstallateur
+7115001600018,Fensterrahmeninstallateur
+7115001700018,Holzbootbauer/in
+7115010000000,Zimmerer/Zimmerin
+7115010227600,Tischlerfachwerker/in
+7115010327600,"Zimmerer/in, Bautischler"
+7115020000000,Betonierer/in
+7115020000018,Geschäftsinnenausstatter/in
+7115030000000,Zimmermann Instandhaltung
+7115040000000,"Küchentischler/in, Küchenschreiner/in"
+7115050000000,Büromöbeltischler/in
+7115060000000,Jalousienbauer/in
+7115110000000,Holzschiffbauer/in
+7115990000000,Bauschreiner/in
+7119000100018,Asbestsanierer/in
+7119000200018,Anschlagtafelaufrichter/in
+7119000300018,Schornsteinreparaturbetrieb
+7119000400018,Bau-Armschutz
+7119000600018,Wartungsarbeiter/in (Gebäude)
+7119000900018,Pool-Installationsprogramm
+7119001000018,Pewtersmith
+7119010000000,Fertighausmonteur/in
+7119020000000,Gebäudeabbrucharbeiter/in
+7119040000000,Abbrucharbeiter/in
+7119050000000,Polier/in
+7119060000000,Gerüstbauer/in
+7121000100018,Dachdecker aus Metall
+7121000600018,Holzschindeldachdecker/in
+7121010000000,Dachdecker/in
+7121020000000,Flachdachdecker/in
+7122000100018,Blockschichtholzprodukte
+7122000200018,Teppichbodenleger/in
+7122000300018,Bodenmonteur
+7122000400018,Bodenleger/in
+7122010000000,"Teppich-, Linoleum- oder Korkbodenverleger/in"
+7122020000000,Fliesenleger/in
+7122030000000,Marmorverleger/in
+7122040000000,Mosaikverleger/in
+7122050000000,Parkettverleger/in
+7123000100018,Trockenmauer Gipser/in
+7123000400018,Zierputzer/in
+7123000500018,Gipskarton-Installer/in
+7123000600018,Stuck Maurer/in
+7123010000000,Stukkateur/in
+7123020000000,Trockenbauer/in
+7123030000000,Stuckmaurer/in
+7124000100018,Akustische Dämmarbeiter/in
+7124000200018,Kessel- und Rohrisolierungsarbeiter/in
+7124000300018,Dämmungsarbeiter bauen
+7124010000000,Isolierer/in
+7125000100018,Künstlerischer Glassetzer/in
+7125000200018,Glaserei (Überdachung)
+7125000300018,Glaserei (Glasmalerei)
+7125000400018,Glaserei (Fahrzeuge)
+7125001000018,Tellerglas-Installateur
+7125001100018,Installateur für Fensterverglasung
+7125001200018,Windschutzscheiben-Installer/in
+7125001300018,Reparatur von Windschutzscheiben
+7125010000000,Glaser/in
+7126000100018,Flugzeugrohrschlosser/in
+7126000200018,Badezimmerinstallateur
+7126000300018,Installateur entleeren
+7126000400018,Schicht ablassen
+7126000500018,Marine Rohrschlosser/in
+7126003400018,Pipeline-Arbeiter/in
+7126003700018,Dampfrohrmonteur
+7126003800018,Lüftungsrohrmonteur
+7126003900018,Wasserleitungsinstallateur
+7126010000000,Klempner/in
+7126020000000,Anlagenmechaniker - Sanitär-. Heizungs- und Klimatechnik
+7126020127600,Anlagenmonteur/in
+7126030000000,Leitungsrohrverleger/in
+7126040000000,Pipelinearbeiter/in
+7126050000000,Schachtbohrer/in
+7126070000000,Gastechniker/in
+7127010000000,"Mechatroniker/in - Klimatechnik, Kältetechnik"
+7127030000000,Kälte- und Klimatechniker/in
+7131000100018,Maler-Dekorateur bauen
+7131000200018,Bautenmaler/in
+7131000300018,Filmbild Maler/in
+7131000800018,Farbenreiber/in
+7131000900018,Bühnenmaler/in
+7131001000018,Baustahlmaler/in
+7131001100018,Wallpaper Aufhänger/in
+7131010000000,Fassadengestalter/in
+7131020000000,Maler/in Sprüharbeiten
+7131030000000,Maler/in und Lackiererin Fachrichtung Gestaltung und Instandhaltung
+7131040000000,Maler/in (Instandhaltung)
+7131050000000,Schiffsanstreicher/in
+7131060000000,Tapezierer/in
+7131070000000,"Dekorationsmaler/in für Glas, Keramik"
+7132000100018,Wagenlackierer/in
+7132000200018,Metallmaler/in
+7132000300018,Metallsprüher/in
+7132001400018,Maler stellte Artikel her/in
+7132001500018,Spritzlackierer/in
+7132001600018,Lackierer (alle anderen)
+7132001700018,Lackierer (Fahrzeuge)
+7132001800018,Fahrzeuglackierer/in
+7132020000000,Industrielackierer/in
+7132030000000,Metalllackierer/in
+7133010000000,Fassadenreiniger/in
+7133020000000,Fassadenreiniger/in Sandstrahlverfahren
+7133030000000,"Schornsteinfeger/in, Kaminkehrer/in"
+7211000100018,Kernmacher/in
+7211000200018,Maschinenbediener (Metallkernherstellung)
+7211010000000,Metallgussformer/in
+7211020000000,Metallträgerhersteller/in
+7211050000000,Bediener/in von Metall- und Schneidmaschinen
+7212000100018,Lead Brenner/in
+7212000200018,Maschinenbediener (Drahtwaren)
+7212000300018,Lötmetall
+7212020000000,Gasschneidbrenner/in
+7212030000000,Kupferschmied/in
+7212050000000,Löter/in
+7212070000000,Schweißer/in - Metallische Werkstoffe
+7212080000000,Schweißer/in - Synthetische Materialien
+7212090000000,Schmelzschweißer/in
+7212990000000,Schweißer/in – Sonstige
+7212990127600,"Elektro-, Schutzgasschweißer/in"
+7213001800018,Autoschlosser/in
+7213001900018,Blechreißer/in
+7213002000018,Fahrzeug-Panel-Schläger/in
+7213010000000,Blechbearbeiter/in
+7213010000018,Karosseriebauer (Metall)
+7213020000000,Blechanreisser/in
+7213030000000,Karosseriebauer/in
+7213040000000,"Kupferschmied/in, Blechschmied/in"
+7213170000000,Kesselschmied/in
+7214000100018,Baustahlaufrichter/in
+7214000200018,"Schiffbauer/in, metall"
+7214001500018,Pneumatischer Nietmesser/in
+7214001600018,Nieter/in
+7214001800018,Polizeifotograf
+7214001900018,Konstruktiver Metallaufrichter/in
+7214002000018,Strukturelle Metallmarkierung
+7214002100018,Stahlbauarbeiter/in
+7214010000000,Stahlbaumonteur/in
+7214010000018,Blechbiegemaschine
+7214020000000,Schiffsbauer/in
+7214030000000,Zaunbauer/in
+7214040000000,Eisenflechter/in
+7215000100018,Flugzeug Rigger/in
+7215000200018,Seil- und Seilspleißgerät
+7215000500018,Öl- und Gasbrunnen
+7215000600018,Schiffsausleger/in
+7215000800018,Hängebrücke Kabelarbeiter/in
+7215000900018,Turmausleger/in
+7215010000000,Takler/in
+7215020000000,"Seilspinner/in, -presser/in oder -spleisser/in"
+7215030000000,"Drahtmacher/in, -presser/in"
+7215040000000,Mitarbeiter/in im Stahlbrückenbau
+7221000100018,Bulldozer Smith
+7221000200018,Drop Fälscher/in
+7221000300018,Schmiedehammerfahrer/in
+7221000400018,Schmied Schmied
+7221000500018,Metall-Zaubernder/in
+7221000600018,Metal ehemaliger/in
+7221000700018,Bediener der Metallpresse
+7221000900018,Drahtzieher/in
+7221010000000,Schmied/in
+7221010000018,Werkzeugschmied/in
+7221020000000,Maschinenbediener/in Schmiedemaschine
+7221030000000,"Giessereiarbeiter/in, Giesser/in"
+7221040000000,Hufschmied/in
+7222000100018,Die Finisher/in
+7222000200018,Messgeräthersteller/in
+7222000300018,Jig Maker/in
+7222000400018,Metallmusterhersteller/in
+7222001000018,Werkzeugmacher drücken
+7222001100018,Vorlagenhersteller/in
+7222010000000,Werkzeugmacher/in
+7222020000000,Metallmarkierer/in
+7222030000000,Metallguss-Formmacher/in
+7222040000000,"Schlosser/in, Sicherheitschranktechniker/in"
+7222050000000,Büchsenmacher/in
+7222060000000,Hersteller/in von Druck-/Schmiedeformen
+7223000100018,Maschinenbediener (Ankerproduktion)
+7223000200018,Maschinenbediener (Kesselproduktion)
+7223000300018,Maschinenbediener (Kabelproduktion)
+7223000500018,Maschinenbediener (elektrische Verkabelung)
+7223000600018,Maschinenbediener (Schmuckherstellung)
+7223000700018,Maschinenbediener (Metallbiegen)
+7223000800018,Maschinenbediener (Metallschneiden)
+7223000900018,Maschinenbediener (Metall Bohren)
+7223001000018,Maschinenbediener (Metallätzen)
+7223001100018,Maschinenbediener (Metall-Extrudieren)
+7223001200018,Maschinenbediener (Metallumformung)
+7223001300018,"Hobelmaschinist, Metall"
+7223001400018,Maschinenbediener (Metallprodukte)
+7223001500018,Maschinenbediener (Metallsägen)
+7223001600018,Maschinenbediener (Metallspinnen)
+7223001700018,Maschinenbediener (Metallspielzeug)
+7223001800018,Maschinenbediener (Rohrfertigung)
+7223001900018,Maschinenbediener (Nieten)
+7223002000018,Maschinenbediener (Werkzeugschleifen)
+7223002100018,Maschinenbediener (Uhrenproduktion)
+7223002200018,Bediener/in von werkzeugmaschinen
+7223002300018,Setzer-Bediener für Metallschleifmaschinen
+7223002400018,Metallmaschinenarbeiter/in
+7223003900018,Blechspinner/in
+7223010000000,CNC-Dreher/in
+7223020000000,Werkzeugmaschineneinrichter/in oder Maschinenführer/in
+7223030000000,Dreher/in
+7223040000000,Metall- und Glockengiesser/in - Metallgusstechnik
+7223050000000,Verpacker/in von Metallprodukten
+7223060000000,Tiefbohrer/in
+7223070000000,Werkzeugmechaniker/in
+7224000100018,Messerschärfer/in
+7224000200018,Werkzeugmaschinenschleifer/in
+7224000300018,Metallreiniger/in
+7224000400018,Metallveredler/in
+7224000500018,"Polierer, Metall"
+7224001100018,Sah Spitzer/in
+7224001200018,Werkzeuge schleifer/in
+7224001300018,Werkzeugschärfer/in
+7224010000000,"Metallschleifer/in, Werkzeugschleifer/in"
+7224020000000,Metallschleifer/in
+7231000100018,KFZ Bremssysteme Mechaniker/in
+7231000200018,KFZ Getriebemechaniker/in
+7231000300018,Servicemechaniker für Motoren und Kraftstoffsysteme
+7231000400018,Garagenmechaniker/in
+7231000800018,Mechanischer Dreiradmotor
+7231000900018,KFZ Servicemechaniker/in
+7231002800018,Traktormechaniker/in
+7231002900018,Tuk-Tuk-Mechaniker/in
+7231003000018,Reifenmonteur/in
+7231010000000,Fahrzeugglaser/in
+7231020000000,Busmechaniker/in
+7231030000000,Kraftfahrzeugmechatroniker/in
+7231040000000,Automechaniker-Reifen
+7231050000000,Dieselmotorenspezialist/in
+7231060000000,Werkstattleiter/in (Industrie)
+7231080000000,Meister Automechaniker/in
+7231090000000,Moped- oder Scooter-Mechaniker/in
+7231100000000,Motorradmechaniker/in
+7231110000000,KFZ Maschinenbauer/in
+7231120000000,LKW-Mechaniker/in
+7231120127600,Kraftfahrzeugmechaniker/in
+7231130000000,Motortuner/in
+7231140000000,KFZ Prüfer/in
+7232000100018,Flugzeugwartungsmechaniker (Motoren)
+7232000200018,Flugzeugmechaniker (Zelle)
+7232000300018,Flugzeugmechaniker (pneudraulische Systeme)
+7232000400018,Flugzeug-Restaurator
+7232000500018,Flugzeugmechaniker/in
+7232000600018,Airframe-Monteur
+7232000700018,"Mechaniker, Hubschrauber/in"
+7232000800018,Strahltriebmechaniker/in
+7232000900018,Flugzeugzellenaufrichter aus Metall
+7232030000000,Flugmotorenmechaniker/in
+7232050000000,Flugzeug-Wartungstechniker/in
+7232060000000,Fluggerätemechaniker/in
+7233000100018,Mechaniker für Erdbewegungsmaschinen
+7233000200016,Mechaniker für die Wartung von Gasgeräten
+7233000300016,Gasanlagenmechaniker/in
+7233000400016,Gasmechaniker/in und Spezialist
+7233000500018,"Mechaniker, Werkzeugmaschinen"
+7233000600018,Marine Motormechaniker/in
+7233002500018,Stationärer Motormechaniker/in
+7233002600018,Dampfmaschinenmechaniker/in
+7233002700018,Lokmechaniker trainieren
+7233002800016,Turbinenmonteur/in
+7233002900018,Schreibmechaniker/in
+7233010000000,Landwirtschaftsmaschinenmonteur/in
+7233020000000,Landmaschinenmechaniker/in
+7233030000000,Baumaschinenmechaniker/in
+7233040000000,"Motor- oder Dieselmotormechaniker/in, ohne Kfz"
+7233050000000,Industrieanlagenmonteur/in
+7233060000000,Industrieanlagenmechaniker/in
+7233070000000,Bauschlosser/in
+7233080000000,Bergbaumaschinenmechaniker/in
+7233090000000,Monteur/in Metallbearbeitungsmaschinen
+7233100000000,"Öler/in, Schmierer/in"
+7233110000000,Industriemechaniker/in
+7233120000000,Druckmaschinenmechaniker/in
+7233130000000,Schiffsmechaniker/in
+7233140000000,Textilmaschinenmechaniker/in
+7233160000000,Monteur Maschinen zur Viehhaltung
+7233170000000,Viehmaschinenmechaniker/in
+7233180000000,Maschineninstallateur/in in der Papierindustrie
+7233190000000,Arbeiter/in zur Wartung von Zügen
+7233200000000,"Arbeiter/in zur Wartung von Straßenbahn, U-Bahn"
+7233210000000,Servicetechniker/in Beförderungsband
+7234000300018,Perambulator-Werkstatt
+7234010000000,Fahrradmechaniker/in
+7234020000000,Rollstuhlmechaniker/in
+7311000100018,Barometermacher/in
+7311000200018,Kamera-Reparateur
+7311000300018,Hersteller von Dentalinstrumenten
+7311000400018,Hersteller von meteorologischen Instrumenten
+7311000500018,Nautische Instrumentenbauer/in
+7311001500018,Hersteller optischer Instrumente
+7311001600018,Präzisionsinstrumentenkalibrator
+7311001700018,Phlebotomist
+7311001800018,Chirurgischer Instrumentenhersteller/in
+7311001900018,Gewichte und Maße Kalibrator
+7311010000000,Präzisionsinstrumentenmacher/in
+7311030000000,Uhrmacher/in
+7311040000000,Uhrenreparateur/in
+7311050000000,Instrumentenmacher/in
+7311060000000,Feinmechaniker/in
+7311070000000,Hersteller/in fotografischer Ausrüstung
+7311080000000,Wägetechniker/in
+7311100000000,Uhrmacher/in (Handuhren)
+7311110000000,Uhrenmacher/in
+7311120000000,Kamera- und Fotomechaniker/in
+7312000100018,Handharmonikamacher/in
+7312000200018,Akkordeon-Stimmgerät
+7312000300018,Schlagzeugmacher/in
+7312000500018,Orgelbauer/in
+7312000600018,Orgelstimmer/in
+7312000700018,Klavierbauer/in
+7312000800018,Klavierstimmer/in
+7312000900018,Geigenbauer/in
+7312001000018,Xylophonhersteller/in
+7312010000000,Musikinstrumentenbauer/in
+7312020000000,Instrumentenstimmer/in
+7313000100018,Diamantbohrer/in
+7313000200018,Edelsteinfasser/in
+7313000300018,Gems Cutter-Polierer/in
+7313000400018,Juwelier/in
+7313000500018,Schmuckschmelz
+7313000600018,Schmuckhersteller/in
+7313000700018,Schmuckmacher/in
+7313000800018,Jewels Cutter-Polierer/in
+7313000900018,Edelsteinsetzer/in
+7313020000000,"Goldschmied/in, Silberschmied/in"
+7313030000000,Diamantenschneider/in
+7314000100018,Ziegelstein- und Fliesenformer/in
+7314000200018,Keramik Burnisher/in
+7314000300018,Presspresse (Ton)
+7314000500018,Keramik- und Porzellanformhersteller/in
+7314010000000,Töpfer/in
+7314020000000,Schleifscheibenformer/in
+7315000100018,Glasbieger/in
+7315000200018,Glassetzer-Operator
+7315000300018,Spiegel Silverer/in
+7315010000000,"Glasschneider/in, -schleifer/in oder -former/in"
+7315030000000,Emailleur/in
+7315040000000,Glasbläser/in
+7315050000000,Glasgraveur/in
+7315070000000,Glaspolierer/in
+7315090000000,Einrichter/in Glasdrehmaschinen
+7315100000000,Arbeiter/in in der optischen Glasindustrie
+7316000100018,Kalligraph
+7316000200018,Keramik Lackierer/in
+7316000300018,Dekorativer Stecher/in
+7316000400018,Dekorativer Glasschneider/in
+7316000500018,Dekormaler/in
+7316001200018,Keramik Dekorateur
+7316001300018,Schildermaler/in
+7316010000000,Schildmacher/in
+7316020000000,Graveur/in oder Radierer/in
+7316030000000,Keramikmaler/in
+7316040000000,Glasätzer/in
+7317000100018,Korbmacher/in
+7317000200018,Korbweber/in
+7317000300018,Besenmacher/in
+7317000400018,Pinselmacher/in
+7317000700018,Papierartikelarbeiter/in (Handwerk)
+7317000800018,Papierhersteller/in
+7317001100018,Strohartikel arbeiter/in (Handwerk)
+7317001200018,Strohweber/in
+7317010000000,"Holzhandwerker/in, Korbmacher/in oder verwandte Berufe"
+7317020000000,"Korbmacher/in, Bürstenmacher/in"
+7317030000000,Holzspielzeugmacher/in
+7318000100018,Flechtenmacher/in
+7318000200018,Teppichhersteller/in
+7318000300018,Wollteppichweber/in
+7318000400018,Teppich Weben Tufter/in
+7318000500018,Teppichbauer (Handwerk)
+7318000600018,Tuchweber/in
+7318000700018,Reparatur von Stoffen
+7318000800018,Fischnetzmacher/in
+7318000900018,Jacquard-Weber/in
+7318001000018,Stricker/in
+7318001100018,Leder Accessoires arbeiter/in (Kunsthandwerk)
+7318001300018,Sicherheitsnetzmacher/in
+7318001400018,Gobelin-Weber/in
+7318001500018,Textilbleicher/in
+7318001600018,Textilfaserschublade
+7318001700018,Faden- und Garnspinner/in
+7318010000000,Textilhandwerker/in oder verwandte Berufe
+7318020000000,"Weber/in, Stricker/in, Sticker/in"
+7318030000000,Facharbeiter/in Lederwarenherstellung
+7318040000000,Hersteller/in künstlicher Blumen
+7318050000000,Netzmacher/in
+7319000100018,Kerzenmacher (Kunsthandwerk)
+7319000200018,"Spielwarenmacher, Metallspielzeug"
+7319000500018,Steinartikelarbeiter/in (Kunsthandwerk)
+7319990000000,Andere Handwerker/in
+7321000100018,Braille-Plattenhersteller/in
+7321000200018,Elektrotyper/in
+7321000400018,Lithografiedrucker/in
+7321002300018,Fotogravierer/in
+7321002400018,Fotograf für Fotogravur
+7321002500018,Druckformenhersteller/in
+7321002600018,Plattenmontage (Siebdruck)
+7321002700018,Drucken von Fotosatz
+7321002800018,Proof-Presser/in
+7321003100018,Schriftsetzer/in
+7321003200018,Schriftgestalter/in
+7321003300018,Holzblockstecher/in
+7321020000000,Desktop Publisher/in
+7321050000000,Techniker/in in der Druckvorbereitung
+7322000100018,Betreiber/in der digitalen Presse
+7322000200018,Feeder-Operator (Drucken)
+7322000300018,Bediener der Tiefdruckpresse
+7322000400018,Maschinenbediener (Fotosatz)
+7322000500018,Maschinenbediener (Textildruck)
+7322001400018,Bediener der Offsetpresse
+7322001500018,Bediener der Fotogravurpresse
+7322001600018,Walzenpresse Operator
+7322001700018,Drucker/in
+7322001900018,Siebdrucker
+7322002000018,Bediener/in kleiner druckerpressen
+7322002100018,Wallpaper presse bediener/in
+7322010000000,Blockdrucker/in
+7322020000000,Teppichdrucker/in
+7322030000000,Offsetdrucker/in
+7322050000000,Siebdrucker/in
+7322060000000,Textildrucker/in
+7322070000000,Maschinenarbeiter/in (Druckerei)
+7322070627600,Rotationsdrucker/in
+7323000100018,Buchbinder-Kanalisation
+7323000200018,Bediener von Zusammentragmaschinen
+7323000300018,Ordnerdrucker/in
+7323000400018,Maschinenbediener (Buchbinderei)
+7323010000000,Buchbinder/in
+7323020000000,Maschinenbediener/in Buchbindemaschine
+7323040000000,Fotolabortechniker/in
+7411000100018,Elektriker bauen
+7411000200018,Elektriker/in
+7411001800018,Hausleitungsmonteur/in
+7411010000000,Gebäudeelektriker/in
+7411020000000,Haushaltsgerätetechniker/in
+7411040000000,Aufzugsmonteur/in
+7411070000000,Rolltreppenmonteur/in
+7411080000000,Alarmanlagenmonteur/in
+7411130000000,Fachmann/frau für Haushaltsgeräte
+7411140000000,Bühnen- oder Studioelektriker/in
+7411990000000,Sonstige Elektriker/in
+7412000100018,Armaturenbauer/in
+7412000200018,KFZ Elektromechaniker/in
+7412000300018,Elektrischer Rollstuhlmechaniker/in
+7412000400018,Reparaturwerkstatt für elektrische Geräte
+7412000500018,Service für elektrische Geräte
+7412000600018,Lokomotiv-Elektriker/in
+7412000700018,Motorisierter Rollstuhlmechaniker/in
+7412001100018,Fahrzeugelektriker/in
+7412010000000,Elektroniker/in
+7412040000000,Radio- und Fernsehtechniker/in
+7412050000000,Heizungsmonteur/in
+7412060000000,Windanlagentechniker/in
+7412070000000,Industrieelektriker/in
+7412080000000,"Elektriker/in Straßenbahn, Metro, Bus"
+7412090000000,Elektriker/in Züge
+7412110000000,Bergbau-Elektriker/in
+7412200000000,Flugzeugmonteur/in
+7412210000000,Aufzugsmechaniker/in
+7413000100018,Elektrisches Verbindungskabel
+7413000200018,Elektriker (Freileitungskabel)
+7413000300018,Elektriker (Erdkabel)
+7413000400018,Elektrische Zugkraft Arbeiter/in
+7413001500018,Unterirdische Kabelschicht
+7413010000000,Elektroinstallateur/in
+7413020000000,Leitungs- und Kabelarbeiter/in
+7421000100018,Buchhaltung Maschinenmechaniker/in
+7421000200018,"Mechaniker, Bankautomaten"
+7421000300018,Mechaniker für audiovisuelle Geräte
+7421000400018,Reparaturwerkstatt für audiovisuelle Geräte
+7421001200018,Mechaniker der Fotokopie
+7421010000000,Elektronikmechaniker/in oder -wartungsmechaniker
+7421010127600,Elektroanlageninstallateur/in
+7422000100018,Datenkabel Jointer/in
+7422000500018,Funkmechaniker/in
+7422000600018,Luftaufrichter für Telekommunikation
+7422000700018,Telekommunikationsdienstmechaniker/in
+7422000800018,Telegraphenmechaniker/in
+7422000900016,Telefoninstallateur/in
+7422001000018,Telefonleitungsmechaniker/in
+7422001100018,Telefonmechaniker/in
+7422001200018,Telefonservicer/in
+7422001300018,Fernsehempfänger/in
+7422001400018,Fernsehmechaniker/in
+7422001500018,Fernsehreparateur
+7422010000000,Datenleitungsinstallateur/in
+7422020000000,Mobilfunktechniker/in
+7422030000000,Monteure/Monteurinnen für Telekommunikationsanlagen
+7422040000000,Fernmeldetechniker/in
+7422050000000,Computerhardware-Ingenieur/in
+7422060000000,Computer-Reparaturdienstleister/in
+7511000100018,Tierbesucher/in
+7511000200018,Tierisches Hautbild
+7511000300018,Tier Aufkleber/in
+7511000400018,Tierstunner/in
+7511000500018,Bacon Curer/in
+7511000600018,Kadaver-Splitter/in
+7511000700018,Fisch Boner/in
+7511000800018,Fleischschneider/in
+7511001400018,Geflügel-Kommode
+7511001600018,Fleischer/in
+7511001700018,Arbeiter/in Fisch Räucherei
+7511010000000,Metzger/in im Einzelhandel
+7511020000000,"Fischfiletierer/in, -schneider/in, -verpacker/in"
+7511030000000,Fischhändler/in im Einzelhandel
+7511040000000,Fleischwarenhersteller/in
+7511050000000,Verpacker/in von Fleischprodukten
+7511060000000,Schlachter/in oder Entbeiner/in
+7511070000000,Wurstwarenmeister/in
+7511080000000,"Direkte/r Vorgesetzte/r der Produktionsarbeiter/innen - Vieh, Fleisch, Fisch"
+7512000100018,Zwiebackbäcker/in
+7512000200018,Keksofen Arbeiter/in
+7512000300018,Brotbäcker/in
+7512000400018,Brotteigmischer/in
+7512000500018,Kuchen dekorateur
+7512000600018,Schokoladenformmaschine
+7512000700016,Süßwarenhersteller (Herstellung)
+7512000800018,Presspresser (Nudeln)
+7512000900018,Ofenarbeiter für Mehl (Süßwaren)
+7512001000018,Mehlsüßwarenmischer/in
+7512001700018,Nudelhersteller/in
+7512001800018,Gebäckbäcker/in
+7512002100016,Pizzamaker türkische Pizza
+7512002200018,Biskuithersteller/in
+7512002300018,Zuckerwaren Cutter/in
+7512002400018,Zuckerwarenhersteller/in
+7512010000000,Bäcker/in im Einzelhandel
+7512020000000,Gebäckhersteller/in
+7512030000000,Brotbäcker/in (Backindustrie)
+7512050000000,Schokoladenhersteller/in
+7512060000000,Konditor/in
+7512090000000,Pastetenbäcker/in
+7512110000000,Hefehersteller/in
+7512120000000,"Direkte/r Vorgesetzte/r der Produktionsarbeiter/innen - Lebensmittel, Getränke, Tabakprodukte"
+7513000100018,Buttermacher/in
+7513000200018,Eismaschine
+7513010000000,Käsemacher/in
+7514000100018,Bierbrauer/in
+7514000200018,Chutney-Hersteller/in
+7514000300018,Obst-Canner/in
+7514000400018,Fruchtsafthersteller/in
+7514000600018,Marmelademacher/in
+7514000700018,Ölvertreiber/in
+7514000800018,Pickle Maker/in
+7514000900018,Traditioneller Brauer/in
+7514001000018,Gemüsesalz
+7514010000000,Maschinenbediener/in Obst- oder Gemüseverpackungsmaschinen
+7514030000000,Obst- oder Gemüsekonservierer/in
+7515000100018,Kaffee schmecken
+7515000200018,Obstsortierer/in
+7515000300018,Schnaps Schnupper/in
+7515000400018,Fleischsortierer/in
+7515001300018,Ölsortierer/in
+7515001400018,Teekoster/in
+7515001500018,Gemüsesortierer/in
+7515001600018,Weinverkoster/in
+7515010000000,"Getränkekoster/in, -klassierer/in"
+7515020000000,Lebensmittelkoster/in oder -klassierer/in
+7515030000000,Direkte/r Vorgesetzte/r der Produktionsarbeiter/innen - Getränkeherstellung
+7515040000000,Direkte/r Vorgesetzte/r der Produktionsarbeiter/innen (Milchprodukten)
+7516000100018,Zigarrenrolle
+7516000200018,Zigarrensortierer/in
+7516000400018,Tabakschneider/in
+7516000500018,Tabaktrockner/in
+7516000600018,Tabakklärer/in
+7516000700018,Tabakstripper/in
+7516010000000,Tabakmischer/in
+7516020000000,Tabaksortierer/in
+7516030000000,Zigarrenmacher/in
+7516040000000,Direkte/r Vorgesetzte/r der Produktionsarbeiter/innen
+7516050000000,Zigarettenmacher/in
+7521000100018,Bediener/in von Trockenkammern
+7521000200018,Holzofenbetreiber/in
+7521000300018,Maschinenbediener (Holzbearbeitung)
+7521000700018,Holz imprägnierer/in
+7521010000000,Holzschützer/in
+7522000100018,Stuhlmacher/in
+7522000200018,Sargtischler/in
+7522000300018,Instrumentenkofferhersteller/in
+7522000400018,Modellbauer (Holz / Kunststoff)
+7522001400018,Bilderrahmenhersteller/in
+7522001500018,Lackierer (Holzmöbel)
+7522001600018,Karosseriebauer (Holz)
+7522001700018,Holzleiter Leiter/in
+7522001800018,Holzmöbelfinisher/in
+7522010000000,Möbelschreiner/in
+7522010000018,Küfer/in
+7522020000000,Möbelmacher/in
+7522030000000,HolzschnitzerIn
+7522030000018,Intarsien Intarsien
+7523000100018,Maschinenbediener (Möbelproduktion)
+7523000200018,Maschinenbediener (Holzbiegen)
+7523000300018,Maschinenbediener (Holzschnitzerei)
+7523000400018,"Hobelmaschinenbediener, Holz"
+7523000500018,Maschinenbediener (Holzspielzeug)
+7523000600018,Bediener von Holzbearbeitungsmaschinen
+7523001500018,Holzsäger/in
+7523001600018,Holzstimmer/in
+7523010000000,Maschinenbediener/in Holzbearbeitungsmaschinen
+7523020000000,Mechaniker/in für Holzbearbeitungsanlagen
+7523030000000,Sägemaschinenbediener/in
+7523040000000,Holzsortierer/in
+7523050000000,Anlagenbetreiber/in für Holzprodukte
+7531000100018,Blusenmacher/in
+7531000200018,Kappenmacher/in
+7531000300018,Korsettmacher/in
+7531000400018,Damenschneider/in
+7531000500018,Pelzschneider/in
+7531000600018,Pelzsortierer/in
+7531000700018,Fellsortierer/in
+7531000800018,Pelz-Schneider/in
+7531000900018,Pelztrimmer/in
+7531001000018,Kleidermacher/in
+7531001100018,Dessous-Hersteller/in
+7531001200018,Maßanzug nach Maß
+7531002300018,Theater Schneider/in
+7531002400018,Kostümierer/in
+7531010000000,Schneider/in
+7531020000000,Kürschner/in
+7531030000000,Hutmacher/in
+7531040000000,Bühnen- oder Studiogarderobiere
+7532000100018,Garment Cutter/in
+7532000200018,Garment Pattern Maker/in
+7532000300018,Handschuhschneider/in
+7532000400018,Jacquard Design-Kopist
+7532000900018,Musterschneider/in
+7532001000018,Pattern Maker (Sonstige)
+7532001300018,Zeltschneider/in
+7532001400018,Musterzelt für Zelte
+7532001500018,Regenschirmschneider/in
+7532001600018,Polsterschneider/in
+7532001700018,Polster Musterhersteller/in
+7532020000000,Lederzuschneider/in
+7532040000000,Sattler/in oder Kummetmacher/in
+7532080000000,Textilbügler/in
+7532090000000,Schnittmusterhersteller/in oder -zuschneider/in
+7533000100018,Puppen Spielzeughersteller/in
+7533000200018,Sticker/in
+7533000300018,Abwasserschuhe
+7533000400018,Fur Sewer/in
+7533000500018,Hutabwasserkanal
+7533000600018,"Näher, Leder/in"
+7533001500018,Gefüllte Spielzeughersteller/in
+7533001600018,Textilabwasserkanal
+7533001700018,Regenschirmhersteller/in
+7533001800018,Näher/in (Polsterei)
+7533010000000,Näher/in
+7533020000000,Maschinenarbeiter/in in der Stickwarenindustrie
+7533030000000,Vorhangnäher/in
+7533040000000,Segelmacher/in
+7533050000000,Zeltmacher/in
+7534000100018,Bettwarenhersteller/in
+7534000300018,Orthopädiepolsterer/in
+7534000400018,Netballer/in
+7534000500018,Polsterer/in
+7534010000000,Möbelpolsterer/in
+7534020000000,Fahrzeugpolsterer/in
+7534130127600,Matratzenmacher/in
+7535000100018,Färber-Färberei
+7535000200018,Pelzrasierer/in
+7535000300018,Bläschenentferner ausblenden
+7535000400018,Grader ausblenden
+7535000500018,Lederfärber/in
+7535000600018,Lederpolierer/in
+7535000700018,Ledertrage
+7535000800018,Pelz färber/in
+7535000900018,Pelzflesher/in
+7535001000018,Pelt Grader/in
+7535001100018,Pelzbahre
+7535001200018,Gerber/in
+7535010000000,"Pelzmacher/in, Gerber/in oder Pelzhändler/in"
+7535020000000,Färber/in von Fellen oder Häuten
+7536000100018,Schuster/in
+7536000200018,Schuhabschneider/in
+7536000300018,Schuhmusterhersteller/in
+7536000400018,Schuhputzmaschine
+7536000500018,Pferdegeschirrmacher/in
+7536000600018,Lederschneider/in
+7536000700018,Lederwarenhersteller/in
+7536001100018,Schuhmachermeister/in
+7536001200018,Sportschuhmacher/in
+7536001300018,Chirurgischer Schuhhersteller/in
+7536001400018,Peitschenmacher/in
+7536010000000,"Schuhmacher/in, Ledermacher/in"
+7536020000000,Orthopädischer Schuhmacher/in
+7541000400018,Muscheltaucher
+7541000500018,Unterwasserschweißer/in
+7541010000000,Berufstaucher/in
+7541020000000,Bergungstaucher/in
+7541030000000,Such- und Rettungsmitarbeiter für die Unterwasserrettung
+7541040000000,"Taucher/in für Schwämme, Austern, Perlen"
+7542020000000,Sandstrahler/in
+7543000000000,Produktprüfer/in (mit Ausnahme von Lebensmitteln und Getränken)
+7543000100018,Inspektorstoffe
+7543001100018,Produkt-Grader/in
+7543001400018,Textile Grader/in
+7543001500018,Wolle Classer/in
+7543010000000,Qualitätskontrolleur/in / Inspekteur/in für Agrarprodukte (Auktion)
+7543020000000,"Qualitätskontrolleur/in / Inspekteur/in für Vieh, Fleisch, Fisch"
+7543030000000,Qualitätskontrolleur/in / Inspekteur/in für IT-Geräte
+7543040000000,Qualitätskontrolleur/in für elektrische Anlagen oder elektrische Bestandteile
+7543050000000,Qualitätskontrolleur/in / Inspekteur/in für Lebensmittel (nicht Fleisch oder Fisch)
+7543060000000,"Qualitätskontrolleur/in / Inspekteur/in für Glas, Glaserzeugnisse"
+7543070000000,"Qualitätskontrolleur/in / Inspekteur/in für Getreide, Saatgut"
+7543080000000,"Qualitätskontrolleur/in / Inspekteur/in für Maschinen, Geräte, Fahrzeuge"
+7543090000000,Qualitätskontrolleur/in / Inspekteur/in für Metallprodukte oder -waren
+7543100000000,"Qualitätskontrolleur/in / Inspekteur/in für Lärmbelästigung (Lizenzen, Inspektion)"
+7543110000000,"Qualitätskontrolleur/in / Inspekteur/in für Kleidung, Lederwaren"
+7543120000000,Qualitätskontrolleur/in / Inspekteur/in für Gummi- oder Kunststoffprodukte
+7544000100018,Kammerjäger/in
+7544000200018,Desinfektor/in
+7544000300018,Herbizid-Sprüher/in
+7544000400016,Insektizid Sprayer/in
+7544000500018,Malaria-Sprühgerät
+7544000800018,Schädlingsbekämpfungstechniker/in
+7544000900018,Pestizid Sprayer/in
+7544001000018,Weed Sprayer/in
+7544010000000,Schädlingsbekämpfer/in
+7549000100018,Florist (Blumen arrangieren)
+7549000200018,Blumenarrangement
+7549000300018,Glaslinsenschleifer/in
+7549000400018,Glaslinsen-Polierer/in
+7549000500018,Optische Linsenformmaschine
+7549990000000,Sonstige Tätigkeit im Kunsthandwerk
+8111000100018,Kohlenbergwerksarbeiter/in
+8111000200018,Diamond Miner/in
+8111000300018,Dragline-Operator
+8111000400018,Goldminenarbeiter/in
+8111000500018,Maschinenbediener (Minenbohren)
+8111000600018,Maschinenbediener (Steinbruchbohrungen)
+8111000700018,Bergwerksarbeiter/in
+8111000800018,Bergbaubohrer/in
+8111000900018,Betreiber/in einer Bergwerksanlage
+8111001300018,Bauarbeiter im Steinbruch
+8111020000000,"Minenarbeiter/in, Sprengarbeiter/in"
+8111030000000,Grubenarbeiter/in
+8111050000000,Bergbaumaschinenführer/in
+8111060000000,Bergmann Mergelgrube
+8112000100018,Kohlenwäscher/in
+8112000200018,Maschinenbediener (Zerkleinern von Erz)
+8112000300018,Maschinenbediener (Mineralverarbeitung)
+8112000400018,Maschinenbediener (Mineralien waschen)
+8112000500018,Maschinenbediener (Steinschneiden)
+8112000600018,Maschinenbediener (Steinhobeln)
+8112010000000,Maschinenführer/in Abbau von Steinen und Erden
+8112020000000,Maschinenführer/in Eisenerzabbau
+8112030000000,Verfahrenstechniker/in Flotation
+8112040000000,Bediener/in Brechmaschine
+8113000100018,Bediener/in von bohrausrüstungen
+8113000200018,Derrick-Bediener/in
+8113000300016,Gas Service Unit Operator / Mechaniker/in
+8113020000000,Öl- oder Gasbohrarbeiter/in
+8113050000000,"Leiter/in einer Bohreinheit, außer Gas und Öl"
+8113060000000,Leiter/in einer Öl- oder Gasbohreinheit
+8113070000000,Bedienstete/r Servicestelle Öl oder Gas
+8113080000000,"Schachtbohrer/in, außer Gas und Öl"
+8113090000000,Bohrarbeiter/in Brunnenwasser
+8113100000000,Brunnenbauer/in
+8114000100018,Maschinenbediener (Asbestzementprodukte)
+8114000200018,Maschinenbediener (Produktion von gegossenem Stein)
+8114000300018,Maschinenbediener (Zementprodukte)
+8114000400018,Maschinenbediener (Betonherstellung)
+8114000500018,Maschinenbediener (Industriediamanten)
+8114000600018,Maschinenbediener (mineralische Produkte)
+8114000700018,Maschinenbediener (Steinprodukte)
+8114010000000,"Maschinenarbeiter/in in der Zement-, Stein- oder Mineralstoffindustrie"
+8114010000018,Betonmischer/in
+8121000100018,Aluminiumklassifizierer/in
+8121000200018,Maschinenbediener (Metall-Extrusion)
+8121000300018,Maschinenbediener (Drahtziehen)
+8121000900018,Stahlraffinerie
+8121001000018,Stahlrolle
+8121001100018,Uran-Klassifizierer-Operator
+8121001200018,Zinkzellenbediener/in
+8121010000000,Anlagenbediener/in Metallverarbeitung
+8121020000000,Metallgiesser/in
+8122000100018,Anodiseur/in
+8122000200018,Maschinenbediener (Metallverzinken)
+8122000300018,Maschinenbediener (Metallkaschierung)
+8122000400018,Maschinenbediener (Metallspritzen)
+8122000500018,Maschinenbediener (Strahler)
+8122000900018,Sandstrahlbehandler/in (Metall)
+8122010000000,"Maschinenbediener/in Oberflächenbearbeitungs-, Verzinkungs- oder Beschichtungsanlage"
+8122020000000,Metallmonteur/in
+8131000100018,Blender Operator (chemische Prozesse)
+8131000200018,Betreiber/in eines Zementproduktionsofens
+8131000300018,Holzkohlenofenbetreiber/in
+8131000400018,Betreiber/in chemischer Prozesse Brenner/in
+8131000500018,Ofenbetreiber für chemische Prozesse
+8131000600018,Betreiber/in der Düngemittelanlage
+8131000700018,Maschinenbediener (Kerzenherstellung)
+8131000800018,Maschinenbediener (chemische Zerkleinerung)
+8131000900018,Maschinenbediener (Chlorgasproduktion)
+8131001000018,Maschinenbediener (Kohle-Gas-Produktion)
+8131001100018,Maschinenbediener (Koksbrenner)
+8131001200018,Maschinenbediener (explosive Produkte)
+8131001300018,Maschinenbediener (Feuerwerk)
+8131001400018,Maschinenbediener (Halogengas)
+8131001500018,Maschinenbediener (Wasserstoffgas)
+8131001600018,Maschinenbediener (Linoleumproduktion)
+8131002100018,Parfüm noch Betreiber/in
+8131010000000,Mitarbeiter/in in der Munitions- und Sprengstoffherstellung
+8131020000000,"Bediener/in für Brech-, Mahl- oder Mischmaschinen"
+8131030000000,Maschinenarbeiter/in in der Herstellung pharmazeutischer Produkte
+8131040000000,Maschinenbediener/in Toilettenartikelherstellung
+8131990000000,Andere Anlagen- oder Maschinenarbeiter/innen in der Sparte chemische Produkte
+8132000100018,Maschinenbediener (Filmpapierproduktion)
+8132000300018,Maschinenbediener/in Fotografie entwickelung
+8132010000000,Maschinenbediener/in Fotoproduktionsanlage
+8141000100018,Bediener von Gummi-Extrusionsmaschinen
+8141000200018,Maschinenbediener (Gummi fräsen)
+8141000300018,Maschinenbediener (Gummi vulkanisieren)
+8141000400018,Maschinenbediener (Reifenformung)
+8141010000000,Maschinenarbeiter/in in der Gummiproduktion
+8141020000000,Maschinenarbeiter/in in der Gummiverarbeitung
+8141030000000,Reifenhersteller/in
+8142000100018,Maschinenbediener (Gießen von Kunststoffprodukten)
+8142000200018,Maschinenbediener (Laminieren von Kunststoffen)
+8142000300018,Maschinenbediener (Plastikflaschen)
+8142000400018,Maschinenbediener (Kunststoff-Extrusion)
+8142000500018,Maschinenbediener (Polyethylenbeutel)
+8142000600018,Glasfaserschublade
+8142000700018,Kunststoffbootbauer/in
+8142010000000,Maschinenarbeiter/in in der Plastik- und Verbundstoffindustrie
+8142020000000,Kunststoffanreisser/in
+8143000100018,Maschinenbediener (Kartonprodukte)
+8143000200018,Maschinenbediener (Umschlag und Papiertüten)
+8143000300018,Maschinenbediener (Pappschachteln)
+8143000400018,Maschinenbediener (Pappeartikel)
+8143000800018,Pappmaché-Hobelmaschine
+8143010000000,Maschinenarbeiter/in in der Papierproduktherstellung
+8143020000000,Papierarbeiter/in
+8151000100018,Blender Operator (Fasern)
+8151000200018,Maschinenbediener (synthetische Fasern)
+8151000300018,Maschinenbediener (Textilfasern)
+8151010000000,"Maschinenbediener/in Textilfaserverarbeitungs-, Spinn- oder Wicklungsanlage"
+8152000100018,Bediener von Webmaschinen
+8152000200018,Maschinenbediener (Tuch)
+8152010000000,Webmaschinenbediener/in
+8152020000000,Strickmaschinenbediener/in
+8152130000000,Bediener/in von Maschinen für Teppicherzeugung
+8153010000000,Nähmaschinenbediener/in
+8154000100018,Maschinenbediener (Färben von Textilfasern)
+8154010000000,"Bediener/in von Bleich-, Färbe- oder Textilreinigungsmaschinen"
+8155000100018,Maschinenbediener (Leder nähen)
+8155000200018,Maschinenbediener (Fellverarbeitung)
+8155000300018,Pelzwäscher/in
+8155010000000,Maschinenbediener/in in der Pelz- oder Lederverarbeitung
+8156000100018,Maschinenbediener (Schuhproduktion)
+8156010000000,Maschinenarbeiter/in in der Schuhherstellung
+8157010000000,Waschmaschinenbediener/in
+8157020000000,Bediener/in Trockenreinigungsanlage
+8159000100018,Maschinenbediener (Matratzenherstellung)
+8159000200018,Maschinenbediener (Musterherstellung)
+8159000300018,Maschinenbediener (Zelte)
+8159980000000,Maschinenbediener/in für andere Ledererzeugnisse
+8159990000000,Maschinenbediener/in für andere Pelzerzeugnisse
+8160000100018,Rübenzuckerdiffusor Operator
+8160000200018,Mixer Operator (Kaffee)
+8160000300018,Mixerbediener (Spirituosen)
+8160000400018,Mixer Betreiber (Tee)
+8160000500018,Mixer (Wein)
+8160000600018,Brauereiarbeiter/in
+8160000800018,Fruchtpresse-Betreiber/in
+8160000900018,Maschinenbediener (Brotbacken)
+8160001000018,Maschinenbediener (Schokoladenproduktion)
+8160001100018,Maschinenbediener (Zigarren)
+8160001200018,Maschinenbediener (Kakaobohnenrösten)
+8160001300018,Maschinenbediener (Süßwaren)
+8160001400018,Maschinenbediener (Fisch friert)
+8160001500018,Maschinenbediener (Obstverarbeitung)
+8160001700018,Maschinenbediener (Milchpulver)
+8160001800018,Maschinenbediener (Reismühlen)
+8160001900018,Maschinenbediener (Spirituosen Mälzen)
+8160002000018,Maschinenbediener (Zuckerproduktion)
+8160002100018,Maschinenbediener (Gemüse friert ein)
+8160002200018,Maschinenbediener (Gemüsewaschen)
+8160002300018,Malz-Kochgeräte-Betreiber/in
+8160002400018,Senfmahlbediener/in
+8160003000018,Bediener/in von Destilliermaschinen
+8160010000000,Maschinenbediener/in Backwarenherstellung
+8160020000000,Maschinenbediener/in Getränkeherstellung
+8160040000000,Brauer/in
+8160050000000,Maschinenbediener/in Cerealienherstellung
+8160060000000,Maschinenbediener/in Schokoladeherstellung
+8160070000000,Maschinenbediener/in Kakaoverarbeitung
+8160090000000,Maschinenbediener/in Kaffeeverarbeitung
+8160110000000,Maschinenbediener/in Milchproduktherstellung
+8160130000000,Maschinenbediener/in Nussverarbeitung
+8160140000000,Maschinenbediener/in Speiseölherstellung
+8160170000000,Maschinenbediener/in Fischproduktherstellung
+8160190000000,Maschinenbediener/in Fruchtsaftherstellung
+8160200000000,Maschinenbediener/in Obstverarbeitung
+8160210000000,Maschinenbediener/in Getreide-/Gewürzmühle
+8160220000000,Maschinenbediener/in Spirituosenherstellung
+8160230000000,Maschinenbediener/in Margarineherstellung
+8160250000000,Maschinenbediener/in Fleischwarenverarbeitung
+8160260000000,Maschinenbediener/in Milchverarbeitung
+8160270000000,Maschinenbediener/in Nudelherstellung
+8160280000000,Maschinenbediener/in Erfrischungsgetränkeherstellung
+8160300000000,Maschinenbediener/in Teeverarbeitung
+8160310000000,Maschinenbediener/in Tabakherstellung
+8160320000000,Maschinenbediener/in Gemüseverarbeitung
+8160330000000,Maschinenbediener/ Essigherstellung
+8160350000000,Kaugummihersteller/in
+8160450000000,Bediener/in Zigarettenproduktionsmaschinen
+8160460000013,Betreiber/in der Lebensmittelverarbeitung
+8171000100018,Maschinenbediener (Zellstoff)
+8171000300018,Operator für Papierbleiche
+8171020000000,Anlagenbetreiber/in in der Zellstoff- oder Papierherstellung
+8172000100018,Kreissägebediener/in
+8172000200018,Maschinenbediener (Sperrholz)
+8172000300018,Maschinenbediener (Holz langweilig)
+8172000400018,Maschinenbediener (Hacken)
+8172001000018,Pet minder/in
+8172001100018,Bediener der Waferboard-Presse
+8172010000000,Holzbearbeitungsmechaniker/in
+8172030000000,Facharbeiter/in für Holz und verwandte Produkte
+8181000100018,"Ofenbetreiber (Ziegel, Fliesen)"
+8181000200018,Ofenbediener (Keramik oder Porzellan)
+8181000300018,Maschinenbediener (Keramikmalerei)
+8181000400018,Maschinenbediener (Keramik)
+8181000500018,Maschinenbediener (Tonschleifen)
+8181000600018,Maschinenbediener (Ton mischen)
+8181000700018,Maschinenbediener (Glasflaschenproduktion)
+8181000800018,Maschinenbediener (Glasmalerei)
+8181000900018,Maschinenbediener (Glasproduktion)
+8181001000018,Maschinenbediener (Glasurproduktion)
+8181001600018,Betreiber/in eines Keramikofens
+8181010000000,Anlagenbetreiber/in Glas und Keramik
+8181020000000,Bediener/in von Maschinen für Stein- oder Plattenproduktion
+8182010000000,Maschinist/in
+8182020000000,Kesselbediener/in
+8183000100018,Maschinenbediener (Flaschenreinigung)
+8183000200018,Maschinenbediener (Konserven)
+8183000300018,Maschinenbediener (Abdichtung)
+8183000400018,Bediener von Einwickelmaschinen
+8183010000000,"Maschinenbediener/in Verpackungs-, Abfüll- oder Etikettieranlage"
+8183020000000,Maschinenbediener/in Abfüll- oder Etikettieranlage
+8189000100018,Bediener von Maschinen zur Siliziumchipproduktion
+8189000300016,Betreuer/in der Gasanlage
+8189010000000,CNC-Fachkraft
+8189040000000,"Vorarbeiter/in - Prozessoperateure Industrieproduktion, -fertigung im Bereich Metall"
+8189050000000,Vorarbeiter/in - Prozessoperateure im Bereich Bergbau
+8189060000000,"Vorarbeiter/in - Prozessoperateure im Bereich Transport, Logistik, Hafen, Flughafen"
+8189110000000,"Vorarbeiter/in - Prozessoperateure im Bereich Öl, Gas"
+8189140000000,Vorarbeiter/in - Prozessoperateure im Bereich Energieversorgung
+8189150000000,Produktionsmaschinenbediener/in (Sonstige)
+8189980000000,Vorarbeiter/in - Prozessoperateure im Bauwesen/Innausbau
+8189990000000,Sonstige/r Anlagenbetreiber/in oder Maschinenbediener/in
+8211000100018,Assembler für landwirtschaftliche Maschinen
+8211000200018,Flugzeugmotor Assembler/in
+8211000300018,Werkstattbauer (LKW)
+8211000400018,Motormonteur/in
+8211000500018,Industriemaschinenbauer/in
+8211001300018,Druckmaschinenmonteur
+8211001400018,Dampfmaschine Assembler/in
+8211001500018,Textilmaschinenmonteur
+8211001600018,Turbinenmonteur
+8211001700018,Automonteur/in
+8211010000000,Maschinenmonteur/in
+8211020000000,Metallflugzeugbauer/in
+8211030000000,Monteur/in von mobilen Häusern
+8212000100018,Anker-Assembler/in
+8212000200018,Assembler für audiovisuelle Geräte
+8212000300018,Assembler für elektrische Komponenten
+8212000400018,Assembler für elektronische Komponenten
+8212000500018,Hörgeräte-Assembler/in
+8212000600018,Assembler für Mikroelektronikgeräte
+8212001000018,Büromaschinenmonteur
+8212001100018,Präzisionsinstrumentenmonteur
+8212001300018,Telefonassembler/in
+8212001400018,Fernsehassembler/in
+8212010000000,Elektromonteur/in
+8212020000000,Elektronikmonteur/in
+8219000100018,Munitionsmonteur
+8219000200018,Fahrradmonteur
+8219000300018,Assembler für Kartonprodukte
+8219000400018,Möbelmonteur/in
+8219001100018,Kunststoff Spielzeug Assembler/in
+8219001200018,Assembler für Holzprodukte
+8219010000000,Schichtleiter/in Fliessbandarbeiter/innen
+8219020000000,Juweliermitarbeiter/in
+8219030000000,Lederwarenerzeuger/in
+8219040000000,Monteur/in für Kartonagemaschinen
+8219050000000,Kunststoffmonteur/in
+8219060000000,Kautschukmonteur/in
+8219070000018,Sonnenblenden-Assembler/in
+8219080000000,Textilnäher/in
+8219100000000,Fließbandführer/in
+8219110000000,Holzmodellbauer/in
+8219990000000,Monteure/Monteurinnen andere Fachrichtungen
+8311000100018,Einschienenbahn-Fahrer/in
+8311000400018,Berufsfahrer/in u-bahn
+8311010000000,Lokomotivführer/in
+8311020000000,Triebfahrzeugführer/in
+8312000100018,Güterzugwächter/in
+8312010000000,"Bremser/in, Signalarbeiter/in, Weichenwärter/in"
+8312010127600,"Stellwerksbediener/in, Rangierer/in"
+8312020000000,Gleisbauarbeiter/in
+8321000100018,"Rikschafahrer, motorisiert"
+8321000200018,Motorradkurier/in
+8321000300018,Motorradlieferant
+8321000400018,Motor Dreiradfahrer/in
+8321000500018,Pizzakurier/in
+8321010000000,Motorradfahrer/in
+8322000200018,Postwagenfahrer/in
+8322001300018,Parkservice
+8322001400018,Telefonist/in in einer Taxizentrale
+8322010000000,Autofahrer/in
+8322020000000,Taxifahrer/in
+8322030000000,Fahrer/in eines Lieferwagens oder Kleintransporters
+8322040000000,Krankenwagenfahrer/in (nicht Sanitäter)
+8322050000000,Fahrer/in von Geld- und Wertsachentransporten - Geldautomatversorgung
+8322060000000,Privater Chauffeur /Fahrer/in
+8322070000000,Paketzusteller/in
+8331000100018,"Kraftfahrer, Bus"
+8331000400018,Trolleybusfahrer/in
+8331010000000,Busfahrer/in im öffentlichen Nahverkehr
+8331020000000,Schul- und Behindertenbusfahrer/in
+8331030000000,Reisebusfahrer/in
+8331040000000,Straßen- oder U-Bahnfahrer/in
+8332000100018,Flugzeug fueller/in
+8332000200018,Betonmischertreiber/in
+8332000300018,Müllwagenfahrer/in
+8332000400018,Berufsfahrer/in schwerer lastkraftwagen
+8332001800018,Tankwagenfahrer/in
+8332001900018,Anhänger-LKW-Fahrer/in
+8332010000000,Lkw-Fahrer/in
+8332030000000,Berufskraftfahrer/in
+8332050000000,"Fahrer/in Pendelwagen, Minentransportfahrzeug"
+8341000100018,Landwirtschaftlicher Mähdrescher/in
+8341000200018,Betreiber/in von landwirtschaftlichen Maschinen
+8341000300018,Bediener von Erntemaschinen
+8341000400018,Maschinenbediener (Forstwirtschaft)
+8341000700018,Holztransporter Fahrer/in
+8341000800018,Traktorfahrer/in
+8341010000000,Bediener/in landwirtschaftlicher Maschinen
+8341020000000,Bediener/in von Forstmaschinen
+8342000100018,Front-End-Loader-Operator
+8342000200018,Maschinenbediener (Ablaufinstallation)
+8342000300018,Maschinenbediener (Rohrinstallation)
+8342000400016,Maschinenbediener (Gasverdichterstation)
+8342002600018,Steinstreuer Operator
+8342002700018,Operator für Teerstreuer/in
+8342002800018,Grabengrabenfahrer/in
+8342002900016,Arbeiter am Gaskompressor
+8342010000000,Erdbewegungsgeräteführer/in
+8342010000018,Streetsweeper-Fahrer/in
+8342020000000,Baggerführer/in
+8342030000000,Baugeräteführer/in
+8342040000000,Straßenbaumaschinenführer/in
+8342050000000,Spundwandsetzer/in
+8342060000000,Pumpenführer/in
+8342070000000,Tunnelbaumaschinenführer/in
+8342080000000,Bediener/in Asphaltmaschinen
+8342090000000,Schubraupenfahrer/in
+8342100000000,Bediener/in für Gaskompressor oder Erdgaspumpe
+8343000100018,Käfigminenfahrer/in
+8343000200018,Dry Dock Attendant
+8343000400018,Maschinenbediener (Kabelinstallation)
+8343001300018,Skiliftbetreiber/in
+8343010000000,Kranführer/in
+8343020000000,Flaschenzugbediener/in
+8343030000000,Schiffskranführer/in
+8343040000000,Rampenarbeiter/in
+8343050000000,Strassenbahnfahrer/in
+8343060000000,Schleusenwärter/in für Kanal oder Hafen
+8343070000000,Sesselliftbediener/in
+8343080000000,Förderbandbediener/in
+8343090000000,Dampfmaschinenführer/in
+8343100000000,Seilbahnbediener/in
+8343120000000,Turmkranführer/in
+8343130000000,Windenbediener/in
+8343140000000,Hafenmeister/in
+8343150000000,Aufzugsbediener/in
+8343160000000,Fahrer/in Portalhubwagen
+8344010000000,Gabelstaplerfahrer/in
+8350000100018,Bagger Besatzungsmitglied
+8350000200018,Ferry Crew-Mitglied
+8350000300018,Leuchtturm neigen
+8350000900018,Leichtmatrose
+8350001000018,Matrose
+8350001100018,Mitglied der Yachtcrew
+8350001300018,Leichter Seemann
+8350010000000,Deckshelfer/in
+8350010000018,Lastkahn-Betreiber/in
+8350020000000,Matrose/in
+8350030000000,Kapitän/in inländische Schiffsverbindungen
+8350040000000,Kabelübermittler/in
+8350060000000,Arbeiter/in Schiffsdeck
+9111000100018,Hausmädchen
+9111010000000,Hausreinigungskraft
+9111020000000,Haushaltshilfe
+9111990027600,Weitere Dienstleistungsberufe (Sonstige)
+9112000100018,Busreiniger (außen)
+9112000200018,Fabrikreiniger/in
+9112000300018,Kehrmaschine
+9112000400018,Raumpfleger/in im Krankenhaus
+9112000500018,Zimmermädchen im Hotel
+9112010000000,Gebäudereiniger/in
+9112010000018,Leinenmädchen
+9112020000000,Hotelreinigungskraft
+9112030000000,Vorarbeiter/in - Reinigungskräfte
+9112050000000,Toilettenfrau/mann
+9112060000000,Flugzeugreinigungskraft
+9121000100018,Handmangel
+9121010000000,Handwäscher/in oder Bügler/in
+9122000300018,Fahrzeug-Handwascher/in
+9122000400018,Fahrzeuge sauberer/in
+9122020000000,Autowäscher/in
+9122030000000,"Zug-, Straßen-, U-Bahn oder Busreiniger/in"
+9122040000000,Zug- oder Busreiniger/in
+9123010000000,Fensterputzer/in
+9129000100018,Kühlturmreiniger/in
+9129000200018,Reiniger ablassen
+9129000300018,Filterreiniger/in
+9129000400018,Dachrinnenreiniger/in
+9129001700018,Poolreiniger/in
+9129001800018,Polsterreiniger/in
+9129001900018,Wasserreiniger/in
+9129010000000,Bauwerksmechaniker/in für Abbruch und Betontrenntechnik
+9129020000000,Teppich- oder Möbelreinigungskraft
+9129030000000,"Reiniger/in für Heizkessel, Tanks"
+9129040000000,Laborgerätereiniger/in
+9129050000000,Kanalarbeiter/in
+9129160000000,Graffiti-Reiniger/in
+9129980000000,Sonstige in der Beseitigung von Gefahrstoffen Beschäftigte
+9129990000000,Sonstige Reinigungskräfte
+9211000100018,Cane Pflanzer/in
+9211000200018,Baumwollpflücker/in
+9211000300018,Knecht (Zitrusfrüchte)
+9211000400018,Knecht (Baumwolle)
+9211000600018,Knecht (Obstgarten)
+9211000700018,Knecht (Kartoffel)
+9211000800018,Knecht (Reis)
+9211000900016,Haselnusspflücker/in
+9211002600018,Zuckerrohrschneider/in
+9211002700018,Tee-Pflücker/in
+9211010000000,"Knecht (Feldfrüchte, Gemüse)"
+9211020000000,Obstpflücker/in
+9211030000000,Erntearbeiter/in
+9211040000000,Baumpfleger/in
+9211150000000,Gemüsepflücker/in
+9212000200018,Eiereinsammler/in
+9212000300018,Knecht (Milchprodukte)
+9212000400018,Knecht (Fell)
+9212000500018,Knecht (Seidenraupen)
+9212000800018,Stabile Hand
+9212010000000,Helfer/in in einem Viehzuchtbetrieb
+9212030000000,Knecht (Vieh)
+9212040052816,Hühnerfänger/in
+9213000100018,Knecht (alle anderen Farmen)
+9213010000000,Landwirtschaftliche/r Helfer/in im Mischkulturanbau oder Zuchtbetrieb
+9214000100018,Friedhof Hand im Garten
+9214000200018,Greenkeepers Helfer/in
+9214000300018,Gartenbau Hand
+9214000400018,Rasenmäher/in
+9214001900018,Bauernhof (Kindergarten)
+9214010000000,Gartenhelfer/in
+9215000200018,Baum klarer/in
+9215010000000,Waldarbeiter/in
+9216000100018,Aquakultur Hand
+9216000200018,Bargemans Kumpel
+9216000300018,Knecht (Fisch)
+9216000400018,Fischerei-Helfer/in
+9216010000000,Landarbeiter/in (Fisch)
+9216020000018,Muschelsammler
+9311020000000,Hilfskraft Bergbau
+9311030000000,Steinbrucharbeiter/in
+9312000100018,Graben Arbeiter graben
+9312000200018,Erdbewegungsarbeiter/in
+9312000300018,Ernste grubende Arbeitskraft
+9312000400018,Wartungsarbeiter/in (Dämme)
+9312000500018,Wartungsarbeiter/in (Straßen)
+9312001900018,Wasserbrunnenarbeiter/in
+9312010000000,Straßenräumer/in
+9312020000000,Straßenbauhelfer/in
+9312030000000,Bauhilfsarbeiter/in (Damm-/Deichbau)
+9312040000000,Damm- oder Deichwärter/in
+9312050000000,Wasserdammkonstrukteur/in
+9313000100018,Ziegelstein-Assistent
+9313000200018,Ziegelträger/in
+9313010000000,Gebäudebauhelfer/in
+9313030000000,Abbruchhelfer/in
+9313040000000,Rodungsarbeiter/in
+9313050000000,Hilfskraft Wartung/Instandhaltung
+9313070000000,Hilfskraft Zimmermann
+9313080000000,Hilfskraft Elektroinstallateur
+9313090000000,Hilfskraft Maler/in oder Gipser/in
+9313100000000,Hilfskraft Installateur
+9313110000000,Dachdeckerhelfer/in
+9321000100018,Hand Abfüller/in
+9321000200018,Handetikettierer/in
+9321000300018,Handverpackung
+9321010000000,Handpaketierer/in
+9329000100018,Schmieds Helfer/in
+9329000200018,Flaschensortierer/in
+9329000300018,Kadaver-Handwäscher/in
+9329000400018,Tuch-Handwäscher/in
+9329000500018,Faserhandwäscher/in
+9329000600018,Handwaschmaschine ausblenden
+9329000700018,Lader / Entlader für hergestellte Produkte
+9329000800018,Fertigungsstapler/in
+9329001100018,Weinberg Hand
+9329001200018,Garn-Handwäscher/in
+9329010000000,Montierer/in; Hilfsarbeiter/in in der Fertigung
+9329020000000,Maschinenbestücker/in oder Metallhilfsarbeiter/in
+9329030000000,Ungelernte/r Fabrikarbeiter/in
+9331000100018,Fahrradtaxifahrer/in
+9331000200018,Handtruck-Fahrer/in
+9331000400018,Dreiradfahrer/in
+9331000500018,Dreiradfahrer (nicht motorisiert)
+9331010000000,Fahrradkurier/in
+9331120000000,Rikschafahrer/in
+9332000100018,Tierfahrer/in
+9332000200018,Elefantenfahrer/in
+9332010000000,Kutscher/in
+9333000100018,Flugbegleiter/in am Flughafen
+9333000200016,Gepäckabfertiger (Flughafen)
+9333000400018,Fischportier/in
+9333000500018,Lebensmittelmarkt-Portier/in
+9333000600018,Frachtlader / Entlader/in
+9333000700018,Fruchtportier/in
+9333000800018,Möbellader / -entlader/in
+9333000900018,Möbelentferner/in
+9333001100018,Fleischportier/in
+9333002900018,Stauer/in
+9333010000000,Frachtverlader/in
+9333010000018,Gepäckabfertiger/in
+9333020000000,Verlader/in im Schienenverkehr
+9333020000018,Docker/in
+9333030000000,Möbelpacker/in
+9333040000000,Fahrzeugbelader/in
+9333040127600,Transportarbeiter/in
+9333050000000,Schiffsbelader/in
+9333060000000,Sargträger/in
+9333070000000,Flugzeugbelader/in
+9333080000000,Mitarbeiter/in im Bühnenaufbau/Stagehand
+9333090000000,Lagerist/in
+9333110000000,Sicherheitsarbeiter/in
+9333120000000,Hafenarbeiter/in
+9333150000000,Arbeiter/in Hafenpassagiere
+9333160000000,Angestellte/r (die/der bestellte Waren nach einer Lieferliste zusammenstellt)
+9333170000000,Speditionsarbeiter/in
+9334000400018,Lagerfüller/in
+9334010000000,Regalauffüller/in
+9411000100018,Burger Maker/in
+9411000200018,Fast Food Begleiter/in
+9411000300018,Fast Food Crew Trainer/in
+9411000400018,Fisch und Chips kochen
+9411000500018,Hamburger kochen
+9411010000000,Koch/Köchin in einem Fast-Food-Restaurant
+9411020000000,Pizzabäcker/in
+9412000100018,Geschirrspülwäscher
+9412000200018,Küchenportier/in
+9412000500018,Pantry-Begleiter/in
+9412010000000,Küchenhilfe
+9412010127600,"Beikoch,-köchin"
+9412020000000,Spüler/in
+9412040000000,Catering-Mitarbeiter/in
+9510000100018,KFZ Bewacher/in
+9510000200018,Waschanlage für Autofenster/in
+9510000300018,Werbematerialausträger/in
+9510000500018,Sandwichmann
+9510010000000,Schuhputzer/in
+9510120000000,Gratis-Zeitungsverteiler/in
+9520000100018,Straßenverkäufer/in
+9520010000000,Straßenverkäufer/in Nicht-Lebensmittel
+9520020000000,Lotterieverkäufer/in
+9520130000000,Zeitungsverkäufer/in
+9611000200018,Müllwagen-Entlader/in
+9611010000000,Müllabfuhrangestellte/r
+9611020000000,Sammler/in von recyclebaren Stoffen
+9611030000000,Schrottplatzarbeiter/in
+9612000100018,Müllsortierer/in
+9612000400018,Recyclingarbeiter/in
+9612000500018,Müllsammler/in
+9612010000000,Abfallsortierer/in
+9613000100018,Parkkehrer/in
+9613000200018,Hofkehrer/in
+9621000100018,Hoteldiener/in
+9621000200018,Handlieferant
+9621000300018,Liftwart
+9621000400018,Bote
+9621000500018,Nachläufer/in
+9621000600018,Telegraph Messenger/in
+9621010000000,Essensauslieferer/in
+9621020000000,Essensträger/in
+9621030000000,Gepäckträger/in
+9621050000000,Zeitungsausträger/in
+9621060000000,"Bote, Paketausträger/in"
+9621070000000,Golf-Caddie
+9621080000000,Kurierdienst
+9622000100018,Gelegenheitsarbeiter/in
+9622010000000,Handlanger/in
+9623000100018,Münzmessersammler/in
+9623000200018,Zählerableser/in
+9623000300016,Arbeiter für Energiemessung (Gas)
+9623010000000,"Ableser/in (Strom, Gas, Heizung)"
+9623020000000,"Automatenbefüller/in, Automatenkassierer/in"
+9623030000000,Automatenbefüller/in
+9624000100018,Wasserträger/in
+9624010000000,Wasser- oder Brennholzsammler/in
+9629000100018,Begleiter des Vergnügungsparks
+9629000200018,Plakatierer/in
+9629000300018,Bill Aufkleber/in
+9629000700018,Parkplatzwächter/in
+9629000800018,Theateraufseher/in
+9629000900018,Pförtner/in
+9629010000000,Fahrradschuppenwächter/in
+9629020000000,Parkwächter/in
+9629020000018,Hundewanderer/in
+9629030000000,Garderobenwärter/in
+9629060000000,Messemitarbeiter/in
+9629080000000,Freizeitparkmitarbeiter/in
+9629090000000,Parkaufsicht
+9629100000000,Kartenabreisser/in
+9629110000000,Eintreiber/in für Parkgebühren
+9629120000000,Theaterprogrammverkäufer/in
